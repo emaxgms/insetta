@@ -1,0 +1,11034 @@
+[
+  {
+    "name": "Casteddu/Cagliari",
+    "coordinates": [
+      39.2171994,
+      9.113311
+    ]
+  },
+  {
+    "name": "Nùgoro/Nuoro",
+    "coordinates": [
+      40.3210601,
+      9.3297339
+    ]
+  },
+  {
+    "name": "Carbonia",
+    "coordinates": [
+      39.165332,
+      8.527834
+    ]
+  },
+  {
+    "name": "Igrèsias/Iglesias",
+    "coordinates": [
+      39.3125402,
+      8.5341109
+    ]
+  },
+  {
+    "name": "Seddori/Sanluri",
+    "coordinates": [
+      39.562642,
+      8.898636
+    ]
+  },
+  {
+    "name": "Biddacidru/Villacidro",
+    "coordinates": [
+      39.4569925,
+      8.7367219
+    ]
+  },
+  {
+    "name": "Lanusè/Lanusei",
+    "coordinates": [
+      39.8792127,
+      9.5411469
+    ]
+  },
+  {
+    "name": "Tortolì",
+    "coordinates": [
+      39.9266045,
+      9.6591551
+    ]
+  },
+  {
+    "name": "Tèmpiu/Tempio Pausania",
+    "coordinates": [
+      40.8973821,
+      9.1035159
+    ]
+  },
+  {
+    "name": "Armùngia/Armungia",
+    "coordinates": [
+      39.521745,
+      9.381846
+    ]
+  },
+  {
+    "name": "Assèmini/Assemini",
+    "coordinates": [
+      39.291538,
+      9.001542
+    ]
+  },
+  {
+    "name": "Ballau/Ballao",
+    "coordinates": [
+      39.549746,
+      9.361545
+    ]
+  },
+  {
+    "name": "Barrali",
+    "coordinates": [
+      39.4752889,
+      9.1012726
+    ]
+  },
+  {
+    "name": "Cabuderra/Capoterra",
+    "coordinates": [
+      39.175313,
+      8.9719503
+    ]
+  },
+  {
+    "name": "Brucei/Burcei",
+    "coordinates": [
+      39.342642,
+      9.359548
+    ]
+  },
+  {
+    "name": "Deximumannu/Decimomannu",
+    "coordinates": [
+      39.311738,
+      8.968841
+    ]
+  },
+  {
+    "name": "U Pàize/Carloforte",
+    "coordinates": [
+      39.1454814,
+      8.306427
+    ]
+  },
+  {
+    "name": "Futei/Furtei",
+    "coordinates": [
+      39.5623694,
+      8.944739
+    ]
+  },
+  {
+    "name": "Patiolla/Dolianova",
+    "coordinates": [
+      39.378241,
+      9.178644
+    ]
+  },
+  {
+    "name": "Goni",
+    "coordinates": [
+      39.5781279,
+      9.2858792
+    ]
+  },
+  {
+    "name": "Gùspini/Guspini",
+    "coordinates": [
+      39.54134,
+      8.633131
+    ]
+  },
+  {
+    "name": "Guasila",
+    "coordinates": [
+      39.561843,
+      9.045439
+    ]
+  },
+  {
+    "name": "Muristenis/Monastir",
+    "coordinates": [
+      39.38474,
+      9.044841
+    ]
+  },
+  {
+    "name": "Maracalagonis",
+    "coordinates": [
+      39.28534,
+      9.229446
+    ]
+  },
+  {
+    "name": "Pramantellu/Pimentel",
+    "coordinates": [
+      39.485542,
+      9.06554
+    ]
+  },
+  {
+    "name": "Nuxis",
+    "coordinates": [
+      39.152933,
+      8.738139
+    ]
+  },
+  {
+    "name": "Cuartu Sant'Aleni/Quartu Sant'Elena",
+    "coordinates": [
+      39.2399728,
+      9.1880967
+    ]
+  },
+  {
+    "name": "Portescusi/Portoscuso",
+    "coordinates": [
+      39.207031,
+      8.380931
+    ]
+  },
+  {
+    "name": "Santu 'Asili 'e Monti/San Basilio",
+    "coordinates": [
+      39.537144,
+      9.198242
+    ]
+  },
+  {
+    "name": "Santu Sparau/San Sperate",
+    "coordinates": [
+      39.358739,
+      9.006741
+    ]
+  },
+  {
+    "name": "Samassi",
+    "coordinates": [
+      39.481341,
+      8.907637
+    ]
+  },
+  {
+    "name": "Samatzai",
+    "coordinates": [
+      39.483242,
+      9.03464
+    ]
+  },
+  {
+    "name": "Santu Idu/San Vito",
+    "coordinates": [
+      39.443245,
+      9.540751
+    ]
+  },
+  {
+    "name": "Sàrdara/Sardara",
+    "coordinates": [
+      39.616442,
+      8.820634
+    ]
+  },
+  {
+    "name": "Santadi",
+    "coordinates": [
+      39.091832,
+      8.716439
+    ]
+  },
+  {
+    "name": "Sant'Andria 'e Frius/Sant'Andrea Frius",
+    "coordinates": [
+      39.4778583,
+      9.1702544
+    ]
+  },
+  {
+    "name": "Senorbì",
+    "coordinates": [
+      39.535044,
+      9.130141
+    ]
+  },
+  {
+    "name": "Serramanna",
+    "coordinates": [
+      39.42404,
+      8.923138
+    ]
+  },
+  {
+    "name": "Sarrocu/Sarroch",
+    "coordinates": [
+      39.0655592,
+      9.0108295
+    ]
+  },
+  {
+    "name": "Ceraxus/Selargius",
+    "coordinates": [
+      39.2569736,
+      9.167555
+    ]
+  },
+  {
+    "name": "Seurgus Donigala/Siurgus Donigala",
+    "coordinates": [
+      39.600345,
+      9.189041
+    ]
+  },
+  {
+    "name": "Solèminis/Soleminis",
+    "coordinates": [
+      39.3479629,
+      9.1817083
+    ]
+  },
+  {
+    "name": "Serrenti",
+    "coordinates": [
+      39.4927706,
+      8.9752276
+    ]
+  },
+  {
+    "name": "Setzu",
+    "coordinates": [
+      39.722945,
+      8.939235
+    ]
+  },
+  {
+    "name": "Mara Arbarei/Villamar",
+    "coordinates": [
+      39.618044,
+      8.958837
+    ]
+  },
+  {
+    "name": "Biddaramosa/Vallermosa",
+    "coordinates": [
+      39.364438,
+      8.796337
+    ]
+  },
+  {
+    "name": "Ùssana/Ussana",
+    "coordinates": [
+      39.394641,
+      9.073242
+    ]
+  },
+  {
+    "name": "Tratalias",
+    "coordinates": [
+      39.1035305,
+      8.5789604
+    ]
+  },
+  {
+    "name": "Masainas",
+    "coordinates": [
+      39.0516236,
+      8.6305978
+    ]
+  },
+  {
+    "name": "Biddaspitziosa/Villaspeciosa",
+    "coordinates": [
+      39.312238,
+      8.92514
+    ]
+  },
+  {
+    "name": "Biddesorris/Villasor",
+    "coordinates": [
+      39.380439,
+      8.942839
+    ]
+  },
+  {
+    "name": "Biddanoa Franca/Villanovafranca",
+    "coordinates": [
+      39.6451828,
+      9.0013979
+    ]
+  },
+  {
+    "name": "Barùmini/Barumini",
+    "coordinates": [
+      39.701546,
+      9.002736
+    ]
+  },
+  {
+    "name": "Arbus",
+    "coordinates": [
+      39.525839,
+      8.597831
+    ]
+  },
+  {
+    "name": "Pauli/Monserrato",
+    "coordinates": [
+      39.2539413,
+      9.1432062
+    ]
+  },
+  {
+    "name": "Sa Baronia/Villaperuccio",
+    "coordinates": [
+      39.111832,
+      8.670038
+    ]
+  },
+  {
+    "name": "Deximeputzu/Decimoputzu",
+    "coordinates": [
+      39.335238,
+      8.91524
+    ]
+  },
+  {
+    "name": "Forru/Collinas",
+    "coordinates": [
+      39.6406306,
+      8.839875
+    ]
+  },
+  {
+    "name": "Bugerru/Buggerru",
+    "coordinates": [
+      39.3973967,
+      8.4021815
+    ]
+  },
+  {
+    "name": "Giauni/Genuri",
+    "coordinates": [
+      39.744246,
+      8.923334
+    ]
+  },
+  {
+    "name": "Gèsturi/Gesturi",
+    "coordinates": [
+      39.734146,
+      9.020536
+    ]
+  },
+  {
+    "name": "Giba",
+    "coordinates": [
+      39.071831,
+      8.635638
+    ]
+  },
+  {
+    "name": "Gonnesa",
+    "coordinates": [
+      39.2666261,
+      8.4717404
+    ]
+  },
+  {
+    "name": "Domus de Maria",
+    "coordinates": [
+      38.944031,
+      8.863544
+    ]
+  },
+  {
+    "name": "Domusnoas/Domusnovas",
+    "coordinates": [
+      39.324736,
+      8.648734
+    ]
+  },
+  {
+    "name": "Donori",
+    "coordinates": [
+      39.4317971,
+      9.1271532
+    ]
+  },
+  {
+    "name": "Frùmini Majori/Fluminimaggiore",
+    "coordinates": [
+      39.439237,
+      8.49793
+    ]
+  },
+  {
+    "name": "Mandas",
+    "coordinates": [
+      39.6562834,
+      9.1297852
+    ]
+  },
+  {
+    "name": "Murera/Muravera",
+    "coordinates": [
+      39.420945,
+      9.573551
+    ]
+  },
+  {
+    "name": "Musei",
+    "coordinates": [
+      39.302285,
+      8.6674064
+    ]
+  },
+  {
+    "name": "Narcau/Narcao",
+    "coordinates": [
+      39.1681654,
+      8.6747138
+    ]
+  },
+  {
+    "name": "Gonnos/Gonnosfanadiga",
+    "coordinates": [
+      39.4959151,
+      8.6623978
+    ]
+  },
+  {
+    "name": "Gomajori/Guamaggiore",
+    "coordinates": [
+      39.568644,
+      9.074039
+    ]
+  },
+  {
+    "name": "Is Pratzas/Las Plassas",
+    "coordinates": [
+      39.680145,
+      8.984936
+    ]
+  },
+  {
+    "name": "Lunamatrona",
+    "coordinates": [
+      39.650544,
+      8.899335
+    ]
+  },
+  {
+    "name": "Pula",
+    "coordinates": [
+      39.007433,
+      9.001646
+    ]
+  },
+  {
+    "name": "Perdaxius",
+    "coordinates": [
+      39.161033,
+      8.611436
+    ]
+  },
+  {
+    "name": "Santu Giuanni Suergiu/San Giovanni Suergiu",
+    "coordinates": [
+      39.1104039,
+      8.5219989
+    ]
+  },
+  {
+    "name": "Santu 'Èngiu/San Gavino Monreale",
+    "coordinates": [
+      39.550941,
+      8.791934
+    ]
+  },
+  {
+    "name": "Ortacesus",
+    "coordinates": [
+      39.5391475,
+      9.0835262
+    ]
+  },
+  {
+    "name": "Nuràminis/Nuraminis",
+    "coordinates": [
+      39.442941,
+      9.01474
+    ]
+  },
+  {
+    "name": "Pauli Arbarei",
+    "coordinates": [
+      39.660744,
+      8.922035
+    ]
+  },
+  {
+    "name": "Pabillonis/Pabillonis",
+    "coordinates": [
+      39.5911591,
+      8.7209531
+    ]
+  },
+  {
+    "name": "Serdiana",
+    "coordinates": [
+      39.374241,
+      9.158944
+    ]
+  },
+  {
+    "name": "Sèligas/Selegas",
+    "coordinates": [
+      39.567844,
+      9.10414
+    ]
+  },
+  {
+    "name": "Sètimu/Settimo San Pietro",
+    "coordinates": [
+      39.29174,
+      9.185145
+    ]
+  },
+  {
+    "name": "Sestu",
+    "coordinates": [
+      39.2999356,
+      9.0925928
+    ]
+  },
+  {
+    "name": "Arresi/Sant'Anna Arresi",
+    "coordinates": [
+      39.00183,
+      8.646339
+    ]
+  },
+  {
+    "name": "Pauli Gerrei/San Nicolò Gerrei",
+    "coordinates": [
+      39.497444,
+      9.307145
+    ]
+  },
+  {
+    "name": "Segariu",
+    "coordinates": [
+      39.564443,
+      8.981638
+    ]
+  },
+  {
+    "name": "Tuili",
+    "coordinates": [
+      39.7139877,
+      8.9603418
+    ]
+  },
+  {
+    "name": "Turri",
+    "coordinates": [
+      39.704845,
+      8.916534
+    ]
+  },
+  {
+    "name": "Sueddi/Suelli",
+    "coordinates": [
+      39.562744,
+      9.132141
+    ]
+  },
+  {
+    "name": "Teulada",
+    "coordinates": [
+      38.96743,
+      8.772242
+    ]
+  },
+  {
+    "name": "Silius",
+    "coordinates": [
+      39.516745,
+      9.293545
+    ]
+  },
+  {
+    "name": "Sìnnia/Sinnai",
+    "coordinates": [
+      39.3042403,
+      9.2035381
+    ]
+  },
+  {
+    "name": "Siddi",
+    "coordinates": [
+      39.6721984,
+      8.8883714
+    ]
+  },
+  {
+    "name": "Silìcua/Siliqua",
+    "coordinates": [
+      39.300237,
+      8.808738
+    ]
+  },
+  {
+    "name": "Santu Perdu/Villa San Pietro",
+    "coordinates": [
+      39.0340479,
+      8.995484
+    ]
+  },
+  {
+    "name": "Crabonaxa/Villasimius",
+    "coordinates": [
+      39.14314,
+      9.520854
+    ]
+  },
+  {
+    "name": "Biddeputzi/Villaputzu",
+    "coordinates": [
+      39.441045,
+      9.573951
+    ]
+  },
+  {
+    "name": "Biddesatu/Villasalto",
+    "coordinates": [
+      39.492145,
+      9.393047
+    ]
+  },
+  {
+    "name": "Bidda Matzràxia/Villamassargia",
+    "coordinates": [
+      39.2758994,
+      8.6404754
+    ]
+  },
+  {
+    "name": "Biddanoa de Forru/Villanovaforru",
+    "coordinates": [
+      39.631843,
+      8.869035
+    ]
+  },
+  {
+    "name": "Ussaramanna",
+    "coordinates": [
+      39.692845,
+      8.907634
+    ]
+  },
+  {
+    "name": "Uda/Uta",
+    "coordinates": [
+      39.2909789,
+      8.9542602
+    ]
+  },
+  {
+    "name": "Barì/Bari Sardo",
+    "coordinates": [
+      39.842053,
+      9.644147
+    ]
+  },
+  {
+    "name": "Austis",
+    "coordinates": [
+      40.070653,
+      9.087933
+    ]
+  },
+  {
+    "name": "Gàiru/Gairo Sant'Elena",
+    "coordinates": [
+      39.847052,
+      9.507244
+    ]
+  },
+  {
+    "name": "Su Masu/Elmas",
+    "coordinates": [
+      39.2680862,
+      9.0496306
+    ]
+  },
+  {
+    "name": "Castiadas",
+    "coordinates": [
+      39.2363591,
+      9.4992501
+    ]
+  },
+  {
+    "name": "Piscinas",
+    "coordinates": [
+      39.074431,
+      8.665938
+    ]
+  },
+  {
+    "name": "Cuartùciu/Quartucciu",
+    "coordinates": [
+      39.254139,
+      9.178846
+    ]
+  },
+  {
+    "name": "Flùssio/Flussio",
+    "coordinates": [
+      40.267452,
+      8.540219
+    ]
+  },
+  {
+    "name": "Iscroca/Escolca",
+    "coordinates": [
+      39.698446,
+      9.121539
+    ]
+  },
+  {
+    "name": "Dèsulu/Desulo",
+    "coordinates": [
+      40.0107563,
+      9.2282957
+    ]
+  },
+  {
+    "name": "Bòrore/Borore",
+    "coordinates": [
+      40.216854,
+      8.803725
+    ]
+  },
+  {
+    "name": "Bitzi/Bitti",
+    "coordinates": [
+      40.4790079,
+      9.3840378
+    ]
+  },
+  {
+    "name": "Baunei",
+    "coordinates": [
+      40.0323613,
+      9.6634049
+    ]
+  },
+  {
+    "name": "Nuradda/Nurallao",
+    "coordinates": [
+      39.7902781,
+      9.0807366
+    ]
+  },
+  {
+    "name": "Nuragus",
+    "coordinates": [
+      39.776247,
+      9.038136
+    ]
+  },
+  {
+    "name": "Ulìana/Oliena",
+    "coordinates": [
+      40.27226,
+      9.403036
+    ]
+  },
+  {
+    "name": "Nurri",
+    "coordinates": [
+      39.712048,
+      9.229841
+    ]
+  },
+  {
+    "name": "Ortzai/Olzai",
+    "coordinates": [
+      40.182856,
+      9.148332
+    ]
+  },
+  {
+    "name": "Ollollai/Ollolai",
+    "coordinates": [
+      40.168503,
+      9.178467
+    ]
+  },
+  {
+    "name": "Orane/Orani",
+    "coordinates": [
+      40.250174,
+      9.1798549
+    ]
+  },
+  {
+    "name": "Oniài/Onifai",
+    "coordinates": [
+      40.406964,
+      9.651339
+    ]
+  },
+  {
+    "name": "Ìsili/Isili",
+    "coordinates": [
+      39.7404048,
+      9.1085903
+    ]
+  },
+  {
+    "name": "Gelisuli/Girasole",
+    "coordinates": [
+      39.9517192,
+      9.6619603
+    ]
+  },
+  {
+    "name": "Lòcula/Loculi",
+    "coordinates": [
+      40.4072775,
+      9.6111604
+    ]
+  },
+  {
+    "name": "Magumadas/Magomadas",
+    "coordinates": [
+      40.264752,
+      8.522719
+    ]
+  },
+  {
+    "name": "Lùvula/Lula",
+    "coordinates": [
+      40.470364,
+      9.486435
+    ]
+  },
+  {
+    "name": "Noragugume",
+    "coordinates": [
+      40.224555,
+      8.920727
+    ]
+  },
+  {
+    "name": "Montresta",
+    "coordinates": [
+      40.3737726,
+      8.4996108
+    ]
+  },
+  {
+    "name": "Foghesu/Perdasdefogu",
+    "coordinates": [
+      39.6792178,
+      9.4400494
+    ]
+  },
+  {
+    "name": "Posada",
+    "coordinates": [
+      40.631969,
+      9.716437
+    ]
+  },
+  {
+    "name": "Sàgama/Sagama",
+    "coordinates": [
+      40.261552,
+      8.57752
+    ]
+  },
+  {
+    "name": "Santu Diadòru/San Teodoro",
+    "coordinates": [
+      40.7716378,
+      9.6704225
+    ]
+  },
+  {
+    "name": "Sarule",
+    "coordinates": [
+      40.2291198,
+      9.1673423
+    ]
+  },
+  {
+    "name": "Serri",
+    "coordinates": [
+      39.701747,
+      9.144139
+    ]
+  },
+  {
+    "name": "Seui",
+    "coordinates": [
+      39.840564,
+      9.3212295
+    ]
+  },
+  {
+    "name": "Silanos/Silanus",
+    "coordinates": [
+      40.2888641,
+      8.890493
+    ]
+  },
+  {
+    "name": "Orgòsolo/Orgosolo",
+    "coordinates": [
+      40.204758,
+      9.354936
+    ]
+  },
+  {
+    "name": "Orosei",
+    "coordinates": [
+      40.3791803,
+      9.6950141
+    ]
+  },
+  {
+    "name": "Arrolli/Orroli",
+    "coordinates": [
+      39.693547,
+      9.250341
+    ]
+  },
+  {
+    "name": "Ortueri",
+    "coordinates": [
+      40.0356425,
+      8.9872498
+    ]
+  },
+  {
+    "name": "Orune",
+    "coordinates": [
+      40.4075949,
+      9.3697392
+    ]
+  },
+  {
+    "name": "Osidde/Osidda",
+    "coordinates": [
+      40.523863,
+      9.219329
+    ]
+  },
+  {
+    "name": "Òsini/Osini",
+    "coordinates": [
+      39.822752,
+      9.496244
+    ]
+  },
+  {
+    "name": "Ovodda",
+    "coordinates": [
+      40.095654,
+      9.162334
+    ]
+  },
+  {
+    "name": "Cardedu",
+    "coordinates": [
+      39.7971841,
+      9.6247299
+    ]
+  },
+  {
+    "name": "Biddamanna Istrisàili/Villagrande Strisaili",
+    "coordinates": [
+      39.9613903,
+      9.5072721
+    ]
+  },
+  {
+    "name": "Orthullè/Urzulei",
+    "coordinates": [
+      40.0933379,
+      9.5080494
+    ]
+  },
+  {
+    "name": "Triei",
+    "coordinates": [
+      40.0371271,
+      9.6405028
+    ]
+  },
+  {
+    "name": "Bìroro/Birori",
+    "coordinates": [
+      40.2648596,
+      8.8174739
+    ]
+  },
+  {
+    "name": "Atzara",
+    "coordinates": [
+      39.992252,
+      9.075734
+    ]
+  },
+  {
+    "name": "Àrthana/Arzana",
+    "coordinates": [
+      39.9194634,
+      9.5270001
+    ]
+  },
+  {
+    "name": "Sune/Suni",
+    "coordinates": [
+      40.280853,
+      8.549419
+    ]
+  },
+  {
+    "name": "Sòrgono/Sorgono",
+    "coordinates": [
+      40.025952,
+      9.102034
+    ]
+  },
+  {
+    "name": "Thiniscole/Siniscola",
+    "coordinates": [
+      40.5731874,
+      9.693975
+    ]
+  },
+  {
+    "name": "Sindìa/Sindia",
+    "coordinates": [
+      40.2962162,
+      8.6562562
+    ]
+  },
+  {
+    "name": "Torpè",
+    "coordinates": [
+      40.627969,
+      9.677337
+    ]
+  },
+  {
+    "name": "Tinnura",
+    "coordinates": [
+      40.2690518,
+      8.5482204
+    ]
+  },
+  {
+    "name": "Tertenia",
+    "coordinates": [
+      39.6967569,
+      9.5776838
+    ]
+  },
+  {
+    "name": "Talana",
+    "coordinates": [
+      40.042056,
+      9.496541
+    ]
+  },
+  {
+    "name": "Gavoi",
+    "coordinates": [
+      40.161756,
+      9.195134
+    ]
+  },
+  {
+    "name": "Genoni",
+    "coordinates": [
+      39.794647,
+      9.008035
+    ]
+  },
+  {
+    "name": "Gadoni",
+    "coordinates": [
+      39.913451,
+      9.185837
+    ]
+  },
+  {
+    "name": "Garteddi/Galtellì",
+    "coordinates": [
+      40.3865886,
+      9.6143225
+    ]
+  },
+  {
+    "name": "Irgoli",
+    "coordinates": [
+      40.4088328,
+      9.6301207
+    ]
+  },
+  {
+    "name": "Jersu/Jerzu",
+    "coordinates": [
+      39.791151,
+      9.518445
+    ]
+  },
+  {
+    "name": "Gerxei/Gergei",
+    "coordinates": [
+      39.699646,
+      9.100438
+    ]
+  },
+  {
+    "name": "Irvonu/Ilbono",
+    "coordinates": [
+      39.892654,
+      9.548945
+    ]
+  },
+  {
+    "name": "Budune/Budoni",
+    "coordinates": [
+      40.7076313,
+      9.6994897
+    ]
+  },
+  {
+    "name": "Duarche/Dualchi",
+    "coordinates": [
+      40.228855,
+      8.896427
+    ]
+  },
+  {
+    "name": "Bolòtana/Bolotana",
+    "coordinates": [
+      40.325757,
+      8.961127
+    ]
+  },
+  {
+    "name": "Bortigali/Bortigale",
+    "coordinates": [
+      40.282855,
+      8.836225
+    ]
+  },
+  {
+    "name": "Istersili/Esterzili",
+    "coordinates": [
+      39.779149,
+      9.284741
+    ]
+  },
+  {
+    "name": "Fonni/'Onne",
+    "coordinates": [
+      40.118804,
+      9.2519707
+    ]
+  },
+  {
+    "name": "Elini",
+    "coordinates": [
+      39.8999005,
+      9.531347
+    ]
+  },
+  {
+    "name": "Scalepranu/Escalaplano",
+    "coordinates": [
+      39.626647,
+      9.357144
+    ]
+  },
+  {
+    "name": "Seulu/Seulo",
+    "coordinates": [
+      39.8704122,
+      9.2357358
+    ]
+  },
+  {
+    "name": "Sàdili/Sadali",
+    "coordinates": [
+      39.81325,
+      9.27194
+    ]
+  },
+  {
+    "name": "Tìana/Tiana",
+    "coordinates": [
+      40.068454,
+      9.147334
+    ]
+  },
+  {
+    "name": "Teti",
+    "coordinates": [
+      40.095754,
+      9.118133
+    ]
+  },
+  {
+    "name": "Onieri/Oniferi",
+    "coordinates": [
+      40.271958,
+      9.170332
+    ]
+  },
+  {
+    "name": "Onanìe/Onanì",
+    "coordinates": [
+      40.4853258,
+      9.441168
+    ]
+  },
+  {
+    "name": "Otzana/Ottana",
+    "coordinates": [
+      40.2334988,
+      9.0445989
+    ]
+  },
+  {
+    "name": "Mamujada/Mamoiada",
+    "coordinates": [
+      40.215657,
+      9.280435
+    ]
+  },
+  {
+    "name": "Macumere/Macomèr",
+    "coordinates": [
+      40.2651904,
+      8.7813868
+    ]
+  },
+  {
+    "name": "Meana/Meana Sardo",
+    "coordinates": [
+      39.944251,
+      9.072334
+    ]
+  },
+  {
+    "name": "Làconi/Laconi",
+    "coordinates": [
+      39.852649,
+      9.050435
+    ]
+  },
+  {
+    "name": "Lodè",
+    "coordinates": [
+      40.5913866,
+      9.5397954
+    ]
+  },
+  {
+    "name": "Loceri",
+    "coordinates": [
+      39.8566346,
+      9.5822088
+    ]
+  },
+  {
+    "name": "Bobadri/Baradili",
+    "coordinates": [
+      39.721345,
+      8.897434
+    ]
+  },
+  {
+    "name": "Baulau/Bauladu",
+    "coordinates": [
+      40.020549,
+      8.671925
+    ]
+  },
+  {
+    "name": "Bidoniu/Bidonì",
+    "coordinates": [
+      40.113053,
+      8.936429
+    ]
+  },
+  {
+    "name": "Boroneddu",
+    "coordinates": [
+      40.113052,
+      8.871028
+    ]
+  },
+  {
+    "name": "Arborea",
+    "coordinates": [
+      39.7738457,
+      8.5817533
+    ]
+  },
+  {
+    "name": "Ardaule/Ardauli",
+    "coordinates": [
+      40.084652,
+      8.911529
+    ]
+  },
+  {
+    "name": "Assolu/Assolo",
+    "coordinates": [
+      39.809947,
+      8.918233
+    ]
+  },
+  {
+    "name": "Asuni",
+    "coordinates": [
+      39.872448,
+      8.946433
+    ]
+  },
+  {
+    "name": "Lodine",
+    "coordinates": [
+      40.1480795,
+      9.2182943
+    ]
+  },
+  {
+    "name": "Abbasanta",
+    "coordinates": [
+      40.126752,
+      8.818027
+    ]
+  },
+  {
+    "name": "Abas/Ales",
+    "coordinates": [
+      39.768245,
+      8.815632
+    ]
+  },
+  {
+    "name": "Àllai/Allai",
+    "coordinates": [
+      39.957173,
+      8.8630765
+    ]
+  },
+  {
+    "name": "Tonara",
+    "coordinates": [
+      40.0251345,
+      9.173144
+    ]
+  },
+  {
+    "name": "Ulassa/Ulassai",
+    "coordinates": [
+      39.810552,
+      9.499045
+    ]
+  },
+  {
+    "name": "Ussassa/Ussassai",
+    "coordinates": [
+      39.810827,
+      9.3947865
+    ]
+  },
+  {
+    "name": "Biddanoa 'e Tulu/Villanova Tulo",
+    "coordinates": [
+      39.7803023,
+      9.2132055
+    ]
+  },
+  {
+    "name": "Simaba/Simala",
+    "coordinates": [
+      39.721644,
+      8.826732
+    ]
+  },
+  {
+    "name": "Sinnariolo/Sennariolo",
+    "coordinates": [
+      40.2126731,
+      8.5551782
+    ]
+  },
+  {
+    "name": "Sèneghe/Seneghe",
+    "coordinates": [
+      40.082249,
+      8.615723
+    ]
+  },
+  {
+    "name": "Santu Antoni Arruinas/Villa Sant'Antonio",
+    "coordinates": [
+      39.859148,
+      8.901532
+    ]
+  },
+  {
+    "name": "Arcidanu/San Nicolò d'Arcidano",
+    "coordinates": [
+      39.6833916,
+      8.6468751
+    ]
+  },
+  {
+    "name": "Arriora/Riola Sardo",
+    "coordinates": [
+      39.9941018,
+      8.5386732
+    ]
+  },
+  {
+    "name": "Pau",
+    "coordinates": [
+      39.791546,
+      8.802331
+    ]
+  },
+  {
+    "name": "Nurachi",
+    "coordinates": [
+      39.9733936,
+      8.5401647
+    ]
+  },
+  {
+    "name": "Nughedu Santa Itòria/Nughedu Santa Vittoria",
+    "coordinates": [
+      40.1020753,
+      8.953508
+    ]
+  },
+  {
+    "name": "Neunele/Neoneli",
+    "coordinates": [
+      40.064752,
+      8.94673
+    ]
+  },
+  {
+    "name": "Mragaxori/Morgongiori",
+    "coordinates": [
+      39.746644,
+      8.770131
+    ]
+  },
+  {
+    "name": "Milis",
+    "coordinates": [
+      40.050449,
+      8.637024
+    ]
+  },
+  {
+    "name": "Masuddas/Masullas",
+    "coordinates": [
+      39.6995595,
+      8.7827237
+    ]
+  },
+  {
+    "name": "Gonnonnò/Gonnosnò",
+    "coordinates": [
+      39.7611763,
+      8.8723284
+    ]
+  },
+  {
+    "name": "Busache/Busachi",
+    "coordinates": [
+      40.032651,
+      8.896729
+    ]
+  },
+  {
+    "name": "Cùllieri/Cuglieri",
+    "coordinates": [
+      40.1884721,
+      8.5674049
+    ]
+  },
+  {
+    "name": "Fordongianus",
+    "coordinates": [
+      39.994549,
+      8.809828
+    ]
+  },
+  {
+    "name": "Bonaccattu/Bonarcado",
+    "coordinates": [
+      40.09585,
+      8.657124
+    ]
+  },
+  {
+    "name": "Crabas/Cabras",
+    "coordinates": [
+      39.9303142,
+      8.5320543
+    ]
+  },
+  {
+    "name": "Boàtiri/Baratili San Pietro",
+    "coordinates": [
+      39.9928313,
+      8.5557841
+    ]
+  },
+  {
+    "name": "Aressa/Baressa",
+    "coordinates": [
+      39.712745,
+      8.875334
+    ]
+  },
+  {
+    "name": "Aidumajore/Aidomaggiore",
+    "coordinates": [
+      40.170753,
+      8.856527
+    ]
+  },
+  {
+    "name": "Ollasta Useddus/Albagiara",
+    "coordinates": [
+      39.787646,
+      8.862032
+    ]
+  },
+  {
+    "name": "Zeddiani",
+    "coordinates": [
+      39.989947,
+      8.595324
+    ]
+  },
+  {
+    "name": "Crucuris/Curcuris",
+    "coordinates": [
+      39.746145,
+      8.830632
+    ]
+  },
+  {
+    "name": "Useddus/Usellus",
+    "coordinates": [
+      39.809646,
+      8.850732
+    ]
+  },
+  {
+    "name": "Sorradile",
+    "coordinates": [
+      40.106453,
+      8.933029
+    ]
+  },
+  {
+    "name": "Tadasune/Tadasuni",
+    "coordinates": [
+      40.1104579,
+      8.8837442
+    ]
+  },
+  {
+    "name": "Sini",
+    "coordinates": [
+      39.754146,
+      8.904334
+    ]
+  },
+  {
+    "name": "Siris",
+    "coordinates": [
+      39.712644,
+      8.774832
+    ]
+  },
+  {
+    "name": "Siamajori/Siamaggiore",
+    "coordinates": [
+      39.950147,
+      8.636025
+    ]
+  },
+  {
+    "name": "Senis",
+    "coordinates": [
+      39.824147,
+      8.940033
+    ]
+  },
+  {
+    "name": "Sèdilo/Sedilo",
+    "coordinates": [
+      40.1731514,
+      8.9191225
+    ]
+  },
+  {
+    "name": "Iscanu/Scano di Montiferro",
+    "coordinates": [
+      40.2163299,
+      8.584092
+    ]
+  },
+  {
+    "name": "Terraba/Terralba",
+    "coordinates": [
+      39.7203011,
+      8.6361253
+    ]
+  },
+  {
+    "name": "Sabarussa/Solarussa",
+    "coordinates": [
+      39.955747,
+      8.671526
+    ]
+  },
+  {
+    "name": "Simaghis/Simaxis",
+    "coordinates": [
+      39.930347,
+      8.692127
+    ]
+  },
+  {
+    "name": "Siamanna",
+    "coordinates": [
+      39.920782,
+      8.7610449
+    ]
+  },
+  {
+    "name": "Biddanoa Truschedu/Villanova Truschedu",
+    "coordinates": [
+      39.988649,
+      8.752027
+    ]
+  },
+  {
+    "name": "Uras",
+    "coordinates": [
+      39.700643,
+      8.70003
+    ]
+  },
+  {
+    "name": "Ula/Ulà Tirso",
+    "coordinates": [
+      40.045951,
+      8.904029
+    ]
+  },
+  {
+    "name": "Tresnuraghes",
+    "coordinates": [
+      40.2521042,
+      8.5199603
+    ]
+  },
+  {
+    "name": "Siapicia/Siapiccia",
+    "coordinates": [
+      39.927948,
+      8.762128
+    ]
+  },
+  {
+    "name": "Zrofolliu/Zerfaliu",
+    "coordinates": [
+      39.9588438,
+      8.7085548
+    ]
+  },
+  {
+    "name": "Bàini/Villa Verde",
+    "coordinates": [
+      39.795246,
+      8.821131
+    ]
+  },
+  {
+    "name": "Biddobrana/Villaurbana",
+    "coordinates": [
+      39.885647,
+      8.777429
+    ]
+  },
+  {
+    "name": "Marrùbiu/Marrubiu",
+    "coordinates": [
+      39.752143,
+      8.637228
+    ]
+  },
+  {
+    "name": "Mogoredda/Mogorella",
+    "coordinates": [
+      39.8645981,
+      8.8579312
+    ]
+  },
+  {
+    "name": "Ilartzi/Ghilarza",
+    "coordinates": [
+      40.119652,
+      8.834927
+    ]
+  },
+  {
+    "name": "Norghiddo/Norbello",
+    "coordinates": [
+      40.134752,
+      8.832027
+    ]
+  },
+  {
+    "name": "Nureci",
+    "coordinates": [
+      39.823348,
+      8.973834
+    ]
+  },
+  {
+    "name": "Narabuia/Narbolia",
+    "coordinates": [
+      40.0476498,
+      8.5751691
+    ]
+  },
+  {
+    "name": "Paulle/Paulilatino",
+    "coordinates": [
+      40.0840316,
+      8.7639366
+    ]
+  },
+  {
+    "name": "Arruinas/Ruinas",
+    "coordinates": [
+      39.907148,
+      8.897631
+    ]
+  },
+  {
+    "name": "Ollasta/Ollastra",
+    "coordinates": [
+      39.950948,
+      8.734227
+    ]
+  },
+  {
+    "name": "Prammas/Palmas Arborea",
+    "coordinates": [
+      39.8768395,
+      8.6424779
+    ]
+  },
+  {
+    "name": "Santu Lussurzu/Santu Lussurgiu",
+    "coordinates": [
+      40.1416861,
+      8.651038
+    ]
+  },
+  {
+    "name": "Santeru/San Vero Milis",
+    "coordinates": [
+      40.014548,
+      8.598224
+    ]
+  },
+  {
+    "name": "Samugheo",
+    "coordinates": [
+      39.94615,
+      8.940532
+    ]
+  },
+  {
+    "name": "Santa Justa/Santa Giusta",
+    "coordinates": [
+      39.8781783,
+      8.6099732
+    ]
+  },
+  {
+    "name": "Cherèmule/Cheremule",
+    "coordinates": [
+      40.506358,
+      8.725319
+    ]
+  },
+  {
+    "name": "Bultzi/Bulzi",
+    "coordinates": [
+      40.847366,
+      8.830016
+    ]
+  },
+  {
+    "name": "Cossoine",
+    "coordinates": [
+      40.4309503,
+      8.7149195
+    ]
+  },
+  {
+    "name": "Tzaramonte/Chiaramonti",
+    "coordinates": [
+      40.749064,
+      8.818618
+    ]
+  },
+  {
+    "name": "Maltis/Martis",
+    "coordinates": [
+      40.778664,
+      8.808117
+    ]
+  },
+  {
+    "name": "Giave",
+    "coordinates": [
+      40.451958,
+      8.752221
+    ]
+  },
+  {
+    "name": "Mores",
+    "coordinates": [
+      40.54836,
+      8.831221
+    ]
+  },
+  {
+    "name": "Òsile/Osilo",
+    "coordinates": [
+      40.744063,
+      8.671115
+    ]
+  },
+  {
+    "name": "Muros",
+    "coordinates": [
+      40.678061,
+      8.617315
+    ]
+  },
+  {
+    "name": "Pàdria/Padria",
+    "coordinates": [
+      40.396355,
+      8.629919
+    ]
+  },
+  {
+    "name": "Ossi",
+    "coordinates": [
+      40.67486,
+      8.591714
+    ]
+  },
+  {
+    "name": "Pèifugas/Perfugas",
+    "coordinates": [
+      40.833366,
+      8.882818
+    ]
+  },
+  {
+    "name": "Lu Palau/Palau",
+    "coordinates": [
+      41.1810758,
+      9.3820424
+    ]
+  },
+  {
+    "name": "Posthudorra/Porto Torres",
+    "coordinates": [
+      40.8370333,
+      8.4013292
+    ]
+  },
+  {
+    "name": "Piaghe/Ploaghe",
+    "coordinates": [
+      40.664262,
+      8.741817
+    ]
+  },
+  {
+    "name": "Soddie/Soddì",
+    "coordinates": [
+      40.130453,
+      8.878428
+    ]
+  },
+  {
+    "name": "Pompu",
+    "coordinates": [
+      39.724544,
+      8.795432
+    ]
+  },
+  {
+    "name": "Nughedu Santu Nigola/Nughedu San Nicolò",
+    "coordinates": [
+      40.5565081,
+      9.021463
+    ]
+  },
+  {
+    "name": "La Trinitai e Vignola/Trinità d'Agultu e Vignola",
+    "coordinates": [
+      40.983769,
+      8.915616
+    ]
+  },
+  {
+    "name": "Codaruina/Valledoria",
+    "coordinates": [
+      40.928283,
+      8.8245837
+    ]
+  },
+  {
+    "name": "Agghju/Aggius",
+    "coordinates": [
+      40.9293453,
+      9.0652223
+    ]
+  },
+  {
+    "name": "S'Aliguera/l'Alguer/Alghero",
+    "coordinates": [
+      40.5587291,
+      8.3153206
+    ]
+  },
+  {
+    "name": "Anela",
+    "coordinates": [
+      40.44176,
+      9.057427
+    ]
+  },
+  {
+    "name": "Benetutti",
+    "coordinates": [
+      40.456461,
+      9.168829
+    ]
+  },
+  {
+    "name": "Belchidda/Berchidda",
+    "coordinates": [
+      40.784067,
+      9.164524
+    ]
+  },
+  {
+    "name": "Bessude",
+    "coordinates": [
+      40.553852,
+      8.7299524
+    ]
+  },
+  {
+    "name": "Bunnànnaru/Bonnanaro",
+    "coordinates": [
+      40.533359,
+      8.76442
+    ]
+  },
+  {
+    "name": "Bono",
+    "coordinates": [
+      40.4168302,
+      9.0299928
+    ]
+  },
+  {
+    "name": "Bultiggjata/Bortigiadas",
+    "coordinates": [
+      40.8913511,
+      9.0430579
+    ]
+  },
+  {
+    "name": "Uddusò/Buddusò",
+    "coordinates": [
+      40.578064,
+      9.258129
+    ]
+  },
+  {
+    "name": "Carzeghe/Cargeghe",
+    "coordinates": [
+      40.669461,
+      8.614515
+    ]
+  },
+  {
+    "name": "Caragnani/Calangianus",
+    "coordinates": [
+      40.9197741,
+      9.1948191
+    ]
+  },
+  {
+    "name": "Su Burgu/Burgos",
+    "coordinates": [
+      40.3899781,
+      8.9953354
+    ]
+  },
+  {
+    "name": "Urtei/Bultei",
+    "coordinates": [
+      40.4562109,
+      9.0644445
+    ]
+  },
+  {
+    "name": "Bottidda",
+    "coordinates": [
+      40.391459,
+      9.008527
+    ]
+  },
+  {
+    "name": "Boruta/Borutta",
+    "coordinates": [
+      40.522359,
+      8.743519
+    ]
+  },
+  {
+    "name": "Bonolva/Bonorva",
+    "coordinates": [
+      40.418757,
+      8.768121
+    ]
+  },
+  {
+    "name": "Bànari/Banari",
+    "coordinates": [
+      40.5729271,
+      8.6973713
+    ]
+  },
+  {
+    "name": "Laerru",
+    "coordinates": [
+      40.817065,
+      8.835417
+    ]
+  },
+  {
+    "name": "Ìtiri Cannedu/Ittiri",
+    "coordinates": [
+      40.5923312,
+      8.5688952
+    ]
+  },
+  {
+    "name": "Itireddu/Ittireddu",
+    "coordinates": [
+      40.543961,
+      8.902322
+    ]
+  },
+  {
+    "name": "Illorai",
+    "coordinates": [
+      40.353858,
+      9.001027
+    ]
+  },
+  {
+    "name": "Fiolinas/Florinas",
+    "coordinates": [
+      40.649561,
+      8.665116
+    ]
+  },
+  {
+    "name": "Isporlatu/Esporlatu",
+    "coordinates": [
+      40.3866072,
+      8.9897133
+    ]
+  },
+  {
+    "name": "Codronzanu/Codrongianos",
+    "coordinates": [
+      40.657261,
+      8.679816
+    ]
+  },
+  {
+    "name": "Castheddu/Castelsardo",
+    "coordinates": [
+      40.910466,
+      8.718313
+    ]
+  },
+  {
+    "name": "Tissi",
+    "coordinates": [
+      40.677673,
+      8.5626999
+    ]
+  },
+  {
+    "name": "Tula",
+    "coordinates": [
+      40.732465,
+      8.983921
+    ]
+  },
+  {
+    "name": "Sìligo/Siligo",
+    "coordinates": [
+      40.5764803,
+      8.727273
+    ]
+  },
+  {
+    "name": "Sòssu/Sorso",
+    "coordinates": [
+      40.7965949,
+      8.5778501
+    ]
+  },
+  {
+    "name": "Semèstene/Semestene",
+    "coordinates": [
+      40.398456,
+      8.725421
+    ]
+  },
+  {
+    "name": "Sènnaru/Sennori",
+    "coordinates": [
+      40.7894457,
+      8.5916589
+    ]
+  },
+  {
+    "name": "Potuvigari/Putifigari",
+    "coordinates": [
+      40.562257,
+      8.461113
+    ]
+  },
+  {
+    "name": "Aglientu",
+    "coordinates": [
+      41.079573,
+      9.112719
+    ]
+  },
+  {
+    "name": "Àldara/Ardara",
+    "coordinates": [
+      40.621761,
+      8.810319
+    ]
+  },
+  {
+    "name": "Alzachèna/Arzachena",
+    "coordinates": [
+      41.079898,
+      9.3876122
+    ]
+  },
+  {
+    "name": "Patru/Padru",
+    "coordinates": [
+      40.76577,
+      9.520232
+    ]
+  },
+  {
+    "name": "Alà/Alà dei Sardi",
+    "coordinates": [
+      40.650066,
+      9.327829
+    ]
+  },
+  {
+    "name": "Badesi",
+    "coordinates": [
+      40.965069,
+      8.884216
+    ]
+  },
+  {
+    "name": "Cuzina/Santa Maria Coghinas",
+    "coordinates": [
+      40.904267,
+      8.868616
+    ]
+  },
+  {
+    "name": "Uri",
+    "coordinates": [
+      40.639459,
+      8.485412
+    ]
+  },
+  {
+    "name": "Ùsini/Usini",
+    "coordinates": [
+      40.66406,
+      8.540513
+    ]
+  },
+  {
+    "name": "Sant'Antoni di Gaddura/Sant'Antonio di Gallura",
+    "coordinates": [
+      40.9916247,
+      9.3011094
+    ]
+  },
+  {
+    "name": "Fìgari/Golfo Aranci",
+    "coordinates": [
+      41.006476,
+      9.61453
+    ]
+  },
+  {
+    "name": "Erula",
+    "coordinates": [
+      40.791166,
+      8.942219
+    ]
+  },
+  {
+    "name": "Zelgu/Tergu",
+    "coordinates": [
+      40.867465,
+      8.716714
+    ]
+  },
+  {
+    "name": "Biddanoa Monteleone/Villanova Monteleone",
+    "coordinates": [
+      40.5036564,
+      8.4708073
+    ]
+  },
+  {
+    "name": "Turalva/Torralba",
+    "coordinates": [
+      40.512959,
+      8.76532
+    ]
+  },
+  {
+    "name": "Vidda Eccia/Viddalba",
+    "coordinates": [
+      40.9167765,
+      8.8943626
+    ]
+  },
+  {
+    "name": "Telti",
+    "coordinates": [
+      40.876371,
+      9.352827
+    ]
+  },
+  {
+    "name": "Isthintini/Stintino",
+    "coordinates": [
+      40.939162,
+      8.225503
+    ]
+  },
+  {
+    "name": "Monte/Monti",
+    "coordinates": [
+      40.805969,
+      9.325527
+    ]
+  },
+  {
+    "name": "Nule",
+    "coordinates": [
+      40.461561,
+      9.189829
+    ]
+  },
+  {
+    "name": "Nujvi/Nulvi",
+    "coordinates": [
+      40.783764,
+      8.743716
+    ]
+  },
+  {
+    "name": "S'Ulumedu/Olmedo",
+    "coordinates": [
+      40.651558,
+      8.38021
+    ]
+  },
+  {
+    "name": "Madalena/La Maddalena",
+    "coordinates": [
+      41.2127826,
+      9.4066598
+    ]
+  },
+  {
+    "name": "Luris/Luras",
+    "coordinates": [
+      40.9348579,
+      9.1754471
+    ]
+  },
+  {
+    "name": "Mara",
+    "coordinates": [
+      40.409556,
+      8.638819
+    ]
+  },
+  {
+    "name": "Rumana/Romana",
+    "coordinates": [
+      40.484057,
+      8.587417
+    ]
+  },
+  {
+    "name": "Lungoni/Santa Teresa Gallura",
+    "coordinates": [
+      41.241377,
+      9.188518
+    ]
+  },
+  {
+    "name": "Séddini/Sedini",
+    "coordinates": [
+      40.852266,
+      8.815716
+    ]
+  },
+  {
+    "name": "Thiesi",
+    "coordinates": [
+      40.524859,
+      8.716419
+    ]
+  },
+  {
+    "name": "Oscheri/Oschiri",
+    "coordinates": [
+      40.719766,
+      9.101024
+    ]
+  },
+  {
+    "name": "Otieri/Ozieri",
+    "coordinates": [
+      40.5859373,
+      9.0010431
+    ]
+  },
+  {
+    "name": "Patada/Pattada",
+    "coordinates": [
+      40.581763,
+      9.112926
+    ]
+  },
+  {
+    "name": "Putumajore/Pozzomaggiore",
+    "coordinates": [
+      40.398756,
+      8.660219
+    ]
+  },
+  {
+    "name": "Le Vecchie Saline",
+    "coordinates": [
+      40.9043104,
+      9.5734198
+    ]
+  },
+  {
+    "name": "Murta Maria",
+    "coordinates": [
+      40.8888003,
+      9.5891506
+    ]
+  },
+  {
+    "name": "Poltu San Pàulu/Porto San Paolo",
+    "coordinates": [
+      40.8763052,
+      9.6294901
+    ]
+  },
+  {
+    "name": "I Fari",
+    "coordinates": [
+      40.8807996,
+      9.6315658
+    ]
+  },
+  {
+    "name": "Sottomonte",
+    "coordinates": [
+      40.9829776,
+      9.5747722
+    ]
+  },
+  {
+    "name": "Tanaunella",
+    "coordinates": [
+      40.6851747,
+      9.725774
+    ]
+  },
+  {
+    "name": "Santa Lucia",
+    "coordinates": [
+      40.581875,
+      9.7781512
+    ]
+  },
+  {
+    "name": "La Caletta",
+    "coordinates": [
+      40.6098688,
+      9.7497467
+    ]
+  },
+  {
+    "name": "San Giovanni",
+    "coordinates": [
+      40.619256,
+      9.7443499
+    ]
+  },
+  {
+    "name": "S'Ena 'e sa Chitta",
+    "coordinates": [
+      40.5530434,
+      9.7916012
+    ]
+  },
+  {
+    "name": "Capo Comino",
+    "coordinates": [
+      40.535383,
+      9.7921685
+    ]
+  },
+  {
+    "name": "Cala Gonone",
+    "coordinates": [
+      40.2820879,
+      9.6343396
+    ]
+  },
+  {
+    "name": "Centro Commerciale Terranova",
+    "coordinates": [
+      40.9610728,
+      9.4920071
+    ]
+  },
+  {
+    "name": "Coda Cavallo - Villaggio Est",
+    "coordinates": [
+      40.8404166,
+      9.7156485
+    ]
+  },
+  {
+    "name": "Puntaldìa",
+    "coordinates": [
+      40.8140434,
+      9.6854304
+    ]
+  },
+  {
+    "name": "Lollove",
+    "coordinates": [
+      40.365087,
+      9.3324666
+    ]
+  },
+  {
+    "name": "Brutzesos",
+    "coordinates": [
+      40.6581143,
+      9.7267518
+    ]
+  },
+  {
+    "name": "Sas Murtas",
+    "coordinates": [
+      40.6719138,
+      9.6965417
+    ]
+  },
+  {
+    "name": "Baia Sant'Anna",
+    "coordinates": [
+      40.6852998,
+      9.7440079
+    ]
+  },
+  {
+    "name": "Matta 'e Peru",
+    "coordinates": [
+      40.6660914,
+      9.7470255
+    ]
+  },
+  {
+    "name": "Montelongu",
+    "coordinates": [
+      40.6189726,
+      9.7324566
+    ]
+  },
+  {
+    "name": "Su Tiriarzu",
+    "coordinates": [
+      40.6307087,
+      9.7393114
+    ]
+  },
+  {
+    "name": "Gappotto",
+    "coordinates": [
+      40.6549535,
+      9.7176775
+    ]
+  },
+  {
+    "name": "Biddanoa",
+    "coordinates": [
+      40.6246355,
+      9.6752557
+    ]
+  },
+  {
+    "name": "Santa Caterina",
+    "coordinates": [
+      40.6288046,
+      9.6961984
+    ]
+  },
+  {
+    "name": "Concas",
+    "coordinates": [
+      40.6493476,
+      9.5656016
+    ]
+  },
+  {
+    "name": "Porto Ainu",
+    "coordinates": [
+      40.6908171,
+      9.7372913
+    ]
+  },
+  {
+    "name": "Limpiddu",
+    "coordinates": [
+      40.6906596,
+      9.7066697
+    ]
+  },
+  {
+    "name": "Porto Rotondo",
+    "coordinates": [
+      41.0283101,
+      9.5477055
+    ]
+  },
+  {
+    "name": "Trudda",
+    "coordinates": [
+      40.8426909,
+      9.5429244
+    ]
+  },
+  {
+    "name": "Montilittu",
+    "coordinates": [
+      40.8399313,
+      9.521501
+    ]
+  },
+  {
+    "name": "Castagna",
+    "coordinates": [
+      40.8408923,
+      9.5544085
+    ]
+  },
+  {
+    "name": "Pittulongu",
+    "coordinates": [
+      40.9489027,
+      9.5736584
+    ]
+  },
+  {
+    "name": "Villanova Strisaili",
+    "coordinates": [
+      39.9612131,
+      9.4646278
+    ]
+  },
+  {
+    "name": "Santa Maria Navarrese",
+    "coordinates": [
+      39.9897097,
+      9.6872671
+    ]
+  },
+  {
+    "name": "Su Spantu 2",
+    "coordinates": [
+      39.1327738,
+      9.0067935
+    ]
+  },
+  {
+    "name": "Is Molas",
+    "coordinates": [
+      38.996004,
+      8.9601703
+    ]
+  },
+  {
+    "name": "Rio San Girolamo",
+    "coordinates": [
+      39.1431752,
+      9.0069153
+    ]
+  },
+  {
+    "name": "Tamarispa",
+    "coordinates": [
+      40.6797044,
+      9.6660207
+    ]
+  },
+  {
+    "name": "Brunella",
+    "coordinates": [
+      40.6891211,
+      9.6366209
+    ]
+  },
+  {
+    "name": "La Ciaccia",
+    "coordinates": [
+      40.916321,
+      8.7791215
+    ]
+  },
+  {
+    "name": "Talava",
+    "coordinates": [
+      40.6827421,
+      9.6329579
+    ]
+  },
+  {
+    "name": "S'Iscala",
+    "coordinates": [
+      40.6809977,
+      9.7142334
+    ]
+  },
+  {
+    "name": "Olia Speciosa",
+    "coordinates": [
+      39.2789409,
+      9.5280669
+    ]
+  },
+  {
+    "name": "Baja Sardinia",
+    "coordinates": [
+      41.1370937,
+      9.478708
+    ]
+  },
+  {
+    "name": "Mucchi Bianchi",
+    "coordinates": [
+      41.1308594,
+      9.4770997
+    ]
+  },
+  {
+    "name": "Cala Bitta",
+    "coordinates": [
+      41.1246543,
+      9.4706119
+    ]
+  },
+  {
+    "name": "Porto Cervo",
+    "coordinates": [
+      41.1318983,
+      9.5353646
+    ]
+  },
+  {
+    "name": "Solanas",
+    "coordinates": [
+      39.1375112,
+      9.4299607
+    ]
+  },
+  {
+    "name": "San Giovanni di Sinis",
+    "coordinates": [
+      39.8831506,
+      8.4375614
+    ]
+  },
+  {
+    "name": "Turrimanna/Torregrande",
+    "coordinates": [
+      39.9069413,
+      8.5166164
+    ]
+  },
+  {
+    "name": "Primo Maggio",
+    "coordinates": [
+      39.9491694,
+      9.0667146
+    ]
+  },
+  {
+    "name": "Teliseri",
+    "coordinates": [
+      40.0225657,
+      9.1787577
+    ]
+  },
+  {
+    "name": "Chia",
+    "coordinates": [
+      38.9105708,
+      8.8818501
+    ]
+  },
+  {
+    "name": "Eden Rock",
+    "coordinates": [
+      38.9313319,
+      8.9052253
+    ]
+  },
+  {
+    "name": "Perda Longa",
+    "coordinates": [
+      38.8914325,
+      8.8258132
+    ]
+  },
+  {
+    "name": "Santa Margherita di Pula",
+    "coordinates": [
+      38.9581039,
+      8.9592681
+    ]
+  },
+  {
+    "name": "Sa Pinnetta",
+    "coordinates": [
+      38.8919267,
+      8.8289201
+    ]
+  },
+  {
+    "name": "Setti Ballas",
+    "coordinates": [
+      38.8981194,
+      8.8672661
+    ]
+  },
+  {
+    "name": "Tasonis",
+    "coordinates": [
+      39.3073257,
+      9.2721705
+    ]
+  },
+  {
+    "name": "San Gregorio",
+    "coordinates": [
+      39.302231,
+      9.3647465
+    ]
+  },
+  {
+    "name": "Villaggio Delle Mimose",
+    "coordinates": [
+      39.2873636,
+      9.3509664
+    ]
+  },
+  {
+    "name": "San Basilio",
+    "coordinates": [
+      39.2842045,
+      9.3369053
+    ]
+  },
+  {
+    "name": "Torre delle Stelle",
+    "coordinates": [
+      39.148854,
+      9.3991891
+    ]
+  },
+  {
+    "name": "Pozzo San Nicola",
+    "coordinates": [
+      40.8368166,
+      8.2447891
+    ]
+  },
+  {
+    "name": "La Scalitta",
+    "coordinates": [
+      40.9902069,
+      8.8885918
+    ]
+  },
+  {
+    "name": "Paduledda",
+    "coordinates": [
+      40.9980068,
+      8.8988657
+    ]
+  },
+  {
+    "name": "Isola Rossa",
+    "coordinates": [
+      41.0129142,
+      8.874985
+    ]
+  },
+  {
+    "name": "Su Cossu",
+    "coordinates": [
+      40.6743377,
+      9.6002833
+    ]
+  },
+  {
+    "name": "Sos Rios",
+    "coordinates": [
+      40.6846003,
+      9.5904529
+    ]
+  },
+  {
+    "name": "Cannigione",
+    "coordinates": [
+      41.1078223,
+      9.4397872
+    ]
+  },
+  {
+    "name": "La Conia",
+    "coordinates": [
+      41.1252654,
+      9.4376125
+    ]
+  },
+  {
+    "name": "Porto Pozzo / Lu Puzzu",
+    "coordinates": [
+      41.1934068,
+      9.2683799
+    ]
+  },
+  {
+    "name": "Porto Pollo",
+    "coordinates": [
+      41.1854211,
+      9.3271123
+    ]
+  },
+  {
+    "name": "Barrabisa",
+    "coordinates": [
+      41.1798125,
+      9.3206112
+    ]
+  },
+  {
+    "name": "Costa Serena",
+    "coordinates": [
+      41.1949559,
+      9.343518
+    ]
+  },
+  {
+    "name": "Bassacutena",
+    "coordinates": [
+      41.1088107,
+      9.2598687
+    ]
+  },
+  {
+    "name": "La Ficaccia",
+    "coordinates": [
+      41.2409942,
+      9.2173733
+    ]
+  },
+  {
+    "name": "La Marmorata",
+    "coordinates": [
+      41.2482379,
+      9.2333908
+    ]
+  },
+  {
+    "name": "Marazzino",
+    "coordinates": [
+      41.2309904,
+      9.2146194
+    ]
+  },
+  {
+    "name": "Valle dell'Erica",
+    "coordinates": [
+      41.2247276,
+      9.2761887
+    ]
+  },
+  {
+    "name": "Nuchis",
+    "coordinates": [
+      40.9174735,
+      9.1523009
+    ]
+  },
+  {
+    "name": "San Pasquale / Santu Pascali",
+    "coordinates": [
+      41.1672507,
+      9.2784371
+    ]
+  },
+  {
+    "name": "San Pantaleo",
+    "coordinates": [
+      41.0467078,
+      9.4672873
+    ]
+  },
+  {
+    "name": "Tanca Manna",
+    "coordinates": [
+      41.1315699,
+      9.4322409
+    ]
+  },
+  {
+    "name": "San Pietro a Mare",
+    "coordinates": [
+      40.9286634,
+      8.8007156
+    ]
+  },
+  {
+    "name": "Porto Pino",
+    "coordinates": [
+      38.965467,
+      8.5953391
+    ]
+  },
+  {
+    "name": "Poltu Quatu",
+    "coordinates": [
+      41.1353576,
+      9.4970048
+    ]
+  },
+  {
+    "name": "Conca Verde",
+    "coordinates": [
+      41.2138891,
+      9.276607
+    ]
+  },
+  {
+    "name": "Capannaccia",
+    "coordinates": [
+      41.1697529,
+      9.3214817
+    ]
+  },
+  {
+    "name": "Le Saline",
+    "coordinates": [
+      41.1633608,
+      9.4077239
+    ]
+  },
+  {
+    "name": "Capo d'Orso",
+    "coordinates": [
+      41.1714467,
+      9.4169231
+    ]
+  },
+  {
+    "name": "Tancau sul Mare",
+    "coordinates": [
+      39.9847156,
+      9.6830748
+    ]
+  },
+  {
+    "name": "Porto Alabe",
+    "coordinates": [
+      40.2498047,
+      8.4775714
+    ]
+  },
+  {
+    "name": "Argentiera",
+    "coordinates": [
+      40.7376671,
+      8.148171
+    ]
+  },
+  {
+    "name": "Putzu Idu",
+    "coordinates": [
+      40.0240303,
+      8.4098033
+    ]
+  },
+  {
+    "name": "S' Arena Scoada",
+    "coordinates": [
+      40.0183434,
+      8.4149529
+    ]
+  },
+  {
+    "name": "Mandriola",
+    "coordinates": [
+      40.0341906,
+      8.3973017
+    ]
+  },
+  {
+    "name": "Massama",
+    "coordinates": [
+      39.9430349,
+      8.6049735
+    ]
+  },
+  {
+    "name": "Sant'Eru de Còngius/San Vero Congius",
+    "coordinates": [
+      39.9383662,
+      8.7172701
+    ]
+  },
+  {
+    "name": "Torre del Pozzo",
+    "coordinates": [
+      40.0851686,
+      8.4918637
+    ]
+  },
+  {
+    "name": "Torre di Bari",
+    "coordinates": [
+      39.8302289,
+      9.6799429
+    ]
+  },
+  {
+    "name": "Fertilia",
+    "coordinates": [
+      40.5935976,
+      8.284527
+    ]
+  },
+  {
+    "name": "San Salvatore",
+    "coordinates": [
+      39.9209691,
+      8.4517904
+    ]
+  },
+  {
+    "name": "Nuraxinieddu",
+    "coordinates": [
+      39.9346186,
+      8.5960346
+    ]
+  },
+  {
+    "name": "Funtana Meiga",
+    "coordinates": [
+      39.8961446,
+      8.4233081
+    ]
+  },
+  {
+    "name": "Donigala Fenughedu",
+    "coordinates": [
+      39.9356611,
+      8.5732444
+    ]
+  },
+  {
+    "name": "Solanas",
+    "coordinates": [
+      39.9315259,
+      8.553107
+    ]
+  },
+  {
+    "name": "Stagnali",
+    "coordinates": [
+      41.1977395,
+      9.4544609
+    ]
+  },
+  {
+    "name": "San Benedetto",
+    "coordinates": [
+      39.3627665,
+      8.5276226
+    ]
+  },
+  {
+    "name": "Porto Botte",
+    "coordinates": [
+      39.0448769,
+      8.5669481
+    ]
+  },
+  {
+    "name": "Masua",
+    "coordinates": [
+      39.3314552,
+      8.4323177
+    ]
+  },
+  {
+    "name": "Nebida",
+    "coordinates": [
+      39.3118941,
+      8.4372548
+    ]
+  },
+  {
+    "name": "Sant'Angelo",
+    "coordinates": [
+      39.3800862,
+      8.4942124
+    ]
+  },
+  {
+    "name": "Cala d'Oliva",
+    "coordinates": [
+      41.0830179,
+      8.3348298
+    ]
+  },
+  {
+    "name": "Santa Maria La Palma",
+    "coordinates": [
+      40.6614225,
+      8.2718953
+    ]
+  },
+  {
+    "name": "Tramariglio",
+    "coordinates": [
+      40.5944641,
+      8.1649577
+    ]
+  },
+  {
+    "name": "Pischina Salida",
+    "coordinates": [
+      40.5863555,
+      8.1673526
+    ]
+  },
+  {
+    "name": "Seuni",
+    "coordinates": [
+      39.5837191,
+      9.1180051
+    ]
+  },
+  {
+    "name": "Maristella",
+    "coordinates": [
+      40.5924801,
+      8.2209056
+    ]
+  },
+  {
+    "name": "San Leonardo di Siete Fuentes",
+    "coordinates": [
+      40.1771725,
+      8.6642264
+    ]
+  },
+  {
+    "name": "Geremeas",
+    "coordinates": [
+      39.1711732,
+      9.3786022
+    ]
+  },
+  {
+    "name": "Ponte Liscia",
+    "coordinates": [
+      41.1641818,
+      9.3166655
+    ]
+  },
+  {
+    "name": "Sas Linnas Siccas",
+    "coordinates": [
+      40.4250028,
+      9.7697906
+    ]
+  },
+  {
+    "name": "Santa Caterina di Pittinuri",
+    "coordinates": [
+      40.1047961,
+      8.4916142
+    ]
+  },
+  {
+    "name": "S'Archittu",
+    "coordinates": [
+      40.0898857,
+      8.4921135
+    ]
+  },
+  {
+    "name": "Sa Rocca Tunda",
+    "coordinates": [
+      40.0401396,
+      8.4159275
+    ]
+  },
+  {
+    "name": "Zeppara",
+    "coordinates": [
+      39.7742345,
+      8.8295039
+    ]
+  },
+  {
+    "name": "Terra Mala",
+    "coordinates": [
+      39.1929133,
+      9.3421631
+    ]
+  },
+  {
+    "name": "Strovina",
+    "coordinates": [
+      39.524423,
+      8.8484617
+    ]
+  },
+  {
+    "name": "Chilivani",
+    "coordinates": [
+      40.6091709,
+      8.9342684
+    ]
+  },
+  {
+    "name": "Enas",
+    "coordinates": [
+      40.8446013,
+      9.4543353
+    ]
+  },
+  {
+    "name": "Barbusi",
+    "coordinates": [
+      39.2008262,
+      8.5064413
+    ]
+  },
+  {
+    "name": "Lotzorai",
+    "coordinates": [
+      39.9691548,
+      9.6637148
+    ]
+  },
+  {
+    "name": "Pirastreddu",
+    "coordinates": [
+      40.8027855,
+      8.6618095
+    ]
+  },
+  {
+    "name": "San Lorenzo",
+    "coordinates": [
+      40.7851314,
+      8.6499425
+    ]
+  },
+  {
+    "name": "Santa Vittoria",
+    "coordinates": [
+      40.7730019,
+      8.6712183
+    ]
+  },
+  {
+    "name": "Su Tirialzu",
+    "coordinates": [
+      40.7201515,
+      9.4742
+    ]
+  },
+  {
+    "name": "Ludurru",
+    "coordinates": [
+      40.695673,
+      9.4549782
+    ]
+  },
+  {
+    "name": "Sa Serra",
+    "coordinates": [
+      40.7010237,
+      9.4739425
+    ]
+  },
+  {
+    "name": "Sozza",
+    "coordinates": [
+      40.7287232,
+      9.4918838
+    ]
+  },
+  {
+    "name": "Cuzzola",
+    "coordinates": [
+      40.7220372,
+      9.5027001
+    ]
+  },
+  {
+    "name": "Pedra Bianca",
+    "coordinates": [
+      40.6652938,
+      9.5150983
+    ]
+  },
+  {
+    "name": "Sos Runcos",
+    "coordinates": [
+      40.7140519,
+      9.4858129
+    ]
+  },
+  {
+    "name": "Lazzaretto",
+    "coordinates": [
+      40.5772347,
+      8.2455107
+    ]
+  },
+  {
+    "name": "Porto Conte",
+    "coordinates": [
+      40.5931853,
+      8.206859
+    ]
+  },
+  {
+    "name": "Câdesédda/Calasetta",
+    "coordinates": [
+      39.1108144,
+      8.3682645
+    ]
+  },
+  {
+    "name": "Ingurtosu",
+    "coordinates": [
+      39.5201069,
+      8.5108104
+    ]
+  },
+  {
+    "name": "Bau",
+    "coordinates": [
+      39.499587,
+      8.4806794
+    ]
+  },
+  {
+    "name": "Su Pallosu",
+    "coordinates": [
+      40.0502175,
+      8.4030256
+    ]
+  },
+  {
+    "name": "Porto Palma Porto a Prama",
+    "coordinates": [
+      39.6708966,
+      8.4582428
+    ]
+  },
+  {
+    "name": "Foxi 'e Sali",
+    "coordinates": [
+      38.9700213,
+      8.9839094
+    ]
+  },
+  {
+    "name": "Graniadolzu",
+    "coordinates": [
+      40.7921701,
+      9.5708341
+    ]
+  },
+  {
+    "name": "Lu Grianatoggiu",
+    "coordinates": [
+      40.8147033,
+      9.5819055
+    ]
+  },
+  {
+    "name": "Buleddu",
+    "coordinates": [
+      40.8248475,
+      9.5890254
+    ]
+  },
+  {
+    "name": "Vaccileddi",
+    "coordinates": [
+      40.847579,
+      9.6469987
+    ]
+  },
+  {
+    "name": "Lutturai",
+    "coordinates": [
+      40.8343485,
+      9.6638681
+    ]
+  },
+  {
+    "name": "Perd'è Sali",
+    "coordinates": [
+      39.030259,
+      9.0288851
+    ]
+  },
+  {
+    "name": "Su Spagnolu",
+    "coordinates": [
+      39.0388234,
+      9.0170847
+    ]
+  },
+  {
+    "name": "La Tozza",
+    "coordinates": [
+      40.956874,
+      8.8872943
+    ]
+  },
+  {
+    "name": "Muntiggioni",
+    "coordinates": [
+      40.9510731,
+      8.8896826
+    ]
+  },
+  {
+    "name": "Pardu Nou",
+    "coordinates": [
+      39.9372193,
+      8.647912
+    ]
+  },
+  {
+    "name": "Flumini",
+    "coordinates": [
+      40.6393173,
+      9.725314
+    ]
+  },
+  {
+    "name": "Part'e Sole",
+    "coordinates": [
+      40.6348866,
+      9.7186786
+    ]
+  },
+  {
+    "name": "Sa Costa",
+    "coordinates": [
+      40.1561407,
+      9.1927376
+    ]
+  },
+  {
+    "name": "Pireddu",
+    "coordinates": [
+      40.1592994,
+      9.196934
+    ]
+  },
+  {
+    "name": "Gutturinos",
+    "coordinates": [
+      40.1596048,
+      9.1945522
+    ]
+  },
+  {
+    "name": "Sibì/Silì",
+    "coordinates": [
+      39.9189644,
+      8.6241907
+    ]
+  },
+  {
+    "name": "Bosa",
+    "coordinates": [
+      40.2970061,
+      8.4986123
+    ]
+  },
+  {
+    "name": "Cortexandra",
+    "coordinates": [
+      39.2905784,
+      9.0717026
+    ]
+  },
+  {
+    "name": "Sa 'e Mimmiu",
+    "coordinates": [
+      40.5815752,
+      9.7593233
+    ]
+  },
+  {
+    "name": "Sa Petra Ruja",
+    "coordinates": [
+      40.582992,
+      9.7618421
+    ]
+  },
+  {
+    "name": "Stirritoggiu",
+    "coordinates": [
+      40.7648642,
+      9.6677407
+    ]
+  },
+  {
+    "name": "Oddìrolo",
+    "coordinates": [
+      40.1449571,
+      9.1944316
+    ]
+  },
+  {
+    "name": "Biasì",
+    "coordinates": [
+      40.7763674,
+      9.5538778
+    ]
+  },
+  {
+    "name": "Budo",
+    "coordinates": [
+      40.7843044,
+      9.5643125
+    ]
+  },
+  {
+    "name": "Casteddu",
+    "coordinates": [
+      40.7670873,
+      9.5549423
+    ]
+  },
+  {
+    "name": "Bacu Abis",
+    "coordinates": [
+      39.2424207,
+      8.4670702
+    ]
+  },
+  {
+    "name": "Cortoghiana",
+    "coordinates": [
+      39.2120527,
+      8.4642436
+    ]
+  },
+  {
+    "name": "Palmas",
+    "coordinates": [
+      39.0874673,
+      8.5471947
+    ]
+  },
+  {
+    "name": "Priatu",
+    "coordinates": [
+      40.9361208,
+      9.3149951
+    ]
+  },
+  {
+    "name": "Torre dei Corsari",
+    "coordinates": [
+      39.6798799,
+      8.4516105
+    ]
+  },
+  {
+    "name": "Lutturai",
+    "coordinates": [
+      40.7005934,
+      9.6559685
+    ]
+  },
+  {
+    "name": "Nuditta",
+    "coordinates": [
+      40.7182262,
+      9.6523585
+    ]
+  },
+  {
+    "name": "Birgalavò",
+    "coordinates": [
+      40.7256492,
+      9.6873656
+    ]
+  },
+  {
+    "name": "San Pietro",
+    "coordinates": [
+      40.6971985,
+      9.6552982
+    ]
+  },
+  {
+    "name": "Strugas",
+    "coordinates": [
+      40.7018023,
+      9.6402993
+    ]
+  },
+  {
+    "name": "San Gavino",
+    "coordinates": [
+      40.6888766,
+      9.6880963
+    ]
+  },
+  {
+    "name": "San Lorenzo",
+    "coordinates": [
+      40.6821838,
+      9.6824309
+    ]
+  },
+  {
+    "name": "Solità",
+    "coordinates": [
+      40.6856143,
+      9.6938684
+    ]
+  },
+  {
+    "name": "Malamuri",
+    "coordinates": [
+      40.7204043,
+      9.6834502
+    ]
+  },
+  {
+    "name": "Luttuni",
+    "coordinates": [
+      40.7003419,
+      9.6850095
+    ]
+  },
+  {
+    "name": "Muriscuvò",
+    "coordinates": [
+      40.6820833,
+      9.7059705
+    ]
+  },
+  {
+    "name": "Maiorca",
+    "coordinates": [
+      40.7122614,
+      9.6677651
+    ]
+  },
+  {
+    "name": "Berruiles",
+    "coordinates": [
+      40.7277469,
+      9.6630761
+    ]
+  },
+  {
+    "name": "Luddui",
+    "coordinates": [
+      40.7355485,
+      9.6911218
+    ]
+  },
+  {
+    "name": "Centro II Sassu",
+    "coordinates": [
+      39.8031178,
+      8.6258356
+    ]
+  },
+  {
+    "name": "Centro Tre",
+    "coordinates": [
+      39.7728345,
+      8.623471
+    ]
+  },
+  {
+    "name": "Comunità alle Sorgenti",
+    "coordinates": [
+      39.7654621,
+      8.7600608
+    ]
+  },
+  {
+    "name": "Is Bangius",
+    "coordinates": [
+      39.7877701,
+      8.6718683
+    ]
+  },
+  {
+    "name": "Sant'Anna",
+    "coordinates": [
+      39.8122931,
+      8.6491173
+    ]
+  },
+  {
+    "name": "Tanca Marchese",
+    "coordinates": [
+      39.7389206,
+      8.6058239
+    ]
+  },
+  {
+    "name": "Mòdolo/Modolo",
+    "coordinates": [
+      40.2750467,
+      8.5291795
+    ]
+  },
+  {
+    "name": "Fraigas",
+    "coordinates": [
+      40.6265692,
+      8.987361
+    ]
+  },
+  {
+    "name": "San Nicola",
+    "coordinates": [
+      40.6115548,
+      8.9909564
+    ]
+  },
+  {
+    "name": "Bardosu",
+    "coordinates": [
+      40.303912,
+      8.9694488
+    ]
+  },
+  {
+    "name": "Predas Arbas",
+    "coordinates": [
+      40.3063113,
+      9.2782269
+    ]
+  },
+  {
+    "name": "San Giovanni",
+    "coordinates": [
+      40.0812446,
+      8.8599349
+    ]
+  },
+  {
+    "name": "San Michele",
+    "coordinates": [
+      40.088567,
+      8.8734862
+    ]
+  },
+  {
+    "name": "San Serafino",
+    "coordinates": [
+      40.0691048,
+      8.8567466
+    ]
+  },
+  {
+    "name": "Sos Eremos",
+    "coordinates": [
+      40.2763353,
+      9.179053
+    ]
+  },
+  {
+    "name": "Ziu Zolo",
+    "coordinates": [
+      40.3144104,
+      8.963061
+    ]
+  },
+  {
+    "name": "Zuri",
+    "coordinates": [
+      40.1200044,
+      8.8763612
+    ]
+  },
+  {
+    "name": "Gonnostramatza",
+    "coordinates": [
+      39.6811693,
+      8.8338449
+    ]
+  },
+  {
+    "name": "Mòguru/Mogoro",
+    "coordinates": [
+      39.6847105,
+      8.7770879
+    ]
+  },
+  {
+    "name": "Gonnacodina/Gonnoscodina",
+    "coordinates": [
+      39.6999958,
+      8.8355079
+    ]
+  },
+  {
+    "name": "Locusantu/Luogosanto",
+    "coordinates": [
+      41.0545638,
+      9.2046754
+    ]
+  },
+  {
+    "name": "Malacalzetta",
+    "coordinates": [
+      39.374902,
+      8.5525256
+    ]
+  },
+  {
+    "name": "Abb'E Eranu",
+    "coordinates": [
+      39.6934541,
+      9.6386222
+    ]
+  },
+  {
+    "name": "Abba Urci",
+    "coordinates": [
+      39.6849237,
+      9.6552071
+    ]
+  },
+  {
+    "name": "Badde Salighes",
+    "coordinates": [
+      40.3489714,
+      8.8752729
+    ]
+  },
+  {
+    "name": "Barisoni",
+    "coordinates": [
+      39.6469297,
+      9.6468609
+    ]
+  },
+  {
+    "name": "Dispensa",
+    "coordinates": [
+      39.6992152,
+      9.659714
+    ]
+  },
+  {
+    "name": "Foxi Lioni",
+    "coordinates": [
+      39.6586118,
+      9.6459848
+    ]
+  },
+  {
+    "name": "Foxi Murdegu",
+    "coordinates": [
+      39.6629811,
+      9.6501261
+    ]
+  },
+  {
+    "name": "Gruxi Marmuri",
+    "coordinates": [
+      39.6425374,
+      8.8988905
+    ]
+  },
+  {
+    "name": "Is Erriolus",
+    "coordinates": [
+      39.6916015,
+      9.5885208
+    ]
+  },
+  {
+    "name": "Marina di Gùturu 'e Flùmini",
+    "coordinates": [
+      39.5997264,
+      8.4718521
+    ]
+  },
+  {
+    "name": "Marosini",
+    "coordinates": [
+      39.6951561,
+      9.6363205
+    ]
+  },
+  {
+    "name": "Montevecchio",
+    "coordinates": [
+      39.5559722,
+      8.5689687
+    ]
+  },
+  {
+    "name": "Mulargia",
+    "coordinates": [
+      40.2934888,
+      8.7938001
+    ]
+  },
+  {
+    "name": "Palu e Cerbus",
+    "coordinates": [
+      39.7101202,
+      9.5798705
+    ]
+  },
+  {
+    "name": "Pauli Arruis",
+    "coordinates": [
+      39.6902217,
+      8.9818452
+    ]
+  },
+  {
+    "name": "Portu Maga",
+    "coordinates": [
+      39.575498,
+      8.4674745
+    ]
+  },
+  {
+    "name": "Sa Stallada",
+    "coordinates": [
+      39.6359782,
+      8.9376068
+    ]
+  },
+  {
+    "name": "Sa Tanca",
+    "coordinates": [
+      39.5583241,
+      8.5665953
+    ]
+  },
+  {
+    "name": "Sa Zeppara",
+    "coordinates": [
+      39.6283847,
+      8.6634199
+    ]
+  },
+  {
+    "name": "Santa Maria 'e Sauccu",
+    "coordinates": [
+      40.3507854,
+      8.8584394
+    ]
+  },
+  {
+    "name": "Surdelli",
+    "coordinates": [
+      39.6895163,
+      9.0443463
+    ]
+  },
+  {
+    "name": "Zinnibiri Mannu",
+    "coordinates": [
+      39.6915633,
+      9.6587397
+    ]
+  },
+  {
+    "name": "Aldia Bianca",
+    "coordinates": [
+      40.8524831,
+      9.6641957
+    ]
+  },
+  {
+    "name": "Aritzu/Aritzo",
+    "coordinates": [
+      39.9567774,
+      9.1965625
+    ]
+  },
+  {
+    "name": "Azzanidò",
+    "coordinates": [
+      40.8171619,
+      9.5512387
+    ]
+  },
+  {
+    "name": "Badde Suelzu",
+    "coordinates": [
+      40.7164313,
+      9.3276151
+    ]
+  },
+  {
+    "name": "Badualga",
+    "coordinates": [
+      40.7647727,
+      9.6540128
+    ]
+  },
+  {
+    "name": "Battista",
+    "coordinates": [
+      40.7779981,
+      9.4641622
+    ]
+  },
+  {
+    "name": "Brebì/Belvì",
+    "coordinates": [
+      39.9626011,
+      9.1851848
+    ]
+  },
+  {
+    "name": "Berchiddeddu",
+    "coordinates": [
+      40.8215088,
+      9.4636065
+    ]
+  },
+  {
+    "name": "Buddittogliu Straulas",
+    "coordinates": [
+      40.7504449,
+      9.6451969
+    ]
+  },
+  {
+    "name": "Burrasca",
+    "coordinates": [
+      40.8238936,
+      9.5945084
+    ]
+  },
+  {
+    "name": "Cala Girgolu",
+    "coordinates": [
+      40.854353,
+      9.6703059
+    ]
+  },
+  {
+    "name": "Cala Suaraccia",
+    "coordinates": [
+      40.8410262,
+      9.7093182
+    ]
+  },
+  {
+    "name": "Case Peschiera-Lu Fraili",
+    "coordinates": [
+      40.8194944,
+      9.6595185
+    ]
+  },
+  {
+    "name": "Costa Dorata",
+    "coordinates": [
+      40.8679702,
+      9.6512904
+    ]
+  },
+  {
+    "name": "Costa Romantica",
+    "coordinates": [
+      40.8819799,
+      9.6215173
+    ]
+  },
+  {
+    "name": "Domos de Rocca",
+    "coordinates": [
+      40.8526201,
+      9.6747485
+    ]
+  },
+  {
+    "name": "Enas Fratelli Giua",
+    "coordinates": [
+      40.841319,
+      9.4445098
+    ]
+  },
+  {
+    "name": "Frades Tilignas",
+    "coordinates": [
+      40.8404961,
+      9.4126394
+    ]
+  },
+  {
+    "name": "L'Alzoni",
+    "coordinates": [
+      40.7934254,
+      9.6302932
+    ]
+  },
+  {
+    "name": "La Padula Sicca",
+    "coordinates": [
+      40.7554327,
+      9.6915804
+    ]
+  },
+  {
+    "name": "La Pipara",
+    "coordinates": [
+      40.8433105,
+      9.6898339
+    ]
+  },
+  {
+    "name": "La Runcina II",
+    "coordinates": [
+      40.7691922,
+      9.6522825
+    ]
+  },
+  {
+    "name": "Li Cupuneddi",
+    "coordinates": [
+      40.7882822,
+      9.6185294
+    ]
+  },
+  {
+    "name": "Li Mori",
+    "coordinates": [
+      40.785523,
+      9.6477319
+    ]
+  },
+  {
+    "name": "Loiri",
+    "coordinates": [
+      40.8454219,
+      9.4940771
+    ]
+  },
+  {
+    "name": "Lu Fraili di Sopra",
+    "coordinates": [
+      40.8186955,
+      9.6510886
+    ]
+  },
+  {
+    "name": "Lu Fraili di Sotto",
+    "coordinates": [
+      40.81851,
+      9.6732213
+    ]
+  },
+  {
+    "name": "Lu Impostu",
+    "coordinates": [
+      40.8211207,
+      9.6828247
+    ]
+  },
+  {
+    "name": "Lu Lioni",
+    "coordinates": [
+      40.782289,
+      9.630651
+    ]
+  },
+  {
+    "name": "Lu Miriacheddu",
+    "coordinates": [
+      40.7599857,
+      9.6810992
+    ]
+  },
+  {
+    "name": "Lu Muntiggiu di la Petra I",
+    "coordinates": [
+      40.7551186,
+      9.6487028
+    ]
+  },
+  {
+    "name": "Lu Nibbareddu",
+    "coordinates": [
+      40.8456152,
+      9.6585296
+    ]
+  },
+  {
+    "name": "Maltineddu",
+    "coordinates": [
+      40.8824992,
+      9.58421
+    ]
+  },
+  {
+    "name": "Mamusi",
+    "coordinates": [
+      40.7700658,
+      9.4698042
+    ]
+  },
+  {
+    "name": "Nuragheddu",
+    "coordinates": [
+      40.800885,
+      9.6440419
+    ]
+  },
+  {
+    "name": "Ottiolu",
+    "coordinates": [
+      40.7374582,
+      9.7076174
+    ]
+  },
+  {
+    "name": "Ovilò",
+    "coordinates": [
+      40.8077708,
+      9.5885289
+    ]
+  },
+  {
+    "name": "Pedru Gaias",
+    "coordinates": [
+      40.7813808,
+      9.4505125
+    ]
+  },
+  {
+    "name": "Porto Istana",
+    "coordinates": [
+      40.8946742,
+      9.6119475
+    ]
+  },
+  {
+    "name": "Porto Taverna",
+    "coordinates": [
+      40.8585915,
+      9.6501141
+    ]
+  },
+  {
+    "name": "Punta Don Diego",
+    "coordinates": [
+      40.8747687,
+      9.6517311
+    ]
+  },
+  {
+    "name": "Punta Molara",
+    "coordinates": [
+      40.8489422,
+      9.6820581
+    ]
+  },
+  {
+    "name": "Punta Pietra Bianca",
+    "coordinates": [
+      40.8555756,
+      9.6579437
+    ]
+  },
+  {
+    "name": "Sa Castanza",
+    "coordinates": [
+      40.8023461,
+      9.4486715
+    ]
+  },
+  {
+    "name": "Salina Bamba",
+    "coordinates": [
+      40.8416491,
+      9.6987567
+    ]
+  },
+  {
+    "name": "Salinedda",
+    "coordinates": [
+      40.8373535,
+      9.7029522
+    ]
+  },
+  {
+    "name": "Santu Juanni",
+    "coordinates": [
+      40.8171785,
+      9.5863716
+    ]
+  },
+  {
+    "name": "Sarra",
+    "coordinates": [
+      40.8245021,
+      9.5022663
+    ]
+  },
+  {
+    "name": "Iscala Pedrosa",
+    "coordinates": [
+      40.6877898,
+      9.3760303
+    ]
+  },
+  {
+    "name": "Sitagliacciu",
+    "coordinates": [
+      40.7908631,
+      9.5971472
+    ]
+  },
+  {
+    "name": "Sos Coddos",
+    "coordinates": [
+      40.7824242,
+      9.4404163
+    ]
+  },
+  {
+    "name": "Su Carru",
+    "coordinates": [
+      40.801828,
+      9.4440588
+    ]
+  },
+  {
+    "name": "Suaredda-Traversa",
+    "coordinates": [
+      40.7798307,
+      9.6586956
+    ]
+  },
+  {
+    "name": "Terrapadedda",
+    "coordinates": [
+      40.7655057,
+      9.6373331
+    ]
+  },
+  {
+    "name": "Tiriddò",
+    "coordinates": [
+      40.8605622,
+      9.5845659
+    ]
+  },
+  {
+    "name": "Trainu Moltu",
+    "coordinates": [
+      40.7855855,
+      9.4545409
+    ]
+  },
+  {
+    "name": "Villaggio Nuragheddu",
+    "coordinates": [
+      40.8084457,
+      9.6515804
+    ]
+  },
+  {
+    "name": "Villa Monte Altura",
+    "coordinates": [
+      41.1812879,
+      9.3683408
+    ]
+  },
+  {
+    "name": "Bulbuseddu",
+    "coordinates": [
+      41.1052985,
+      9.2583046
+    ]
+  },
+  {
+    "name": "Bunthe",
+    "coordinates": [
+      40.9052072,
+      9.5968766
+    ]
+  },
+  {
+    "name": "Cabu Abbas",
+    "coordinates": [
+      40.9483385,
+      9.5065034
+    ]
+  },
+  {
+    "name": "Cala Francese",
+    "coordinates": [
+      41.2203321,
+      9.3781344
+    ]
+  },
+  {
+    "name": "Chessa",
+    "coordinates": [
+      41.1096266,
+      9.2187313
+    ]
+  },
+  {
+    "name": "Contras",
+    "coordinates": [
+      40.9297114,
+      9.4460986
+    ]
+  },
+  {
+    "name": "Crisciuleddu",
+    "coordinates": [
+      41.0537548,
+      9.1943476
+    ]
+  },
+  {
+    "name": "Cudacciolu",
+    "coordinates": [
+      41.0532287,
+      9.3806252
+    ]
+  },
+  {
+    "name": "Falzittu",
+    "coordinates": [
+      40.8227943,
+      8.9555845
+    ]
+  },
+  {
+    "name": "Giagone",
+    "coordinates": [
+      40.8169039,
+      9.076559
+    ]
+  },
+  {
+    "name": "Giovan Marco / Juan Malcu",
+    "coordinates": [
+      41.1853077,
+      9.266139
+    ]
+  },
+  {
+    "name": "I Delfini",
+    "coordinates": [
+      41.2040805,
+      9.3618006
+    ]
+  },
+  {
+    "name": "Li Cuncheddi",
+    "coordinates": [
+      40.9081124,
+      9.6043342
+    ]
+  },
+  {
+    "name": "Li Lieri",
+    "coordinates": [
+      41.1526499,
+      9.2414797
+    ]
+  },
+  {
+    "name": "Lido del Sole",
+    "coordinates": [
+      40.9153669,
+      9.5650175
+    ]
+  },
+  {
+    "name": "Liscia Culumba",
+    "coordinates": [
+      41.1763236,
+      9.3651875
+    ]
+  },
+  {
+    "name": "Lu Caloni",
+    "coordinates": [
+      41.1992902,
+      9.2690322
+    ]
+  },
+  {
+    "name": "Lu Lamoni",
+    "coordinates": [
+      41.1239151,
+      9.0726898
+    ]
+  },
+  {
+    "name": "Lu Mocu",
+    "coordinates": [
+      41.0682245,
+      9.265226
+    ]
+  },
+  {
+    "name": "Lu Sticcadu",
+    "coordinates": [
+      40.921943,
+      9.4504146
+    ]
+  },
+  {
+    "name": "Ludos",
+    "coordinates": [
+      40.9307662,
+      9.4573689
+    ]
+  },
+  {
+    "name": "Lumbaldu",
+    "coordinates": [
+      40.8183865,
+      8.960822
+    ]
+  },
+  {
+    "name": "Mannazzu",
+    "coordinates": [
+      40.9203895,
+      9.4398025
+    ]
+  },
+  {
+    "name": "Marinella",
+    "coordinates": [
+      41.0017462,
+      9.5650115
+    ]
+  },
+  {
+    "name": "Monte Telti",
+    "coordinates": [
+      40.9098728,
+      9.4373135
+    ]
+  },
+  {
+    "name": "Moriscu",
+    "coordinates": [
+      40.950962,
+      9.5568487
+    ]
+  },
+  {
+    "name": "Nodu Pianu",
+    "coordinates": [
+      40.9627535,
+      9.587735
+    ]
+  },
+  {
+    "name": "Osseddu",
+    "coordinates": [
+      40.9550676,
+      9.5324851
+    ]
+  },
+  {
+    "name": "Paule Lada",
+    "coordinates": [
+      40.9292285,
+      9.450977
+    ]
+  },
+  {
+    "name": "Petralana",
+    "coordinates": [
+      41.1811842,
+      9.3359687
+    ]
+  },
+  {
+    "name": "Pianas-Sa Murighessa",
+    "coordinates": [
+      40.7829635,
+      9.0711112
+    ]
+  },
+  {
+    "name": "Pinnacula",
+    "coordinates": [
+      40.9527084,
+      9.4439959
+    ]
+  },
+  {
+    "name": "Porto Puddu",
+    "coordinates": [
+      41.1874295,
+      9.3271812
+    ]
+  },
+  {
+    "name": "Stazzo Pulcheddu",
+    "coordinates": [
+      41.1634058,
+      9.3617372
+    ]
+  },
+  {
+    "name": "Punta Pedrosa",
+    "coordinates": [
+      40.9851414,
+      9.5809833
+    ]
+  },
+  {
+    "name": "Punta Villa",
+    "coordinates": [
+      41.2279527,
+      9.4106544
+    ]
+  },
+  {
+    "name": "Putzolu",
+    "coordinates": [
+      40.9119879,
+      9.4257684
+    ]
+  },
+  {
+    "name": "Rena Majore/Rena Majori",
+    "coordinates": [
+      41.1640835,
+      9.1827273
+    ]
+  },
+  {
+    "name": "Rudalza",
+    "coordinates": [
+      41.001306,
+      9.532587
+    ]
+  },
+  {
+    "name": "Sa Mela",
+    "coordinates": [
+      40.7990389,
+      8.9693199
+    ]
+  },
+  {
+    "name": "Sa Testa",
+    "coordinates": [
+      40.9364765,
+      9.5475105
+    ]
+  },
+  {
+    "name": "Santa Lucia",
+    "coordinates": [
+      40.9700486,
+      9.4724767
+    ]
+  },
+  {
+    "name": "Sole Ruiu",
+    "coordinates": [
+      40.9932505,
+      9.4461202
+    ]
+  },
+  {
+    "name": "Spiaggia Bianca",
+    "coordinates": [
+      40.991994,
+      9.5947267
+    ]
+  },
+  {
+    "name": "Sporula",
+    "coordinates": [
+      40.9028253,
+      9.4946594
+    ]
+  },
+  {
+    "name": "Stazione di Monti",
+    "coordinates": [
+      40.8290746,
+      9.3225785
+    ]
+  },
+  {
+    "name": "Villaggio Trinita",
+    "coordinates": [
+      41.2366877,
+      9.3976184
+    ]
+  },
+  {
+    "name": "Teggia de Sambene",
+    "coordinates": [
+      40.9467867,
+      9.4597886
+    ]
+  },
+  {
+    "name": "Terrata",
+    "coordinates": [
+      40.9783783,
+      9.5787844
+    ]
+  },
+  {
+    "name": "Villaggio Piras",
+    "coordinates": [
+      41.238551,
+      9.4326646
+    ]
+  },
+  {
+    "name": "Acqua Callentis",
+    "coordinates": [
+      39.2091855,
+      8.4993362
+    ]
+  },
+  {
+    "name": "Azienda Agraria Inps",
+    "coordinates": [
+      39.0939236,
+      8.5368655
+    ]
+  },
+  {
+    "name": "Bruncuteula",
+    "coordinates": [
+      39.1595319,
+      8.4354996
+    ]
+  },
+  {
+    "name": "Campu Frassoi",
+    "coordinates": [
+      39.1249222,
+      8.5084008
+    ]
+  },
+  {
+    "name": "Cannigonis",
+    "coordinates": [
+      39.0353711,
+      8.5967778
+    ]
+  },
+  {
+    "name": "Caput Acquas",
+    "coordinates": [
+      39.2136859,
+      8.5052334
+    ]
+  },
+  {
+    "name": "Corongiu",
+    "coordinates": [
+      39.2366205,
+      8.5599492
+    ]
+  },
+  {
+    "name": "Cuccurru Suergiu",
+    "coordinates": [
+      39.2175273,
+      8.4823396
+    ]
+  },
+  {
+    "name": "Cussorgia",
+    "coordinates": [
+      39.1019587,
+      8.4007694
+    ]
+  },
+  {
+    "name": "Domu Beccia",
+    "coordinates": [
+      39.2287906,
+      8.4822774
+    ]
+  },
+  {
+    "name": "Flumentepido",
+    "coordinates": [
+      39.1897238,
+      8.4844968
+    ]
+  },
+  {
+    "name": "Funtanona",
+    "coordinates": [
+      39.1325367,
+      8.5084516
+    ]
+  },
+  {
+    "name": "Genna Corriga",
+    "coordinates": [
+      39.2176973,
+      8.5287479
+    ]
+  },
+  {
+    "name": "Genna Gonnesa",
+    "coordinates": [
+      39.2205964,
+      8.4705145
+    ]
+  },
+  {
+    "name": "Is Achenzas",
+    "coordinates": [
+      39.0803605,
+      8.5491543
+    ]
+  },
+  {
+    "name": "Is Cherchis-Is Canes",
+    "coordinates": [
+      39.1625548,
+      8.6547349
+    ]
+  },
+  {
+    "name": "Is Chillaus",
+    "coordinates": [
+      39.0064693,
+      8.622837
+    ]
+  },
+  {
+    "name": "Is Cinus",
+    "coordinates": [
+      38.9904202,
+      8.6298556
+    ]
+  },
+  {
+    "name": "Is Collus",
+    "coordinates": [
+      39.1001588,
+      8.4923903
+    ]
+  },
+  {
+    "name": "Is Cordeddas",
+    "coordinates": [
+      39.0972093,
+      8.50005
+    ]
+  },
+  {
+    "name": "Is Cuccus",
+    "coordinates": [
+      39.0349999,
+      8.6094973
+    ]
+  },
+  {
+    "name": "Is Faddas",
+    "coordinates": [
+      39.0038227,
+      8.625089
+    ]
+  },
+  {
+    "name": "Is Fiascus",
+    "coordinates": [
+      39.0404727,
+      8.6309336
+    ]
+  },
+  {
+    "name": "Is Gannaus",
+    "coordinates": [
+      39.1116432,
+      8.4902727
+    ]
+  },
+  {
+    "name": "Is Grazias",
+    "coordinates": [
+      39.1147045,
+      8.6587339
+    ]
+  },
+  {
+    "name": "Is Imperas",
+    "coordinates": [
+      39.103515,
+      8.4933157
+    ]
+  },
+  {
+    "name": "Is Lais",
+    "coordinates": [
+      39.0320565,
+      8.6341188
+    ]
+  },
+  {
+    "name": "Is Loccis Diana",
+    "coordinates": [
+      39.1120541,
+      8.4853514
+    ]
+  },
+  {
+    "name": "Is Loccis",
+    "coordinates": [
+      39.1210819,
+      8.5177356
+    ]
+  },
+  {
+    "name": "Is Loddus",
+    "coordinates": [
+      39.0794875,
+      8.4862362
+    ]
+  },
+  {
+    "name": "Is Manais",
+    "coordinates": [
+      39.1680406,
+      8.6139188
+    ]
+  },
+  {
+    "name": "Is Massaius",
+    "coordinates": [
+      39.1196786,
+      8.5083879
+    ]
+  },
+  {
+    "name": "Is Meddas",
+    "coordinates": [
+      39.1508191,
+      8.6836942
+    ]
+  },
+  {
+    "name": "Is Murronis",
+    "coordinates": [
+      39.0319094,
+      8.602927
+    ]
+  },
+  {
+    "name": "Is Peis",
+    "coordinates": [
+      39.0010217,
+      8.6199531
+    ]
+  },
+  {
+    "name": "Is Pes",
+    "coordinates": [
+      39.1246218,
+      8.5206662
+    ]
+  },
+  {
+    "name": "Is Pillonis",
+    "coordinates": [
+      38.9772066,
+      8.6149674
+    ]
+  },
+  {
+    "name": "Is Pillonis",
+    "coordinates": [
+      39.1596927,
+      8.6007856
+    ]
+  },
+  {
+    "name": "Is Pireddas",
+    "coordinates": [
+      39.1083148,
+      8.68732
+    ]
+  },
+  {
+    "name": "Is Pisanus",
+    "coordinates": [
+      39.1148781,
+      8.6953445
+    ]
+  },
+  {
+    "name": "Is Pistis",
+    "coordinates": [
+      39.0812923,
+      8.5442827
+    ]
+  },
+  {
+    "name": "Is Pistis",
+    "coordinates": [
+      39.1552268,
+      8.6221041
+    ]
+  },
+  {
+    "name": "Is Pitzus",
+    "coordinates": [
+      39.1079743,
+      8.4787567
+    ]
+  },
+  {
+    "name": "Is Porcus",
+    "coordinates": [
+      39.1723936,
+      8.6127837
+    ]
+  },
+  {
+    "name": "Is Potettus",
+    "coordinates": [
+      38.9954462,
+      8.6124883
+    ]
+  },
+  {
+    "name": "Is Pusceddus",
+    "coordinates": [
+      39.1300693,
+      8.5088285
+    ]
+  },
+  {
+    "name": "Is Sais Inferiore",
+    "coordinates": [
+      39.1705169,
+      8.6580859
+    ]
+  },
+  {
+    "name": "Is Sais Superiore",
+    "coordinates": [
+      39.1720621,
+      8.653458
+    ]
+  },
+  {
+    "name": "Is Scarteddus",
+    "coordinates": [
+      39.1135593,
+      8.5105425
+    ]
+  },
+  {
+    "name": "Is Senis",
+    "coordinates": [
+      39.1493671,
+      8.5971285
+    ]
+  },
+  {
+    "name": "Is Solinas",
+    "coordinates": [
+      39.0255455,
+      8.5957936
+    ]
+  },
+  {
+    "name": "Is Spigas",
+    "coordinates": [
+      38.9863151,
+      8.631116
+    ]
+  },
+  {
+    "name": "Is Uccheddus",
+    "coordinates": [
+      39.0081021,
+      8.6275896
+    ]
+  },
+  {
+    "name": "Is Urigus",
+    "coordinates": [
+      39.1357679,
+      8.4949366
+    ]
+  },
+  {
+    "name": "Luxia Collu",
+    "coordinates": [
+      39.0991375,
+      8.4958254
+    ]
+  },
+  {
+    "name": "Matta S'Olia",
+    "coordinates": [
+      39.1124439,
+      8.6847336
+    ]
+  },
+  {
+    "name": "Matzaccara",
+    "coordinates": [
+      39.1316288,
+      8.4533113
+    ]
+  },
+  {
+    "name": "Medau Brau",
+    "coordinates": [
+      39.2240759,
+      8.4993282
+    ]
+  },
+  {
+    "name": "Medau Desogus",
+    "coordinates": [
+      39.1999951,
+      8.4819779
+    ]
+  },
+  {
+    "name": "Medau Is Fenus",
+    "coordinates": [
+      39.1899113,
+      8.4782888
+    ]
+  },
+  {
+    "name": "Medau Is Fonnesus",
+    "coordinates": [
+      39.1639231,
+      8.5606427
+    ]
+  },
+  {
+    "name": "Medau Is Peis",
+    "coordinates": [
+      39.1598473,
+      8.5528851
+    ]
+  },
+  {
+    "name": "Medau Is Serafinis",
+    "coordinates": [
+      39.1984653,
+      8.474398
+    ]
+  },
+  {
+    "name": "Medau Is Toccus",
+    "coordinates": [
+      39.1574191,
+      8.5464047
+    ]
+  },
+  {
+    "name": "Medau Piredda",
+    "coordinates": [
+      39.2212466,
+      8.5386336
+    ]
+  },
+  {
+    "name": "Medau Rubiu",
+    "coordinates": [
+      39.1759026,
+      8.4959426
+    ]
+  },
+  {
+    "name": "Medau Tanas",
+    "coordinates": [
+      39.1924275,
+      8.5040786
+    ]
+  },
+  {
+    "name": "Medau Tracasi",
+    "coordinates": [
+      39.122492,
+      8.5527199
+    ]
+  },
+  {
+    "name": "Mercuri",
+    "coordinates": [
+      39.0136835,
+      8.3783198
+    ]
+  },
+  {
+    "name": "Miniera Cortoghiana",
+    "coordinates": [
+      39.215346,
+      8.4771279
+    ]
+  },
+  {
+    "name": "Mitza Justa",
+    "coordinates": [
+      39.169305,
+      8.6216628
+    ]
+  },
+  {
+    "name": "Nuraxi Atzori",
+    "coordinates": [
+      39.1704872,
+      8.4444453
+    ]
+  },
+  {
+    "name": "Nuraxi Figus",
+    "coordinates": [
+      39.2231675,
+      8.4328496
+    ]
+  },
+  {
+    "name": "Paniesu",
+    "coordinates": [
+      39.0201091,
+      8.6274599
+    ]
+  },
+  {
+    "name": "Paringianu",
+    "coordinates": [
+      39.1756691,
+      8.4278303
+    ]
+  },
+  {
+    "name": "Peonia Rosa",
+    "coordinates": [
+      38.9653071,
+      8.4281143
+    ]
+  },
+  {
+    "name": "Pesus",
+    "coordinates": [
+      39.1608066,
+      8.6471752
+    ]
+  },
+  {
+    "name": "Piolanas",
+    "coordinates": [
+      39.2136145,
+      8.5254951
+    ]
+  },
+  {
+    "name": "Piscinì",
+    "coordinates": [
+      39.107112,
+      8.4916172
+    ]
+  },
+  {
+    "name": "Portopinetto",
+    "coordinates": [
+      38.9726938,
+      8.5827132
+    ]
+  },
+  {
+    "name": "Sa Carabia",
+    "coordinates": [
+      39.1116122,
+      8.5136019
+    ]
+  },
+  {
+    "name": "San Leonardo",
+    "coordinates": [
+      39.1517423,
+      8.6174346
+    ]
+  },
+  {
+    "name": "Sirai",
+    "coordinates": [
+      39.1839947,
+      8.4970578
+    ]
+  },
+  {
+    "name": "Sirri",
+    "coordinates": [
+      39.1971879,
+      8.5510734
+    ]
+  },
+  {
+    "name": "Tanca Manna",
+    "coordinates": [
+      39.163799,
+      8.6328581
+    ]
+  },
+  {
+    "name": "Tanì",
+    "coordinates": [
+      39.2280269,
+      8.5582834
+    ]
+  },
+  {
+    "name": "Terraseo",
+    "coordinates": [
+      39.2044441,
+      8.626137
+    ]
+  },
+  {
+    "name": "Terrazzu",
+    "coordinates": [
+      39.1038998,
+      8.6695218
+    ]
+  },
+  {
+    "name": "Villamarina",
+    "coordinates": [
+      39.1916809,
+      8.3226885
+    ]
+  },
+  {
+    "name": "Villarios",
+    "coordinates": [
+      39.0521926,
+      8.5947847
+    ]
+  },
+  {
+    "name": "Zona 1 2 3 Lavorazione",
+    "coordinates": [
+      39.1871277,
+      8.4180706
+    ]
+  },
+  {
+    "name": "Acquacadda",
+    "coordinates": [
+      39.1741304,
+      8.7496275
+    ]
+  },
+  {
+    "name": "Barega",
+    "coordinates": [
+      39.2613496,
+      8.5494078
+    ]
+  },
+  {
+    "name": "Barrancu Mannu",
+    "coordinates": [
+      39.0931731,
+      8.7624018
+    ]
+  },
+  {
+    "name": "Barrua Susu",
+    "coordinates": [
+      39.0709713,
+      8.7094095
+    ]
+  },
+  {
+    "name": "Case del Frate",
+    "coordinates": [
+      39.0888006,
+      8.7246004
+    ]
+  },
+  {
+    "name": "Crabì",
+    "coordinates": [
+      39.0710622,
+      8.7284061
+    ]
+  },
+  {
+    "name": "Crabì",
+    "coordinates": [
+      39.1668997,
+      8.7461287
+    ]
+  },
+  {
+    "name": "Is Aios",
+    "coordinates": [
+      39.1754656,
+      8.7289687
+    ]
+  },
+  {
+    "name": "Is Canis",
+    "coordinates": [
+      39.0878887,
+      8.7763937
+    ]
+  },
+  {
+    "name": "Is Collus",
+    "coordinates": [
+      39.0988176,
+      8.6995063
+    ]
+  },
+  {
+    "name": "Is Cosas",
+    "coordinates": [
+      39.0949328,
+      8.7304365
+    ]
+  },
+  {
+    "name": "Is Langius",
+    "coordinates": [
+      39.0900949,
+      8.7597858
+    ]
+  },
+  {
+    "name": "Is Lois de Basciu",
+    "coordinates": [
+      39.112237,
+      8.7258523
+    ]
+  },
+  {
+    "name": "Is Pinnas",
+    "coordinates": [
+      39.1173294,
+      8.7042271
+    ]
+  },
+  {
+    "name": "Is Piroddis",
+    "coordinates": [
+      39.1147987,
+      8.7175196
+    ]
+  },
+  {
+    "name": "Is Pirosus",
+    "coordinates": [
+      39.1210108,
+      8.7303739
+    ]
+  },
+  {
+    "name": "Is Sabas",
+    "coordinates": [
+      39.1178756,
+      8.7136592
+    ]
+  },
+  {
+    "name": "Is Santus",
+    "coordinates": [
+      39.1621197,
+      8.732578
+    ]
+  },
+  {
+    "name": "Is Scanus",
+    "coordinates": [
+      39.1209654,
+      8.715109
+    ]
+  },
+  {
+    "name": "Is Scattas",
+    "coordinates": [
+      39.0368341,
+      8.7118574
+    ]
+  },
+  {
+    "name": "Is Sinzus",
+    "coordinates": [
+      39.0870894,
+      8.7427316
+    ]
+  },
+  {
+    "name": "Morimenta de Basciu",
+    "coordinates": [
+      39.089419,
+      8.7532591
+    ]
+  },
+  {
+    "name": "Morimenta de Susu",
+    "coordinates": [
+      39.0870652,
+      8.7523849
+    ]
+  },
+  {
+    "name": "Poggio dei Pini",
+    "coordinates": [
+      39.1478408,
+      8.9709303
+    ]
+  },
+  {
+    "name": "Riomurtas",
+    "coordinates": [
+      39.1788012,
+      8.7036767
+    ]
+  },
+  {
+    "name": "S'Acqua Callenti de Basciu",
+    "coordinates": [
+      39.1465304,
+      8.7305099
+    ]
+  },
+  {
+    "name": "Sa Perda su Gatu",
+    "coordinates": [
+      39.1639039,
+      8.9660876
+    ]
+  },
+  {
+    "name": "Stazione Monteponi",
+    "coordinates": [
+      39.2768833,
+      8.467727
+    ]
+  },
+  {
+    "name": "Su Benatzu",
+    "coordinates": [
+      39.050533,
+      8.7018534
+    ]
+  },
+  {
+    "name": "Su Fonnesu",
+    "coordinates": [
+      39.0271028,
+      8.661817
+    ]
+  },
+  {
+    "name": "Su Peppi Mereu",
+    "coordinates": [
+      39.1633487,
+      8.7441758
+    ]
+  },
+  {
+    "name": "Su Tuvu Mannu",
+    "coordinates": [
+      39.2591669,
+      8.4684438
+    ]
+  },
+  {
+    "name": "Terras Collu",
+    "coordinates": [
+      39.2490226,
+      8.4571357
+    ]
+  },
+  {
+    "name": "Terresoli",
+    "coordinates": [
+      39.0900837,
+      8.7418722
+    ]
+  },
+  {
+    "name": "Terrubia",
+    "coordinates": [
+      39.1870618,
+      8.7209451
+    ]
+  },
+  {
+    "name": "Via della Pineta",
+    "coordinates": [
+      39.0697128,
+      8.6620606
+    ]
+  },
+  {
+    "name": "Alvarizzu",
+    "coordinates": [
+      40.8602719,
+      8.918963
+    ]
+  },
+  {
+    "name": "Bachile Corte",
+    "coordinates": [
+      40.8535678,
+      8.6998035
+    ]
+  },
+  {
+    "name": "Bonaita",
+    "coordinates": [
+      40.940527,
+      9.017782
+    ]
+  },
+  {
+    "name": "Buroni",
+    "coordinates": [
+      40.8855324,
+      8.8668457
+    ]
+  },
+  {
+    "name": "Caldeddu",
+    "coordinates": [
+      40.8719102,
+      8.7256621
+    ]
+  },
+  {
+    "name": "Campudulimu",
+    "coordinates": [
+      40.8157174,
+      8.9435333
+    ]
+  },
+  {
+    "name": "Figaruia",
+    "coordinates": [
+      40.8976484,
+      8.9889844
+    ]
+  },
+  {
+    "name": "Frades Berritteddos",
+    "coordinates": [
+      40.8370217,
+      9.4042001
+    ]
+  },
+  {
+    "name": "Fraigata",
+    "coordinates": [
+      40.8686905,
+      8.9419475
+    ]
+  },
+  {
+    "name": "Franculacciu",
+    "coordinates": [
+      40.7235373,
+      9.6434487
+    ]
+  },
+  {
+    "name": "Giovanni Moro",
+    "coordinates": [
+      40.8922772,
+      8.9590318
+    ]
+  },
+  {
+    "name": "Giuncana",
+    "coordinates": [
+      40.897584,
+      8.9249746
+    ]
+  },
+  {
+    "name": "L'Avru",
+    "coordinates": [
+      40.912223,
+      8.9414385
+    ]
+  },
+  {
+    "name": "La Muddizza",
+    "coordinates": [
+      40.9094131,
+      8.8009073
+    ]
+  },
+  {
+    "name": "Su Canale",
+    "coordinates": [
+      40.8414494,
+      9.4003074
+    ]
+  },
+  {
+    "name": "La Scalitta",
+    "coordinates": [
+      40.9015961,
+      8.8808685
+    ]
+  },
+  {
+    "name": "Li Reni",
+    "coordinates": [
+      40.9316691,
+      8.8984563
+    ]
+  },
+  {
+    "name": "Littigheddu",
+    "coordinates": [
+      40.8729204,
+      8.7904512
+    ]
+  },
+  {
+    "name": "Longareddu",
+    "coordinates": [
+      40.9080826,
+      8.8813574
+    ]
+  },
+  {
+    "name": "Lu Bagnu",
+    "coordinates": [
+      40.9013676,
+      8.6852008
+    ]
+  },
+  {
+    "name": "Lu Falzu",
+    "coordinates": [
+      40.9028956,
+      9.0115646
+    ]
+  },
+  {
+    "name": "Lu Muntiggiu di la Petra II",
+    "coordinates": [
+      40.758161,
+      9.6515386
+    ]
+  },
+  {
+    "name": "Lu Torrinu",
+    "coordinates": [
+      40.8772837,
+      8.9249387
+    ]
+  },
+  {
+    "name": "Lungo Valle",
+    "coordinates": [
+      40.7913956,
+      8.6560194
+    ]
+  },
+  {
+    "name": "Maragnani",
+    "coordinates": [
+      40.9230399,
+      8.7941993
+    ]
+  },
+  {
+    "name": "Mastruiagu",
+    "coordinates": [
+      40.8684411,
+      8.9236085
+    ]
+  },
+  {
+    "name": "Modditonalza",
+    "coordinates": [
+      40.8142365,
+      8.9289725
+    ]
+  },
+  {
+    "name": "Monte Petrosu",
+    "coordinates": [
+      40.8415453,
+      9.6526651
+    ]
+  },
+  {
+    "name": "Multeddu",
+    "coordinates": [
+      40.8962677,
+      8.742806
+    ]
+  },
+  {
+    "name": "Pedra Sciolta",
+    "coordinates": [
+      40.8881981,
+      8.7396467
+    ]
+  },
+  {
+    "name": "Pineta San Pietro",
+    "coordinates": [
+      40.9243435,
+      8.8030582
+    ]
+  },
+  {
+    "name": "Ponti Ezzu",
+    "coordinates": [
+      40.860949,
+      8.9088588
+    ]
+  },
+  {
+    "name": "Pulpaggiu",
+    "coordinates": [
+      40.8530722,
+      8.708542
+    ]
+  },
+  {
+    "name": "Sa Contra",
+    "coordinates": [
+      40.8568609,
+      8.9591738
+    ]
+  },
+  {
+    "name": "San Giovanni",
+    "coordinates": [
+      40.8820428,
+      8.7591706
+    ]
+  },
+  {
+    "name": "Normann",
+    "coordinates": [
+      39.2885253,
+      8.4809095
+    ]
+  },
+  {
+    "name": "Sas Contreddas",
+    "coordinates": [
+      40.8459613,
+      8.939759
+    ]
+  },
+  {
+    "name": "Sas Tanchittas",
+    "coordinates": [
+      40.829003,
+      8.9493254
+    ]
+  },
+  {
+    "name": "Scala Ruia",
+    "coordinates": [
+      40.8647299,
+      8.9757733
+    ]
+  },
+  {
+    "name": "Schifoni",
+    "coordinates": [
+      40.7237098,
+      9.636707
+    ]
+  },
+  {
+    "name": "Scupaggiu",
+    "coordinates": [
+      40.878772,
+      8.9088284
+    ]
+  },
+  {
+    "name": "Sos Rueddos",
+    "coordinates": [
+      40.7795795,
+      9.3799044
+    ]
+  },
+  {
+    "name": "Stazzu Bruciatu",
+    "coordinates": [
+      40.7290632,
+      9.640352
+    ]
+  },
+  {
+    "name": "Su Muntiju e S'Omine",
+    "coordinates": [
+      40.782929,
+      8.9394793
+    ]
+  },
+  {
+    "name": "Terrabianca",
+    "coordinates": [
+      40.9109626,
+      8.7349598
+    ]
+  },
+  {
+    "name": "Tettile",
+    "coordinates": [
+      40.7827416,
+      8.9270548
+    ]
+  },
+  {
+    "name": "Tungoni",
+    "coordinates": [
+      40.9200216,
+      8.9453407
+    ]
+  },
+  {
+    "name": "Arboriamar",
+    "coordinates": [
+      40.8217209,
+      8.5484159
+    ]
+  },
+  {
+    "name": "Bancali II",
+    "coordinates": [
+      40.7289669,
+      8.4445307
+    ]
+  },
+  {
+    "name": "Bancali",
+    "coordinates": [
+      40.7376621,
+      8.4620617
+    ]
+  },
+  {
+    "name": "Baratz",
+    "coordinates": [
+      40.6683328,
+      8.23607
+    ]
+  },
+  {
+    "name": "Bellisara",
+    "coordinates": [
+      40.8159195,
+      8.5612633
+    ]
+  },
+  {
+    "name": "Biancareddu",
+    "coordinates": [
+      40.8025336,
+      8.1987355
+    ]
+  },
+  {
+    "name": "Bonassai",
+    "coordinates": [
+      40.6733471,
+      8.3664905
+    ]
+  },
+  {
+    "name": "Cabrana",
+    "coordinates": [
+      40.775703,
+      8.9295191
+    ]
+  },
+  {
+    "name": "Caffè Roma",
+    "coordinates": [
+      40.7188783,
+      8.4825305
+    ]
+  },
+  {
+    "name": "Campanedda",
+    "coordinates": [
+      40.7604846,
+      8.3441636
+    ]
+  },
+  {
+    "name": "Canaglia",
+    "coordinates": [
+      40.783087,
+      8.2252322
+    ]
+  },
+  {
+    "name": "Eden Beach",
+    "coordinates": [
+      40.8397032,
+      8.5911151
+    ]
+  },
+  {
+    "name": "Filigheddu",
+    "coordinates": [
+      40.7483834,
+      8.6023953
+    ]
+  },
+  {
+    "name": "La Corte",
+    "coordinates": [
+      40.735545,
+      8.2782442
+    ]
+  },
+  {
+    "name": "La Lacuna",
+    "coordinates": [
+      40.7478184,
+      8.180787
+    ]
+  },
+  {
+    "name": "La Landrigga",
+    "coordinates": [
+      40.7250662,
+      8.483314
+    ]
+  },
+  {
+    "name": "La Muntagna",
+    "coordinates": [
+      40.7740082,
+      8.1804824
+    ]
+  },
+  {
+    "name": "La Pedraia",
+    "coordinates": [
+      40.7777772,
+      8.1848021
+    ]
+  },
+  {
+    "name": "Li Lioni",
+    "coordinates": [
+      40.8067101,
+      8.430711
+    ]
+  },
+  {
+    "name": "Lu Barrili-Monti",
+    "coordinates": [
+      40.8094029,
+      8.5711143
+    ]
+  },
+  {
+    "name": "Lu Tuvaraggiu",
+    "coordinates": [
+      40.8011797,
+      8.5254833
+    ]
+  },
+  {
+    "name": "Marritza",
+    "coordinates": [
+      40.8489152,
+      8.6069511
+    ]
+  },
+  {
+    "name": "Monte Casteddu",
+    "coordinates": [
+      40.7477133,
+      8.3448501
+    ]
+  },
+  {
+    "name": "Monte Forte",
+    "coordinates": [
+      40.7373528,
+      8.2628519
+    ]
+  },
+  {
+    "name": "Oluitti",
+    "coordinates": [
+      40.7722028,
+      8.9095493
+    ]
+  },
+  {
+    "name": "Ottava",
+    "coordinates": [
+      40.7834089,
+      8.4740039
+    ]
+  },
+  {
+    "name": "Palmadula",
+    "coordinates": [
+      40.748356,
+      8.1895513
+    ]
+  },
+  {
+    "name": "Pian de Sorres",
+    "coordinates": [
+      40.779841,
+      8.4120321
+    ]
+  },
+  {
+    "name": "Platamona",
+    "coordinates": [
+      40.8183003,
+      8.4631656
+    ]
+  },
+  {
+    "name": "Punta Tramontana",
+    "coordinates": [
+      40.8808102,
+      8.6343864
+    ]
+  },
+  {
+    "name": "Regione Li Pidriazzi I",
+    "coordinates": [
+      40.8172396,
+      8.4286134
+    ]
+  },
+  {
+    "name": "Regione Li Pidriazzi II",
+    "coordinates": [
+      40.8152049,
+      8.4279554
+    ]
+  },
+  {
+    "name": "Tottubella",
+    "coordinates": [
+      40.6856345,
+      8.3584187
+    ]
+  },
+  {
+    "name": "Saccheddu",
+    "coordinates": [
+      40.7257678,
+      8.4133626
+    ]
+  },
+  {
+    "name": "San Giovanni",
+    "coordinates": [
+      40.7604204,
+      8.4944658
+    ]
+  },
+  {
+    "name": "Santu Miali de Plajanu-San Michele",
+    "coordinates": [
+      40.7920195,
+      8.5203635
+    ]
+  },
+  {
+    "name": "Santu Chiriggu-San Quirico",
+    "coordinates": [
+      40.7694715,
+      8.5075695
+    ]
+  },
+  {
+    "name": "Serra Li Pozzi",
+    "coordinates": [
+      40.8154347,
+      8.4216498
+    ]
+  },
+  {
+    "name": "Serralonga",
+    "coordinates": [
+      40.8080129,
+      8.5190377
+    ]
+  },
+  {
+    "name": "Taniga-Malafede",
+    "coordinates": [
+      40.7787191,
+      8.5507152
+    ]
+  },
+  {
+    "name": "Terrada Sud",
+    "coordinates": [
+      40.7801194,
+      8.5258295
+    ]
+  },
+  {
+    "name": "Tonnara",
+    "coordinates": [
+      40.8600917,
+      8.6236305
+    ]
+  },
+  {
+    "name": "Truncu Reale",
+    "coordinates": [
+      40.7608485,
+      8.4607812
+    ]
+  },
+  {
+    "name": "Villa Gorizia",
+    "coordinates": [
+      40.7748485,
+      8.5073259
+    ]
+  },
+  {
+    "name": "Zuari",
+    "coordinates": [
+      40.7587293,
+      8.5336922
+    ]
+  },
+  {
+    "name": "Torre Degli Ulivi settore A",
+    "coordinates": [
+      39.1332911,
+      9.0123636
+    ]
+  },
+  {
+    "name": "Noesala",
+    "coordinates": [
+      40.2553882,
+      8.4784124
+    ]
+  },
+  {
+    "name": "Sa Lumenera",
+    "coordinates": [
+      40.2688193,
+      8.4841347
+    ]
+  },
+  {
+    "name": "Villaggio Turas",
+    "coordinates": [
+      40.2713086,
+      8.4871757
+    ]
+  },
+  {
+    "name": "Pratta",
+    "coordinates": [
+      40.6378202,
+      9.7246141
+    ]
+  },
+  {
+    "name": "Bacu Crutzu",
+    "coordinates": [
+      39.2679603,
+      9.3125176
+    ]
+  },
+  {
+    "name": "Camisa",
+    "coordinates": [
+      39.2964712,
+      9.5232579
+    ]
+  },
+  {
+    "name": "Capo Ferro",
+    "coordinates": [
+      41.1514101,
+      9.5178647
+    ]
+  },
+  {
+    "name": "Cappucciu",
+    "coordinates": [
+      39.2422823,
+      9.5110535
+    ]
+  },
+  {
+    "name": "Golfo Pevero",
+    "coordinates": [
+      41.1137898,
+      9.539114
+    ]
+  },
+  {
+    "name": "Gutturu Saidu",
+    "coordinates": [
+      39.0038585,
+      8.6681439
+    ]
+  },
+  {
+    "name": "Is Palas (Case Lindri)",
+    "coordinates": [
+      38.9996311,
+      8.6553155
+    ]
+  },
+  {
+    "name": "Is Pisus-Is Concias",
+    "coordinates": [
+      39.2517046,
+      9.2960752
+    ]
+  },
+  {
+    "name": "L'Annunziata",
+    "coordinates": [
+      39.3032127,
+      9.5043508
+    ]
+  },
+  {
+    "name": "Liscia di Vacca",
+    "coordinates": [
+      41.1359649,
+      9.5159121
+    ]
+  },
+  {
+    "name": "Masone Pardu",
+    "coordinates": [
+      39.2556263,
+      9.5143463
+    ]
+  },
+  {
+    "name": "Melamurgia",
+    "coordinates": [
+      39.2402352,
+      9.3076964
+    ]
+  },
+  {
+    "name": "Monti de Cresia",
+    "coordinates": [
+      39.281217,
+      9.3875237
+    ]
+  },
+  {
+    "name": "Monte Gruttas",
+    "coordinates": [
+      39.2834707,
+      9.5069148
+    ]
+  },
+  {
+    "name": "Monti Nieddu",
+    "coordinates": [
+      39.2706305,
+      9.3269013
+    ]
+  },
+  {
+    "name": "Pantogia",
+    "coordinates": [
+      41.116612,
+      9.5308609
+    ]
+  },
+  {
+    "name": "Porto Tramatzu",
+    "coordinates": [
+      39.4541582,
+      9.6404443
+    ]
+  },
+  {
+    "name": "S'Abuleu",
+    "coordinates": [
+      38.993644,
+      8.9710514
+    ]
+  },
+  {
+    "name": "S'Orecanu I",
+    "coordinates": [
+      39.0091913,
+      8.9862543
+    ]
+  },
+  {
+    "name": "S'Orecanu II",
+    "coordinates": [
+      39.0073171,
+      8.9882813
+    ]
+  },
+  {
+    "name": "Sabadi",
+    "coordinates": [
+      39.2656074,
+      9.4984285
+    ]
+  },
+  {
+    "name": "Sant'Isidoro",
+    "coordinates": [
+      39.2475816,
+      9.2927309
+    ]
+  },
+  {
+    "name": "Santa Maria",
+    "coordinates": [
+      39.437723,
+      9.594631
+    ]
+  },
+  {
+    "name": "Sa Portedda",
+    "coordinates": [
+      38.9832994,
+      8.6928504
+    ]
+  },
+  {
+    "name": "Separassiu",
+    "coordinates": [
+      39.2479007,
+      9.2726124
+    ]
+  },
+  {
+    "name": "Sitò",
+    "coordinates": [
+      39.2309928,
+      9.520963
+    ]
+  },
+  {
+    "name": "Su Pezzu Mannu II",
+    "coordinates": [
+      39.2732283,
+      9.1867989
+    ]
+  },
+  {
+    "name": "Su Pezzu Mannu",
+    "coordinates": [
+      39.2724757,
+      9.1841197
+    ]
+  },
+  {
+    "name": "Su Planu",
+    "coordinates": [
+      39.2555913,
+      9.1068211
+    ]
+  },
+  {
+    "name": "Su Tintioni",
+    "coordinates": [
+      38.9991151,
+      8.9763912
+    ]
+  },
+  {
+    "name": "Su de Is Seis",
+    "coordinates": [
+      39.01011,
+      8.6737207
+    ]
+  },
+  {
+    "name": "Tuerra I",
+    "coordinates": [
+      39.3330274,
+      9.5237166
+    ]
+  },
+  {
+    "name": "Villaggio delle Rose",
+    "coordinates": [
+      39.2701481,
+      9.3122505
+    ]
+  },
+  {
+    "name": "Cugnana Verde",
+    "coordinates": [
+      41.0237772,
+      9.50338
+    ]
+  },
+  {
+    "name": "Portisco",
+    "coordinates": [
+      41.0352437,
+      9.5219421
+    ]
+  },
+  {
+    "name": "Gèsigu/Gesico",
+    "coordinates": [
+      39.6163372,
+      9.1064572
+    ]
+  },
+  {
+    "name": "Monteleone/Monteleone Rocca Doria",
+    "coordinates": [
+      40.4716215,
+      8.5602991
+    ]
+  },
+  {
+    "name": "San Quirico",
+    "coordinates": [
+      39.8958765,
+      8.6667314
+    ]
+  },
+  {
+    "name": "Oroteddi/Orotelli",
+    "coordinates": [
+      40.3058025,
+      9.1128378
+    ]
+  },
+  {
+    "name": "Lu Puleu",
+    "coordinates": [
+      40.8153403,
+      8.9616234
+    ]
+  },
+  {
+    "name": "Su Sulianu",
+    "coordinates": [
+      40.842325,
+      8.937961
+    ]
+  },
+  {
+    "name": "Cala Reale",
+    "coordinates": [
+      41.0025966,
+      9.5585976
+    ]
+  },
+  {
+    "name": "Villaggio Marineledda",
+    "coordinates": [
+      41.0041035,
+      9.5701201
+    ]
+  },
+  {
+    "name": "Baia de Bahas",
+    "coordinates": [
+      41.0030212,
+      9.5715308
+    ]
+  },
+  {
+    "name": "Vela Blu",
+    "coordinates": [
+      41.0006243,
+      9.5720098
+    ]
+  },
+  {
+    "name": "Residence Eucalyptus",
+    "coordinates": [
+      41.0003005,
+      9.5560787
+    ]
+  },
+  {
+    "name": "Residence Ginepro",
+    "coordinates": [
+      41.0012329,
+      9.5517889
+    ]
+  },
+  {
+    "name": "Abi D'Oru",
+    "coordinates": [
+      41.0045742,
+      9.5504957
+    ]
+  },
+  {
+    "name": "Is Langonis",
+    "coordinates": [
+      39.1194588,
+      8.5197903
+    ]
+  },
+  {
+    "name": "Is Sannas",
+    "coordinates": [
+      39.1156523,
+      8.5210349
+    ]
+  },
+  {
+    "name": "Arbatassa/Arbatax",
+    "coordinates": [
+      39.9360947,
+      9.7070731
+    ]
+  },
+  {
+    "name": "Santu Antiogu/Sant'Antioco",
+    "coordinates": [
+      39.0648291,
+      8.4562962
+    ]
+  },
+  {
+    "name": "Sisini",
+    "coordinates": [
+      39.564892,
+      9.1655346
+    ]
+  },
+  {
+    "name": "Ponte",
+    "coordinates": [
+      40.7123392,
+      9.690662
+    ]
+  },
+  {
+    "name": "Pompongias",
+    "coordinates": [
+      39.7496227,
+      8.5617582
+    ]
+  },
+  {
+    "name": "Escovedu",
+    "coordinates": [
+      39.7926194,
+      8.8549376
+    ]
+  },
+  {
+    "name": "Luri",
+    "coordinates": [
+      39.7284008,
+      8.56113
+    ]
+  },
+  {
+    "name": "Marceddì",
+    "coordinates": [
+      39.7227612,
+      8.5087295
+    ]
+  },
+  {
+    "name": "Torrevecchia",
+    "coordinates": [
+      39.7276377,
+      8.538644
+    ]
+  },
+  {
+    "name": "Sant'Antonio di Santadi",
+    "coordinates": [
+      39.7134555,
+      8.4857049
+    ]
+  },
+  {
+    "name": "Linnas",
+    "coordinates": [
+      39.7135055,
+      8.5806243
+    ]
+  },
+  {
+    "name": "Durgali/Dorgali",
+    "coordinates": [
+      40.2928022,
+      9.588832
+    ]
+  },
+  {
+    "name": "Su Spantu",
+    "coordinates": [
+      39.1349515,
+      9.0090859
+    ]
+  },
+  {
+    "name": "Su Loi",
+    "coordinates": [
+      39.1355335,
+      9.011844
+    ]
+  },
+  {
+    "name": "Costa Paradiso",
+    "coordinates": [
+      41.0511454,
+      8.9507245
+    ]
+  },
+  {
+    "name": "S'Ungroni",
+    "coordinates": [
+      39.7967255,
+      8.5799134
+    ]
+  },
+  {
+    "name": "Pistis",
+    "coordinates": [
+      39.7000525,
+      8.4557902
+    ]
+  },
+  {
+    "name": "Cala Pira",
+    "coordinates": [
+      39.1729418,
+      9.5698392
+    ]
+  },
+  {
+    "name": "Lu Stangu",
+    "coordinates": [
+      40.865207,
+      9.6411533
+    ]
+  },
+  {
+    "name": "Rebeccu",
+    "coordinates": [
+      40.4235713,
+      8.808965
+    ]
+  },
+  {
+    "name": "Tiria",
+    "coordinates": [
+      39.8669334,
+      8.7041436
+    ]
+  },
+  {
+    "name": "Mamone",
+    "coordinates": [
+      40.5725948,
+      9.4205999
+    ]
+  },
+  {
+    "name": "Genna Spina",
+    "coordinates": [
+      39.2181361,
+      9.537947
+    ]
+  },
+  {
+    "name": "San Pietro",
+    "coordinates": [
+      39.2090459,
+      9.5423137
+    ]
+  },
+  {
+    "name": "Morimenta",
+    "coordinates": [
+      39.6456316,
+      8.7050652
+    ]
+  },
+  {
+    "name": "Terranoa/Olbia",
+    "coordinates": [
+      40.9232659,
+      9.5027442
+    ]
+  },
+  {
+    "name": "Aristanis/Oristano",
+    "coordinates": [
+      39.9059497,
+      8.5916112
+    ]
+  },
+  {
+    "name": "Tàttari/Sassari",
+    "coordinates": [
+      40.7234746,
+      8.5612674
+    ]
+  },
+  {
+    "name": "Giorgino - Villaggio pescatori",
+    "coordinates": [
+      39.212801,
+      9.0912913
+    ]
+  },
+  {
+    "name": "Lei",
+    "coordinates": [
+      40.3044005,
+      8.9180375
+    ]
+  },
+  {
+    "name": "Ortudusu",
+    "coordinates": [
+      39.2496359,
+      9.5003376
+    ]
+  },
+  {
+    "name": "Tuerra II",
+    "coordinates": [
+      39.3370235,
+      9.5299778
+    ]
+  },
+  {
+    "name": "Bidd'e Majori/San Priamo",
+    "coordinates": [
+      39.3587352,
+      9.5606319
+    ]
+  },
+  {
+    "name": "Brecca",
+    "coordinates": [
+      39.4850882,
+      9.5528052
+    ]
+  },
+  {
+    "name": "Bidda Massargia",
+    "coordinates": [
+      39.2304616,
+      9.4121765
+    ]
+  },
+  {
+    "name": "Campu Omu",
+    "coordinates": [
+      39.3084402,
+      9.3993502
+    ]
+  },
+  {
+    "name": "Tratalias Vecchio",
+    "coordinates": [
+      39.0979067,
+      8.571811
+    ]
+  },
+  {
+    "name": "Santa Barbara",
+    "coordinates": [
+      39.7854218,
+      9.4520385
+    ]
+  },
+  {
+    "name": "Baia Santa Reparata",
+    "coordinates": [
+      41.22626,
+      9.170205
+    ]
+  },
+  {
+    "name": "Capizza di Vacca",
+    "coordinates": [
+      41.2162197,
+      9.2204699
+    ]
+  },
+  {
+    "name": "Capo Testa",
+    "coordinates": [
+      41.2409079,
+      9.155255
+    ]
+  },
+  {
+    "name": "Frazione Ruoni",
+    "coordinates": [
+      41.2255771,
+      9.2210922
+    ]
+  },
+  {
+    "name": "Porto Quadro",
+    "coordinates": [
+      41.2457253,
+      9.2080672
+    ]
+  },
+  {
+    "name": "Villaggio Marchesana/Malchisana",
+    "coordinates": [
+      41.2209185,
+      9.2103018
+    ]
+  },
+  {
+    "name": "Villaggio Valentina",
+    "coordinates": [
+      41.2205511,
+      9.2239059
+    ]
+  },
+  {
+    "name": "Tramatza",
+    "coordinates": [
+      40.0037483,
+      8.6495366
+    ]
+  },
+  {
+    "name": "Capo Ferrato",
+    "coordinates": [
+      39.2964541,
+      9.6071254
+    ]
+  },
+  {
+    "name": "Sa Tribuna",
+    "coordinates": [
+      39.7183555,
+      8.4961822
+    ]
+  },
+  {
+    "name": "Serra Paulis",
+    "coordinates": [
+      39.2275338,
+      9.3160188
+    ]
+  },
+  {
+    "name": "Is meris",
+    "coordinates": [
+      39.2153646,
+      9.3140881
+    ]
+  },
+  {
+    "name": "Niu crobu",
+    "coordinates": [
+      39.2267193,
+      9.3108046
+    ]
+  },
+  {
+    "name": "Flumini Cuba",
+    "coordinates": [
+      39.2152316,
+      9.3163841
+    ]
+  },
+  {
+    "name": "Domusnovas Canales",
+    "coordinates": [
+      40.1497544,
+      8.8378875
+    ]
+  },
+  {
+    "name": "Santa Susanna",
+    "coordinates": [
+      40.0031158,
+      8.900275
+    ]
+  },
+  {
+    "name": "Pranixeddu",
+    "coordinates": [
+      39.9016268,
+      8.7390467
+    ]
+  },
+  {
+    "name": "Badde Pira",
+    "coordinates": [
+      40.6043789,
+      9.0036034
+    ]
+  },
+  {
+    "name": "Pardu Accas",
+    "coordinates": [
+      39.9247898,
+      8.6028851
+    ]
+  },
+  {
+    "name": "Biddarega/Villagreca",
+    "coordinates": [
+      39.4617638,
+      9.001391
+    ]
+  },
+  {
+    "name": "Cirras",
+    "coordinates": [
+      39.8359485,
+      8.5931129
+    ]
+  },
+  {
+    "name": "Corte Baccas",
+    "coordinates": [
+      39.891441,
+      8.6092007
+    ]
+  },
+  {
+    "name": "Crastu",
+    "coordinates": [
+      39.8107071,
+      9.0367703
+    ]
+  },
+  {
+    "name": "Santa Sofia",
+    "coordinates": [
+      39.8603937,
+      9.1244285
+    ]
+  },
+  {
+    "name": "Su Lau",
+    "coordinates": [
+      39.83736,
+      9.0796059
+    ]
+  },
+  {
+    "name": "Centro I Sassu",
+    "coordinates": [
+      39.802388,
+      8.5934257
+    ]
+  },
+  {
+    "name": "Campo Pisano",
+    "coordinates": [
+      39.2964177,
+      8.5402388
+    ]
+  },
+  {
+    "name": "Genna Luas",
+    "coordinates": [
+      39.2768828,
+      8.5452385
+    ]
+  },
+  {
+    "name": "Santa Chiara del Tirso",
+    "coordinates": [
+      40.0521204,
+      8.8637231
+    ]
+  },
+  {
+    "name": "Santa Barbara",
+    "coordinates": [
+      40.4100585,
+      8.753492
+    ]
+  },
+  {
+    "name": "Figu",
+    "coordinates": [
+      39.7620063,
+      8.8620496
+    ]
+  },
+  {
+    "name": "Cala Reale",
+    "coordinates": [
+      41.0612345,
+      8.2968439
+    ]
+  },
+  {
+    "name": "Bau Sa Mela",
+    "coordinates": [
+      39.8380932,
+      9.1205414
+    ]
+  },
+  {
+    "name": "Villaggio minerario Rosas",
+    "coordinates": [
+      39.202422,
+      8.719013
+    ]
+  },
+  {
+    "name": "Villaggio dei Gigli",
+    "coordinates": [
+      39.2786447,
+      9.3308354
+    ]
+  },
+  {
+    "name": "Serbariu di Sopra",
+    "coordinates": [
+      39.1548469,
+      8.5629133
+    ]
+  },
+  {
+    "name": "Bosa Marina",
+    "coordinates": [
+      40.2897579,
+      8.4816195
+    ]
+  },
+  {
+    "name": "Sa Valasa",
+    "coordinates": [
+      40.1377424,
+      9.1997611
+    ]
+  },
+  {
+    "name": "Cal'hinarjos",
+    "coordinates": [
+      40.1656763,
+      9.1968382
+    ]
+  },
+  {
+    "name": "Porto Budello",
+    "coordinates": [
+      38.9383526,
+      8.7230455
+    ]
+  },
+  {
+    "name": "S'enna e s'arca",
+    "coordinates": [
+      39.7031198,
+      8.4563723
+    ]
+  },
+  {
+    "name": "Vignola Mare",
+    "coordinates": [
+      41.1270679,
+      9.0629205
+    ]
+  },
+  {
+    "name": "Bantine",
+    "coordinates": [
+      40.5820551,
+      9.0900613
+    ]
+  },
+  {
+    "name": "Pala di Monti",
+    "coordinates": [
+      40.9517208,
+      8.9934206
+    ]
+  },
+  {
+    "name": "Arixi",
+    "coordinates": [
+      39.5342214,
+      9.1545607
+    ]
+  },
+  {
+    "name": "Orrì",
+    "coordinates": [
+      39.9033133,
+      9.6822631
+    ]
+  },
+  {
+    "name": "Santu Lianu",
+    "coordinates": [
+      39.2226539,
+      9.3213844
+    ]
+  },
+  {
+    "name": "Bindua",
+    "coordinates": [
+      39.2935836,
+      8.4927374
+    ]
+  },
+  {
+    "name": "Costa Rei",
+    "coordinates": [
+      39.2560813,
+      9.575808
+    ]
+  },
+  {
+    "name": "Mandra di l'Ainu",
+    "coordinates": [
+      40.7015389,
+      8.5110194
+    ]
+  },
+  {
+    "name": "Villaggio Milano",
+    "coordinates": [
+      40.6064246,
+      9.7481641
+    ]
+  },
+  {
+    "name": "Porto Corallo",
+    "coordinates": [
+      39.4414063,
+      9.6372181
+    ]
+  },
+  {
+    "name": "Portovesme",
+    "coordinates": [
+      39.1956756,
+      8.4070355
+    ]
+  },
+  {
+    "name": "Monte Agruxiau",
+    "coordinates": [
+      39.300425,
+      8.4894303
+    ]
+  },
+  {
+    "name": "Sos Alinos",
+    "coordinates": [
+      40.4390942,
+      9.7653088
+    ]
+  },
+  {
+    "name": "Cea",
+    "coordinates": [
+      39.8639843,
+      9.6843163
+    ]
+  },
+  {
+    "name": "Taquisara",
+    "coordinates": [
+      39.8569977,
+      9.4644531
+    ]
+  },
+  {
+    "name": "Santa Maria del Mare",
+    "coordinates": [
+      40.2599378,
+      8.4794815
+    ]
+  },
+  {
+    "name": "Sant'Agostino",
+    "coordinates": [
+      40.1366739,
+      8.7444412
+    ]
+  },
+  {
+    "name": "Cuili Murvoni",
+    "coordinates": [
+      39.1571033,
+      9.4401527
+    ]
+  },
+  {
+    "name": "Baccu Mandara",
+    "coordinates": [
+      39.1643987,
+      9.3945764
+    ]
+  },
+  {
+    "name": "Piano Ateneo",
+    "coordinates": [
+      39.2867459,
+      9.0987205
+    ]
+  },
+  {
+    "name": "Piano Dedalo",
+    "coordinates": [
+      39.2916789,
+      9.097536
+    ]
+  },
+  {
+    "name": "Villaggio Mandorli",
+    "coordinates": [
+      39.1388687,
+      9.4868203
+    ]
+  },
+  {
+    "name": "Tanca Su Cordolino",
+    "coordinates": [
+      39.1449906,
+      9.5009021
+    ]
+  },
+  {
+    "name": "Simius",
+    "coordinates": [
+      39.1297103,
+      9.5309018
+    ]
+  },
+  {
+    "name": "Notteri",
+    "coordinates": [
+      39.1231727,
+      9.5169027
+    ]
+  },
+  {
+    "name": "Campulongu",
+    "coordinates": [
+      39.1311516,
+      9.5067148
+    ]
+  },
+  {
+    "name": "Santa Caterina",
+    "coordinates": [
+      39.1086199,
+      9.5089338
+    ]
+  },
+  {
+    "name": "San Silvestro",
+    "coordinates": [
+      40.7193345,
+      9.6737931
+    ]
+  },
+  {
+    "name": "Portixeddu",
+    "coordinates": [
+      39.4421795,
+      8.410335
+    ]
+  },
+  {
+    "name": "Residenza dell'Aquila",
+    "coordinates": [
+      41.1601029,
+      9.1744873
+    ]
+  },
+  {
+    "name": "Baia Vignola",
+    "coordinates": [
+      41.1166773,
+      9.0667631
+    ]
+  },
+  {
+    "name": "Li Scalitti",
+    "coordinates": [
+      40.9670482,
+      8.8731378
+    ]
+  },
+  {
+    "name": "Tana Margianis",
+    "coordinates": [
+      39.1586913,
+      8.6273461
+    ]
+  },
+  {
+    "name": "Bingixedda",
+    "coordinates": [
+      39.172927,
+      8.6087087
+    ]
+  },
+  {
+    "name": "Is Gannaus",
+    "coordinates": [
+      39.1511522,
+      8.5969171
+    ]
+  },
+  {
+    "name": "Is Gadonis",
+    "coordinates": [
+      39.1460799,
+      8.6006761
+    ]
+  },
+  {
+    "name": "Is Atzoris",
+    "coordinates": [
+      39.1427505,
+      8.606286
+    ]
+  },
+  {
+    "name": "Punta Sardegna",
+    "coordinates": [
+      41.1931505,
+      9.3623076
+    ]
+  },
+  {
+    "name": "Cala Liberotto",
+    "coordinates": [
+      40.4329064,
+      9.7752196
+    ]
+  },
+  {
+    "name": "Vaddidulimu",
+    "coordinates": [
+      41.0566987,
+      9.1803295
+    ]
+  },
+  {
+    "name": "Medau di Monte Nieddu",
+    "coordinates": [
+      39.0984657,
+      8.8947849
+    ]
+  },
+  {
+    "name": "Pratobello",
+    "coordinates": [
+      40.1454637,
+      9.3148868
+    ]
+  },
+  {
+    "name": "Su Pradu",
+    "coordinates": [
+      40.4112761,
+      9.3563068
+    ]
+  },
+  {
+    "name": "Su Lompatzu",
+    "coordinates": [
+      40.0473492,
+      9.498083
+    ]
+  },
+  {
+    "name": "Campo Perdu",
+    "coordinates": [
+      41.0662649,
+      8.2830065
+    ]
+  },
+  {
+    "name": "Ardali",
+    "coordinates": [
+      40.008665,
+      9.6361926
+    ]
+  },
+  {
+    "name": "Osulai",
+    "coordinates": [
+      39.9905654,
+      9.6600644
+    ]
+  },
+  {
+    "name": "Via Marmilla",
+    "coordinates": [
+      39.5661565,
+      8.9420294
+    ]
+  },
+  {
+    "name": "Sa Sea",
+    "coordinates": [
+      40.5568236,
+      8.7266046
+    ]
+  },
+  {
+    "name": "Tanca Altara",
+    "coordinates": [
+      40.5553311,
+      9.6721981
+    ]
+  },
+  {
+    "name": "Murtas Artas",
+    "coordinates": [
+      40.5279472,
+      9.6717141
+    ]
+  },
+  {
+    "name": "Lupareddu",
+    "coordinates": [
+      40.5693894,
+      9.708357
+    ]
+  },
+  {
+    "name": "Museddu",
+    "coordinates": [
+      39.7822532,
+      9.6675208
+    ]
+  },
+  {
+    "name": "Gorofai",
+    "coordinates": [
+      40.4818326,
+      9.3888794
+    ]
+  },
+  {
+    "name": "Sa Teula",
+    "coordinates": [
+      40.5935659,
+      8.5776803
+    ]
+  },
+  {
+    "name": "Sant'Anna II",
+    "coordinates": [
+      40.585639,
+      9.6260584
+    ]
+  },
+  {
+    "name": "Sant'Anna I",
+    "coordinates": [
+      40.5864501,
+      9.618464
+    ]
+  },
+  {
+    "name": "Monti Nou",
+    "coordinates": [
+      39.4042402,
+      9.2038608
+    ]
+  },
+  {
+    "name": "San Giorgio",
+    "coordinates": [
+      39.4265865,
+      9.2218745
+    ]
+  },
+  {
+    "name": "Guardia Grande",
+    "coordinates": [
+      40.6458641,
+      8.2257208
+    ]
+  },
+  {
+    "name": "Torre degli Ulivi settore B",
+    "coordinates": [
+      39.1295169,
+      9.010692
+    ]
+  },
+  {
+    "name": "Mazzinaiu",
+    "coordinates": [
+      40.708993,
+      9.3711528
+    ]
+  },
+  {
+    "name": "Villaggio Colostrai",
+    "coordinates": [
+      39.3518474,
+      9.5957846
+    ]
+  },
+  {
+    "name": "Monte Figu",
+    "coordinates": [
+      39.3031486,
+      8.5672283
+    ]
+  },
+  {
+    "name": "Li Falzaggi",
+    "coordinates": [
+      41.0419982,
+      8.9871961
+    ]
+  },
+  {
+    "name": "Cuili Su Suergiu Mannu",
+    "coordinates": [
+      39.2099561,
+      9.392337
+    ]
+  },
+  {
+    "name": "Mura Ula",
+    "coordinates": [
+      40.3774929,
+      8.8083826
+    ]
+  },
+  {
+    "name": "Portobello di Gallura",
+    "coordinates": [
+      41.1256975,
+      9.0210273
+    ]
+  },
+  {
+    "name": "Canneddi",
+    "coordinates": [
+      41.0243945,
+      8.8972333
+    ]
+  },
+  {
+    "name": "San Giovanni Miniera",
+    "coordinates": [
+      39.2928101,
+      8.4931055
+    ]
+  },
+  {
+    "name": "Grugùa (Borgo Modigliani)",
+    "coordinates": [
+      39.3832719,
+      8.4573575
+    ]
+  },
+  {
+    "name": "Nodigheddu",
+    "coordinates": [
+      40.8707243,
+      8.2422004
+    ]
+  },
+  {
+    "name": "Pischina Salidda",
+    "coordinates": [
+      40.9284901,
+      8.2294055
+    ]
+  },
+  {
+    "name": "Punta de Su Turrione",
+    "coordinates": [
+      40.9111329,
+      8.2076896
+    ]
+  },
+  {
+    "name": "Gutturu Flumini",
+    "coordinates": [
+      39.6012874,
+      8.4724618
+    ]
+  },
+  {
+    "name": "Pitzinurri",
+    "coordinates": [
+      39.515055,
+      8.5149926
+    ]
+  },
+  {
+    "name": "Mesu 'e Rios",
+    "coordinates": [
+      40.6260596,
+      8.8830703
+    ]
+  },
+  {
+    "name": "Su Rai",
+    "coordinates": [
+      39.0404863,
+      8.6709702
+    ]
+  },
+  {
+    "name": "Is Loccis Santus",
+    "coordinates": [
+      39.1195981,
+      8.489677
+    ]
+  },
+  {
+    "name": "Zuighe",
+    "coordinates": [
+      40.7575968,
+      9.3668259
+    ]
+  },
+  {
+    "name": "Colonia Bellisai",
+    "coordinates": [
+      39.2360884,
+      8.4651531
+    ]
+  },
+  {
+    "name": "Medau Peddis",
+    "coordinates": [
+      39.2292863,
+      8.4946496
+    ]
+  },
+  {
+    "name": "Medau Esu",
+    "coordinates": [
+      39.2205304,
+      8.4862543
+    ]
+  },
+  {
+    "name": "Forresu",
+    "coordinates": [
+      39.2098701,
+      8.4816591
+    ]
+  },
+  {
+    "name": "Medau Esu",
+    "coordinates": [
+      39.2055052,
+      8.4878389
+    ]
+  },
+  {
+    "name": "Is Garaus",
+    "coordinates": [
+      39.1934996,
+      8.4847387
+    ]
+  },
+  {
+    "name": "Sa Corti",
+    "coordinates": [
+      39.2521983,
+      9.4157793
+    ]
+  },
+  {
+    "name": "Medau Atzori",
+    "coordinates": [
+      39.1779405,
+      8.493269
+    ]
+  },
+  {
+    "name": "Frassolis",
+    "coordinates": [
+      39.185034,
+      8.5047272
+    ]
+  },
+  {
+    "name": "Medau de Cadonis",
+    "coordinates": [
+      39.1889919,
+      8.5106112
+    ]
+  },
+  {
+    "name": "Borgata Mastino",
+    "coordinates": [
+      39.7434166,
+      8.605921
+    ]
+  },
+  {
+    "name": "Medau Su Conti",
+    "coordinates": [
+      39.162032,
+      8.5690875
+    ]
+  },
+  {
+    "name": "Campo Giavesu",
+    "coordinates": [
+      40.4612552,
+      8.7306436
+    ]
+  },
+  {
+    "name": "Regione Maroccheddu",
+    "coordinates": [
+      39.2842777,
+      8.6413232
+    ]
+  },
+  {
+    "name": "Villaggio Zinnibiri Mannu",
+    "coordinates": [
+      39.6916724,
+      9.6573173
+    ]
+  },
+  {
+    "name": "Punta Ceraso",
+    "coordinates": [
+      40.9041556,
+      9.6022546
+    ]
+  },
+  {
+    "name": "San Paolo",
+    "coordinates": [
+      39.2938265,
+      9.3523646
+    ]
+  },
+  {
+    "name": "Borgata Pirastera",
+    "coordinates": [
+      39.8619505,
+      9.1250731
+    ]
+  },
+  {
+    "name": "Perd' e cuaddu",
+    "coordinates": [
+      39.7886079,
+      9.1304513
+    ]
+  },
+  {
+    "name": "La Fazenda",
+    "coordinates": [
+      38.959525,
+      8.4136745
+    ]
+  },
+  {
+    "name": "Villaggio Polifemo",
+    "coordinates": [
+      39.0049897,
+      8.3847883
+    ]
+  },
+  {
+    "name": "Villaggio dei Ciclopi",
+    "coordinates": [
+      39.0141958,
+      8.3760081
+    ]
+  },
+  {
+    "name": "Cala di Seta",
+    "coordinates": [
+      39.1040543,
+      8.4028798
+    ]
+  },
+  {
+    "name": "Agrustos",
+    "coordinates": [
+      40.7238229,
+      9.7034125
+    ]
+  },
+  {
+    "name": "Lu Linnalvu",
+    "coordinates": [
+      40.7102355,
+      9.683148
+    ]
+  },
+  {
+    "name": "Residence Villaggio Nurra",
+    "coordinates": [
+      40.8198038,
+      8.1925034
+    ]
+  },
+  {
+    "name": "Torre Degli Ulivi",
+    "coordinates": [
+      39.130925,
+      9.0117599
+    ]
+  },
+  {
+    "name": "Giunco",
+    "coordinates": [
+      39.1241611,
+      8.3063588
+    ]
+  },
+  {
+    "name": "Girin",
+    "coordinates": [
+      39.1170036,
+      8.3087876
+    ]
+  },
+  {
+    "name": "Banchi",
+    "coordinates": [
+      39.111952,
+      8.3021766
+    ]
+  },
+  {
+    "name": "Colonne",
+    "coordinates": [
+      39.0946319,
+      8.2930727
+    ]
+  },
+  {
+    "name": "Pedra Bianca",
+    "coordinates": [
+      39.0306692,
+      8.8333297
+    ]
+  },
+  {
+    "name": "Pirastreri",
+    "coordinates": [
+      40.5852363,
+      9.7034963
+    ]
+  },
+  {
+    "name": "Cabu Abbas",
+    "coordinates": [
+      40.6293342,
+      8.7829108
+    ]
+  },
+  {
+    "name": "Sanalvò",
+    "coordinates": [
+      40.8326701,
+      9.6092707
+    ]
+  },
+  {
+    "name": "Villa Marzano",
+    "coordinates": [
+      40.8943221,
+      9.684097
+    ]
+  },
+  {
+    "name": "Su Forti",
+    "coordinates": [
+      39.2299124,
+      9.2330295
+    ]
+  },
+  {
+    "name": "Is Pardinas",
+    "coordinates": [
+      39.2266517,
+      9.248332
+    ]
+  },
+  {
+    "name": "Is Ammostus",
+    "coordinates": [
+      39.2478217,
+      9.2363477
+    ]
+  },
+  {
+    "name": "Taccu",
+    "coordinates": [
+      39.8619014,
+      9.2196818
+    ]
+  },
+  {
+    "name": "Betilli",
+    "coordinates": [
+      39.7530401,
+      9.2640882
+    ]
+  },
+  {
+    "name": "San Lorenzo Valle",
+    "coordinates": [
+      40.8035223,
+      8.6603609
+    ]
+  },
+  {
+    "name": "Andria Puddu",
+    "coordinates": [
+      40.8079025,
+      9.5149893
+    ]
+  },
+  {
+    "name": "Porto Columbu",
+    "coordinates": [
+      39.0247694,
+      9.0247577
+    ]
+  },
+  {
+    "name": "San Giorgio",
+    "coordinates": [
+      39.0620148,
+      8.9926582
+    ]
+  },
+  {
+    "name": "Santa Barbara",
+    "coordinates": [
+      39.0496245,
+      8.9956519
+    ]
+  },
+  {
+    "name": "Forada Is Olias",
+    "coordinates": [
+      39.0712967,
+      8.9988347
+    ]
+  },
+  {
+    "name": "Genniomus",
+    "coordinates": [
+      39.0391624,
+      8.7387094
+    ]
+  },
+  {
+    "name": "San Pietro",
+    "coordinates": [
+      40.9205736,
+      9.7300139
+    ]
+  },
+  {
+    "name": "Castellaccio",
+    "coordinates": [
+      40.9135234,
+      9.7259151
+    ]
+  },
+  {
+    "name": "Su Tèrmini de Bàxiu",
+    "coordinates": [
+      39.2634594,
+      9.1479311
+    ]
+  },
+  {
+    "name": "San Pietro in Paradiso",
+    "coordinates": [
+      39.2610346,
+      9.3720353
+    ]
+  },
+  {
+    "name": "Pantaleo",
+    "coordinates": [
+      39.090159,
+      8.7968623
+    ]
+  },
+  {
+    "name": "Limpiddu",
+    "coordinates": [
+      40.6905651,
+      9.7055974
+    ]
+  },
+  {
+    "name": "Marazzino",
+    "coordinates": [
+      41.2317458,
+      9.214362
+    ]
+  },
+  {
+    "name": "Residence Punta Falcone",
+    "coordinates": [
+      41.2422736,
+      9.2135025
+    ]
+  },
+  {
+    "name": "Arenas",
+    "coordinates": [
+      39.3979415,
+      8.5640895
+    ]
+  },
+  {
+    "name": "Orbai",
+    "coordinates": [
+      39.2350233,
+      8.7165706
+    ]
+  },
+  {
+    "name": "Forada Is Olias",
+    "coordinates": [
+      39.0713613,
+      8.9909473
+    ]
+  },
+  {
+    "name": "Forada Is Olias",
+    "coordinates": [
+      39.0716035,
+      9.0002555
+    ]
+  },
+  {
+    "name": "Quirra",
+    "coordinates": [
+      39.5134168,
+      9.6082603
+    ]
+  },
+  {
+    "name": "Santu Diadòru/San Teodoro",
+    "coordinates": [
+      40.7808401,
+      9.6531554
+    ]
+  },
+  {
+    "name": "Domus De Maria",
+    "coordinates": [
+      38.9616099,
+      8.840943
+    ]
+  },
+  {
+    "name": "Teulada",
+    "coordinates": [
+      38.9595794,
+      8.7239776
+    ]
+  },
+  {
+    "name": "Pula",
+    "coordinates": [
+      38.9999604,
+      8.9325127
+    ]
+  },
+  {
+    "name": "Arresi/Sant'Anna Arresi",
+    "coordinates": [
+      38.9933143,
+      8.6134337
+    ]
+  },
+  {
+    "name": "Sarrocu/Sarroch",
+    "coordinates": [
+      39.0706509,
+      8.9657714
+    ]
+  },
+  {
+    "name": "Santu Antiogu/Sant'Antioco",
+    "coordinates": [
+      38.9837818,
+      8.4445691
+    ]
+  },
+  {
+    "name": "Masainas",
+    "coordinates": [
+      39.0327716,
+      8.6130615
+    ]
+  },
+  {
+    "name": "Piscinas",
+    "coordinates": [
+      39.0687346,
+      8.6606233
+    ]
+  },
+  {
+    "name": "Giba",
+    "coordinates": [
+      39.0561166,
+      8.6018736
+    ]
+  },
+  {
+    "name": "Santadi",
+    "coordinates": [
+      39.0793756,
+      8.7656455
+    ]
+  },
+  {
+    "name": "Santu Giuanni Suèrgiu/San Giovanni Suergiu",
+    "coordinates": [
+      39.1045885,
+      8.5117717
+    ]
+  },
+  {
+    "name": "Santu Perdu/Villa San Pietro",
+    "coordinates": [
+      39.0652401,
+      8.9331138
+    ]
+  },
+  {
+    "name": "Tratalias",
+    "coordinates": [
+      39.1131987,
+      8.586086
+    ]
+  },
+  {
+    "name": "Sa Baronia/Villaperuccio",
+    "coordinates": [
+      39.115656,
+      8.6506973
+    ]
+  },
+  {
+    "name": "Assèmini/Assemini",
+    "coordinates": [
+      39.2168463,
+      8.9477491
+    ]
+  },
+  {
+    "name": "Câdesédda/Calasetta",
+    "coordinates": [
+      39.0685807,
+      8.3876176
+    ]
+  },
+  {
+    "name": "Cabuderra/Capoterra",
+    "coordinates": [
+      39.1475174,
+      8.9613633
+    ]
+  },
+  {
+    "name": "Nuxis",
+    "coordinates": [
+      39.1532039,
+      8.7598839
+    ]
+  },
+  {
+    "name": "Crabonaxa/Villasimius",
+    "coordinates": [
+      39.1439942,
+      9.5256752
+    ]
+  },
+  {
+    "name": "Perdaxius",
+    "coordinates": [
+      39.1626885,
+      8.615447
+    ]
+  },
+  {
+    "name": "Sìnnia/Sinnai",
+    "coordinates": [
+      39.2726521,
+      9.3301785
+    ]
+  },
+  {
+    "name": "Carbonia",
+    "coordinates": [
+      39.2069694,
+      8.5214919
+    ]
+  },
+  {
+    "name": "Narcau/Narcao",
+    "coordinates": [
+      39.1804485,
+      8.675458
+    ]
+  },
+  {
+    "name": "Maracalagonis",
+    "coordinates": [
+      39.221772,
+      9.3459302
+    ]
+  },
+  {
+    "name": "Portescusi/Portoscuso",
+    "coordinates": [
+      39.1981837,
+      8.4058228
+    ]
+  },
+  {
+    "name": "U Pàize/Carloforte",
+    "coordinates": [
+      39.1444144,
+      8.2662976
+    ]
+  },
+  {
+    "name": "Uda/Uta",
+    "coordinates": [
+      39.2267915,
+      8.9147022
+    ]
+  },
+  {
+    "name": "Casteddu/Cagliari",
+    "coordinates": [
+      39.2203971,
+      9.0940912
+    ]
+  },
+  {
+    "name": "Quartu Sant'Aleni/Quartu Sant'Elena",
+    "coordinates": [
+      39.2133328,
+      9.2751286
+    ]
+  },
+  {
+    "name": "Igrèsias/Iglesias",
+    "coordinates": [
+      39.2971485,
+      8.5416976
+    ]
+  },
+  {
+    "name": "Bidda Matzràxia/Villamassargia",
+    "coordinates": [
+      39.258313,
+      8.6713186
+    ]
+  },
+  {
+    "name": "Deximumannu/Decimomannu",
+    "coordinates": [
+      39.2876483,
+      8.9289611
+    ]
+  },
+  {
+    "name": "Quartùcciu/Quartucciu",
+    "coordinates": [
+      39.2618567,
+      9.2695404
+    ]
+  },
+  {
+    "name": "Paùli/Monserrato",
+    "coordinates": [
+      39.2640152,
+      9.1342849
+    ]
+  },
+  {
+    "name": "Gonnesa",
+    "coordinates": [
+      39.2586953,
+      8.4447079
+    ]
+  },
+  {
+    "name": "Su Masu/Elmas",
+    "coordinates": [
+      39.2614636,
+      9.049998
+    ]
+  },
+  {
+    "name": "Sestu",
+    "coordinates": [
+      39.3119487,
+      9.08105
+    ]
+  },
+  {
+    "name": "Ceraxus/Selargius",
+    "coordinates": [
+      39.2840125,
+      9.1400852
+    ]
+  },
+  {
+    "name": "Biddaspitziosa/Villaspeciosa",
+    "coordinates": [
+      39.2795083,
+      8.8937646
+    ]
+  },
+  {
+    "name": "Sètimu/Settimo San Pietro",
+    "coordinates": [
+      39.3064793,
+      9.1657208
+    ]
+  },
+  {
+    "name": "Musei",
+    "coordinates": [
+      39.3002694,
+      8.6897025
+    ]
+  },
+  {
+    "name": "Domunoas/Domusnovas",
+    "coordinates": [
+      39.3652368,
+      8.6245851
+    ]
+  },
+  {
+    "name": "Santu Idu/San Vito",
+    "coordinates": [
+      39.4042506,
+      9.5080273
+    ]
+  },
+  {
+    "name": "Deximeputzu/Decimoputzu",
+    "coordinates": [
+      39.3456576,
+      8.8865235
+    ]
+  },
+  {
+    "name": "Santu Sparau/San Sperate",
+    "coordinates": [
+      39.3544029,
+      9.0178973
+    ]
+  },
+  {
+    "name": "Serdiana",
+    "coordinates": [
+      39.3997304,
+      9.1502504
+    ]
+  },
+  {
+    "name": "Solèminis/Soleminis",
+    "coordinates": [
+      39.3491128,
+      9.1820015
+    ]
+  },
+  {
+    "name": "Biddesorris/Villasor",
+    "coordinates": [
+      39.3782071,
+      8.895099
+    ]
+  },
+  {
+    "name": "Muristenis/Monastir",
+    "coordinates": [
+      39.3805244,
+      9.0438555
+    ]
+  },
+  {
+    "name": "Biddaramosa/Vallermosa",
+    "coordinates": [
+      39.3666403,
+      8.7748752
+    ]
+  },
+  {
+    "name": "Patiolla/Dolianova",
+    "coordinates": [
+      39.4055384,
+      9.2058461
+    ]
+  },
+  {
+    "name": "Bugerru/Buggerru",
+    "coordinates": [
+      39.407629,
+      8.4336796
+    ]
+  },
+  {
+    "name": "Frùmini Majori/Fluminimaggiore",
+    "coordinates": [
+      39.4277641,
+      8.4883561
+    ]
+  },
+  {
+    "name": "Biddacidru/Villacidro",
+    "coordinates": [
+      39.4449301,
+      8.725286
+    ]
+  },
+  {
+    "name": "Ùssana/Ussana",
+    "coordinates": [
+      39.4027643,
+      9.0881388
+    ]
+  },
+  {
+    "name": "Brucei/Burcei",
+    "coordinates": [
+      39.3650734,
+      9.4008084
+    ]
+  },
+  {
+    "name": "Nuràminis/Nuraminis",
+    "coordinates": [
+      39.4410042,
+      9.0110033
+    ]
+  },
+  {
+    "name": "Serramanna",
+    "coordinates": [
+      39.4417902,
+      8.9023947
+    ]
+  },
+  {
+    "name": "Biddesatu/Villasalto",
+    "coordinates": [
+      39.4807353,
+      9.385402
+    ]
+  },
+  {
+    "name": "Gonnos/Gonnosfanadiga",
+    "coordinates": [
+      39.5333404,
+      8.633438
+    ]
+  },
+  {
+    "name": "Biddeputzi/Villaputzu",
+    "coordinates": [
+      39.5273379,
+      9.5382718
+    ]
+  },
+  {
+    "name": "Donori",
+    "coordinates": [
+      39.4411805,
+      9.1340813
+    ]
+  },
+  {
+    "name": "Samatzai",
+    "coordinates": [
+      39.4880328,
+      9.0526462
+    ]
+  },
+  {
+    "name": "Pauli Gerrei/San Nicolò Gerrei",
+    "coordinates": [
+      39.4809036,
+      9.2955412
+    ]
+  },
+  {
+    "name": "Serrenti",
+    "coordinates": [
+      39.5004814,
+      8.9677625
+    ]
+  },
+  {
+    "name": "Sant'Andrea Frius",
+    "coordinates": [
+      39.4734023,
+      9.1853919
+    ]
+  },
+  {
+    "name": "Barrali",
+    "coordinates": [
+      39.4792059,
+      9.1088154
+    ]
+  },
+  {
+    "name": "Arbus",
+    "coordinates": [
+      39.6080923,
+      8.4998284
+    ]
+  },
+  {
+    "name": "Samassi",
+    "coordinates": [
+      39.4933667,
+      8.907767
+    ]
+  },
+  {
+    "name": "Seddori/Sanluri",
+    "coordinates": [
+      39.5451435,
+      8.879061
+    ]
+  },
+  {
+    "name": "Ortacesus",
+    "coordinates": [
+      39.5189338,
+      9.0883348
+    ]
+  },
+  {
+    "name": "Pramantellu/Pimentel",
+    "coordinates": [
+      39.498267,
+      9.0663501
+    ]
+  },
+  {
+    "name": "Senorbì",
+    "coordinates": [
+      39.5338342,
+      9.1424064
+    ]
+  },
+  {
+    "name": "Santu 'Asili 'e Monti/San Basilio",
+    "coordinates": [
+      39.5199045,
+      9.2081243
+    ]
+  },
+  {
+    "name": "Santu 'Èngiu/San Gavino Monreale",
+    "coordinates": [
+      39.5512644,
+      8.7810304
+    ]
+  },
+  {
+    "name": "Guasila",
+    "coordinates": [
+      39.5727992,
+      9.0257178
+    ]
+  },
+  {
+    "name": "Futei/Furtei",
+    "coordinates": [
+      39.5609562,
+      8.9545911
+    ]
+  },
+  {
+    "name": "Silius",
+    "coordinates": [
+      39.540273,
+      9.2921434
+    ]
+  },
+  {
+    "name": "Ballau/Ballao",
+    "coordinates": [
+      39.5759513,
+      9.3778891
+    ]
+  },
+  {
+    "name": "Armùngia/Armungia",
+    "coordinates": [
+      39.5409449,
+      9.4137321
+    ]
+  },
+  {
+    "name": "Seurgus Donigala/Siurgus Donigala",
+    "coordinates": [
+      39.5908729,
+      9.2195925
+    ]
+  },
+  {
+    "name": "Sèligas/Selegas",
+    "coordinates": [
+      39.5743417,
+      9.10025
+    ]
+  },
+  {
+    "name": "Àrthana/Arzana",
+    "coordinates": [
+      39.7723195,
+      9.4680857
+    ]
+  },
+  {
+    "name": "Gomajori/Guamaggiore",
+    "coordinates": [
+      39.5871582,
+      9.0633899
+    ]
+  },
+  {
+    "name": "Gùspini/Guspini",
+    "coordinates": [
+      39.6016885,
+      8.6042829
+    ]
+  },
+  {
+    "name": "Pabillois/Pabillonis",
+    "coordinates": [
+      39.6037374,
+      8.7107453
+    ]
+  },
+  {
+    "name": "Goni",
+    "coordinates": [
+      39.5716191,
+      9.2817087
+    ]
+  },
+  {
+    "name": "Sueddi/Suelli",
+    "coordinates": [
+      39.5751868,
+      9.1399308
+    ]
+  },
+  {
+    "name": "Segariu",
+    "coordinates": [
+      39.5658434,
+      8.9853932
+    ]
+  },
+  {
+    "name": "Sàrdara/Sardara",
+    "coordinates": [
+      39.6096023,
+      8.8112181
+    ]
+  },
+  {
+    "name": "Mara Arbarei/Villamar",
+    "coordinates": [
+      39.6205848,
+      8.9730847
+    ]
+  },
+  {
+    "name": "Jersu/Jerzu",
+    "coordinates": [
+      39.6929592,
+      9.5364701
+    ]
+  },
+  {
+    "name": "Scalepranu/Escalaplano",
+    "coordinates": [
+      39.6365313,
+      9.3559706
+    ]
+  },
+  {
+    "name": "Lanusè/Lanusei",
+    "coordinates": [
+      39.7486472,
+      9.5727466
+    ]
+  },
+  {
+    "name": "Arrolli/Orroli",
+    "coordinates": [
+      39.6543527,
+      9.2542199
+    ]
+  },
+  {
+    "name": "Òsini/Osini",
+    "coordinates": [
+      39.7291047,
+      9.5248523
+    ]
+  },
+  {
+    "name": "Gèsigu/Gesico",
+    "coordinates": [
+      39.6200144,
+      9.086616
+    ]
+  },
+  {
+    "name": "Biddanoa de Forru/Villanovaforru",
+    "coordinates": [
+      39.6251276,
+      8.8762131
+    ]
+  },
+  {
+    "name": "Lunamatrona",
+    "coordinates": [
+      39.6359827,
+      8.8990371
+    ]
+  },
+  {
+    "name": "Ulassa/Ulassai",
+    "coordinates": [
+      39.7119464,
+      9.4736621
+    ]
+  },
+  {
+    "name": "Mandas",
+    "coordinates": [
+      39.6455161,
+      9.1239761
+    ]
+  },
+  {
+    "name": "Loceri",
+    "coordinates": [
+      39.7480953,
+      9.6088069
+    ]
+  },
+  {
+    "name": "Biddanoa Franca/Villanovafranca",
+    "coordinates": [
+      39.6441616,
+      9.0074575
+    ]
+  },
+  {
+    "name": "Tertenia",
+    "coordinates": [
+      39.6838336,
+      9.5994273
+    ]
+  },
+  {
+    "name": "Iscroca/Escolca",
+    "coordinates": [
+      39.675098,
+      9.0994577
+    ]
+  },
+  {
+    "name": "Foghesu/Perdasdefogu",
+    "coordinates": [
+      39.6650196,
+      9.4538036
+    ]
+  },
+  {
+    "name": "Nurri",
+    "coordinates": [
+      39.7019215,
+      9.2327958
+    ]
+  },
+  {
+    "name": "Arcidanu/San Nicolò d'Arcidano",
+    "coordinates": [
+      39.664182,
+      8.6522989
+    ]
+  },
+  {
+    "name": "Mòguru/Mogoro",
+    "coordinates": [
+      39.6616054,
+      8.7451943
+    ]
+  },
+  {
+    "name": "Forru/Collinas",
+    "coordinates": [
+      39.6447338,
+      8.825171
+    ]
+  },
+  {
+    "name": "Pauli Arbarei",
+    "coordinates": [
+      39.6586004,
+      8.9315376
+    ]
+  },
+  {
+    "name": "Is Pratzas/Las Plassas",
+    "coordinates": [
+      39.675104,
+      8.9850459
+    ]
+  },
+  {
+    "name": "Grexei/Gergei",
+    "coordinates": [
+      39.7020504,
+      9.083583
+    ]
+  },
+  {
+    "name": "Siddi",
+    "coordinates": [
+      39.6743083,
+      8.8799353
+    ]
+  },
+  {
+    "name": "Barùmini/Barumini",
+    "coordinates": [
+      39.6930311,
+      9.0171385
+    ]
+  },
+  {
+    "name": "Gonnostramatza",
+    "coordinates": [
+      39.6757322,
+      8.8249138
+    ]
+  },
+  {
+    "name": "Serri",
+    "coordinates": [
+      39.7023594,
+      9.139691
+    ]
+  },
+  {
+    "name": "Ussaramanna",
+    "coordinates": [
+      39.6914799,
+      8.9082587
+    ]
+  },
+  {
+    "name": "Turri",
+    "coordinates": [
+      39.7010805,
+      8.9200821
+    ]
+  },
+  {
+    "name": "Tuili",
+    "coordinates": [
+      39.7099349,
+      8.9647661
+    ]
+  },
+  {
+    "name": "Gonnacodina/Gonnoscodina",
+    "coordinates": [
+      39.6982816,
+      8.8398704
+    ]
+  },
+  {
+    "name": "Istersili/Esterzili",
+    "coordinates": [
+      39.7410159,
+      9.3195918
+    ]
+  },
+  {
+    "name": "Aressa/Baressa",
+    "coordinates": [
+      39.7121116,
+      8.8715228
+    ]
+  },
+  {
+    "name": "Uras",
+    "coordinates": [
+      39.7042163,
+      8.6929556
+    ]
+  },
+  {
+    "name": "Seui",
+    "coordinates": [
+      39.802244,
+      9.3453589
+    ]
+  },
+  {
+    "name": "Terraba/Terralba",
+    "coordinates": [
+      39.7256962,
+      8.5855901
+    ]
+  },
+  {
+    "name": "Masuddas/Masullas",
+    "coordinates": [
+      39.7095345,
+      8.7694475
+    ]
+  },
+  {
+    "name": "Simaba/Simala",
+    "coordinates": [
+      39.726321,
+      8.8353864
+    ]
+  },
+  {
+    "name": "Pompu",
+    "coordinates": [
+      39.729231,
+      8.7955926
+    ]
+  },
+  {
+    "name": "Setzu",
+    "coordinates": [
+      39.7368565,
+      8.938366
+    ]
+  },
+  {
+    "name": "Bobadri/Baradili",
+    "coordinates": [
+      39.72533,
+      8.894031
+    ]
+  },
+  {
+    "name": "Giauni/Genuri",
+    "coordinates": [
+      39.7409237,
+      8.9218316
+    ]
+  },
+  {
+    "name": "Gèsturi/Gesturi",
+    "coordinates": [
+      39.7399353,
+      9.0047592
+    ]
+  },
+  {
+    "name": "Gàiru/Gairo",
+    "coordinates": [
+      39.8256826,
+      9.5285497
+    ]
+  },
+  {
+    "name": "Siris",
+    "coordinates": [
+      39.7198651,
+      8.7666809
+    ]
+  },
+  {
+    "name": "Margaxori/Morgongiori",
+    "coordinates": [
+      39.7628967,
+      8.7467672
+    ]
+  },
+  {
+    "name": "Gonnonnò/Gonnosnò",
+    "coordinates": [
+      39.7609588,
+      8.868772
+    ]
+  },
+  {
+    "name": "Ìsili/Isili",
+    "coordinates": [
+      39.7819264,
+      9.1260363
+    ]
+  },
+  {
+    "name": "Cardedu",
+    "coordinates": [
+      39.7641938,
+      9.6361501
+    ]
+  },
+  {
+    "name": "Sini",
+    "coordinates": [
+      39.7533858,
+      8.9045971
+    ]
+  },
+  {
+    "name": "Crucuris/Curcuris",
+    "coordinates": [
+      39.7493052,
+      8.8275738
+    ]
+  },
+  {
+    "name": "Marrùbiu/Marrubiu",
+    "coordinates": [
+      39.775689,
+      8.6720773
+    ]
+  },
+  {
+    "name": "Sàdili/Sadali",
+    "coordinates": [
+      39.7946435,
+      9.25116
+    ]
+  },
+  {
+    "name": "Geroni/Genoni",
+    "coordinates": [
+      39.7915822,
+      8.9616041
+    ]
+  },
+  {
+    "name": "Nuragus",
+    "coordinates": [
+      39.7766891,
+      9.0437099
+    ]
+  },
+  {
+    "name": "Abas/Ales",
+    "coordinates": [
+      39.7771507,
+      8.7975286
+    ]
+  },
+  {
+    "name": "Biddanoa 'e Tulu/Villanova Tulo",
+    "coordinates": [
+      39.7911978,
+      9.1960736
+    ]
+  },
+  {
+    "name": "Arborea",
+    "coordinates": [
+      39.7684579,
+      8.5750642
+    ]
+  },
+  {
+    "name": "Ollasta Useddus/Albagiara",
+    "coordinates": [
+      39.8084891,
+      8.8702907
+    ]
+  },
+  {
+    "name": "Useddus/Usellus",
+    "coordinates": [
+      39.8188044,
+      8.8302375
+    ]
+  },
+  {
+    "name": "Bàini/Villa Verde",
+    "coordinates": [
+      39.8081466,
+      8.7978292
+    ]
+  },
+  {
+    "name": "Assolu/Assolo",
+    "coordinates": [
+      39.8126702,
+      8.9132028
+    ]
+  },
+  {
+    "name": "Nureci",
+    "coordinates": [
+      39.8095047,
+      8.9629654
+    ]
+  },
+  {
+    "name": "Nuradda/Nurallao",
+    "coordinates": [
+      39.8073249,
+      9.093768
+    ]
+  },
+  {
+    "name": "Làconi/Laconi",
+    "coordinates": [
+      39.8594977,
+      9.0634061
+    ]
+  },
+  {
+    "name": "Barì/Bari Sardo",
+    "coordinates": [
+      39.8348895,
+      9.6579969
+    ]
+  },
+  {
+    "name": "Santa Justa/Santa Giusta",
+    "coordinates": [
+      39.8458733,
+      8.6416852
+    ]
+  },
+  {
+    "name": "Pau",
+    "coordinates": [
+      39.8006882,
+      8.7797669
+    ]
+  },
+  {
+    "name": "Ussassa/Ussassai",
+    "coordinates": [
+      39.8193143,
+      9.4023141
+    ]
+  },
+  {
+    "name": "Prammas/Palmas Arborea",
+    "coordinates": [
+      39.8472255,
+      8.6901617
+    ]
+  },
+  {
+    "name": "Seulu/Seulo",
+    "coordinates": [
+      39.8708278,
+      9.2339772
+    ]
+  },
+  {
+    "name": "Senis",
+    "coordinates": [
+      39.8296508,
+      8.9359794
+    ]
+  },
+  {
+    "name": "Gadoni",
+    "coordinates": [
+      39.8802977,
+      9.1703968
+    ]
+  },
+  {
+    "name": "Biddobrana/Villaurbana",
+    "coordinates": [
+      39.872125,
+      8.7813331
+    ]
+  },
+  {
+    "name": "Santu Antoni Arruinas/Villa Sant'Antonio",
+    "coordinates": [
+      39.858216,
+      8.8997306
+    ]
+  },
+  {
+    "name": "Mogoredda/Mogorella",
+    "coordinates": [
+      39.8710568,
+      8.8588677
+    ]
+  },
+  {
+    "name": "Asuni",
+    "coordinates": [
+      39.8725015,
+      8.9487424
+    ]
+  },
+  {
+    "name": "Irvonu/Ilbono",
+    "coordinates": [
+      39.8840818,
+      9.5815607
+    ]
+  },
+  {
+    "name": "Tortolì",
+    "coordinates": [
+      39.9134861,
+      9.6667663
+    ]
+  },
+  {
+    "name": "Aristanis/Oristano",
+    "coordinates": [
+      39.9150344,
+      8.6085538
+    ]
+  },
+  {
+    "name": "Crabas/Cabras",
+    "coordinates": [
+      39.9278318,
+      8.4236581
+    ]
+  },
+  {
+    "name": "Arruinas/Ruinas",
+    "coordinates": [
+      39.9073662,
+      8.8858296
+    ]
+  },
+  {
+    "name": "Aritzu/Aritzo",
+    "coordinates": [
+      39.9361457,
+      9.2023942
+    ]
+  },
+  {
+    "name": "Siamanna",
+    "coordinates": [
+      39.9116679,
+      8.7779087
+    ]
+  },
+  {
+    "name": "Elini",
+    "coordinates": [
+      39.9000136,
+      9.579702
+    ]
+  },
+  {
+    "name": "Samugheo",
+    "coordinates": [
+      39.9429136,
+      8.9480904
+    ]
+  },
+  {
+    "name": "Meana/Meana Sardo",
+    "coordinates": [
+      39.9179589,
+      9.0549624
+    ]
+  },
+  {
+    "name": "Simaghis/Simaxis",
+    "coordinates": [
+      39.9217234,
+      8.6930836
+    ]
+  },
+  {
+    "name": "Sabarussa/Solarussa",
+    "coordinates": [
+      39.9746772,
+      8.6878717
+    ]
+  },
+  {
+    "name": "Siapicia/Siapiccia",
+    "coordinates": [
+      39.9372965,
+      8.7793176
+    ]
+  },
+  {
+    "name": "Àllai/Allai",
+    "coordinates": [
+      39.9483093,
+      8.8557654
+    ]
+  },
+  {
+    "name": "Biddamanna Istrisàili/Villagrande Strisaili",
+    "coordinates": [
+      40.0107072,
+      9.4601238
+    ]
+  },
+  {
+    "name": "Zrofolliu/Zerfaliu",
+    "coordinates": [
+      39.9820696,
+      8.7211546
+    ]
+  },
+  {
+    "name": "Ollasta/Ollastra",
+    "coordinates": [
+      39.9623938,
+      8.7549443
+    ]
+  },
+  {
+    "name": "Fordongianus",
+    "coordinates": [
+      39.9894264,
+      8.8124366
+    ]
+  },
+  {
+    "name": "Gelisuli/Girasole",
+    "coordinates": [
+      39.9543349,
+      9.6465273
+    ]
+  },
+  {
+    "name": "Lotzorai",
+    "coordinates": [
+      39.9707263,
+      9.6596674
+    ]
+  },
+  {
+    "name": "Nurachi",
+    "coordinates": [
+      39.9651759,
+      8.5425701
+    ]
+  },
+  {
+    "name": "Brebì/Belvì",
+    "coordinates": [
+      39.9722918,
+      9.1527011
+    ]
+  },
+  {
+    "name": "Siamajori/Siamaggiore",
+    "coordinates": [
+      39.9526676,
+      8.633
+    ]
+  },
+  {
+    "name": "Boàtiri/Baratili San Pietro",
+    "coordinates": [
+      39.9800172,
+      8.568421
+    ]
+  },
+  {
+    "name": "Atzara",
+    "coordinates": [
+      39.9750897,
+      9.0628944
+    ]
+  },
+  {
+    "name": "Zeddiani",
+    "coordinates": [
+      39.982664,
+      8.6016729
+    ]
+  },
+  {
+    "name": "Arriora/Riola Sardo",
+    "coordinates": [
+      39.9914128,
+      8.4887656
+    ]
+  },
+  {
+    "name": "Sòrgono/Sorgono",
+    "coordinates": [
+      40.0128775,
+      9.0704969
+    ]
+  },
+  {
+    "name": "Tramatza",
+    "coordinates": [
+      39.9999505,
+      8.6480033
+    ]
+  },
+  {
+    "name": "Busache/Busachi",
+    "coordinates": [
+      40.0066473,
+      8.8869829
+    ]
+  },
+  {
+    "name": "Dèsulu/Desulo",
+    "coordinates": [
+      40.0109863,
+      9.2547816
+    ]
+  },
+  {
+    "name": "Baunei",
+    "coordinates": [
+      40.1057625,
+      9.6413163
+    ]
+  },
+  {
+    "name": "Talana",
+    "coordinates": [
+      40.041353,
+      9.5161849
+    ]
+  },
+  {
+    "name": "Biddanoa Truschedu/Villanova Truschedu",
+    "coordinates": [
+      39.9927313,
+      8.7643672
+    ]
+  },
+  {
+    "name": "Tonara",
+    "coordinates": [
+      40.0180294,
+      9.1738382
+    ]
+  },
+  {
+    "name": "Triei",
+    "coordinates": [
+      40.0200272,
+      9.607901
+    ]
+  },
+  {
+    "name": "Ortueri",
+    "coordinates": [
+      40.0222076,
+      8.9883396
+    ]
+  },
+  {
+    "name": "Santeru/San Vero Milis",
+    "coordinates": [
+      40.0247308,
+      8.5044989
+    ]
+  },
+  {
+    "name": "Paulle/Paulilatino",
+    "coordinates": [
+      40.0719077,
+      8.7494809
+    ]
+  },
+  {
+    "name": "Baulau/Bauladu",
+    "coordinates": [
+      40.0261783,
+      8.6803602
+    ]
+  },
+  {
+    "name": "Ula/Ulà Tirso",
+    "coordinates": [
+      40.0397866,
+      8.8989694
+    ]
+  },
+  {
+    "name": "Narabuia/Narbolia",
+    "coordinates": [
+      40.04894,
+      8.5362637
+    ]
+  },
+  {
+    "name": "Milis",
+    "coordinates": [
+      40.0467072,
+      8.6416344
+    ]
+  },
+  {
+    "name": "Ilartzi/Ghilarza",
+    "coordinates": [
+      40.0922536,
+      8.8495324
+    ]
+  },
+  {
+    "name": "Sèneghe/Seneghe",
+    "coordinates": [
+      40.0824477,
+      8.5862432
+    ]
+  },
+  {
+    "name": "Tìana/Tiana",
+    "coordinates": [
+      40.0715102,
+      9.1690886
+    ]
+  },
+  {
+    "name": "Austis",
+    "coordinates": [
+      40.0909997,
+      9.0661491
+    ]
+  },
+  {
+    "name": "Neunele/Neoneli",
+    "coordinates": [
+      40.0632168,
+      8.9774494
+    ]
+  },
+  {
+    "name": "Bonaccattu/Bonarcado",
+    "coordinates": [
+      40.094937,
+      8.6613128
+    ]
+  },
+  {
+    "name": "Ardaule/Ardauli",
+    "coordinates": [
+      40.0815279,
+      8.9182495
+    ]
+  },
+  {
+    "name": "Cùllieri/Cuglieri",
+    "coordinates": [
+      40.138308,
+      8.5369651
+    ]
+  },
+  {
+    "name": "'Onne/Fonni",
+    "coordinates": [
+      40.1000514,
+      9.2870435
+    ]
+  },
+  {
+    "name": "Ovodda",
+    "coordinates": [
+      40.0970124,
+      9.1827019
+    ]
+  },
+  {
+    "name": "Tadasune/Tadasuni",
+    "coordinates": [
+      40.0991604,
+      8.8882401
+    ]
+  },
+  {
+    "name": "Orgòsolo/Orgosolo",
+    "coordinates": [
+      40.1763663,
+      9.4016669
+    ]
+  },
+  {
+    "name": "Teti",
+    "coordinates": [
+      40.1112249,
+      9.0926339
+    ]
+  },
+  {
+    "name": "Nughedu Santa Itòria/Nughedu Santa Vittoria",
+    "coordinates": [
+      40.1134787,
+      8.9803849
+    ]
+  },
+  {
+    "name": "Sorradile",
+    "coordinates": [
+      40.1364803,
+      8.9552675
+    ]
+  },
+  {
+    "name": "Orthullè/Urzulei",
+    "coordinates": [
+      40.1324662,
+      9.5067893
+    ]
+  },
+  {
+    "name": "Bidoniu/Bidonì",
+    "coordinates": [
+      40.1294422,
+      8.9351245
+    ]
+  },
+  {
+    "name": "Boroneddu",
+    "coordinates": [
+      40.1065549,
+      8.8693994
+    ]
+  },
+  {
+    "name": "Soddie/Soddì",
+    "coordinates": [
+      40.1353134,
+      8.8760699
+    ]
+  },
+  {
+    "name": "Santu Lussurzu/Santu Lussurgiu",
+    "coordinates": [
+      40.1592711,
+      8.6473112
+    ]
+  },
+  {
+    "name": "Abbasanta",
+    "coordinates": [
+      40.1415934,
+      8.7734406
+    ]
+  },
+  {
+    "name": "Ollollai/Ollolai",
+    "coordinates": [
+      40.1675078,
+      9.183611
+    ]
+  },
+  {
+    "name": "Gavoi",
+    "coordinates": [
+      40.1456103,
+      9.2176272
+    ]
+  },
+  {
+    "name": "Ortzai/Olzai",
+    "coordinates": [
+      40.1669725,
+      9.0830026
+    ]
+  },
+  {
+    "name": "Sèdilo/Sedilo",
+    "coordinates": [
+      40.1762086,
+      8.9448521
+    ]
+  },
+  {
+    "name": "Norghiddo/Norbello",
+    "coordinates": [
+      40.1627477,
+      8.7987723
+    ]
+  },
+  {
+    "name": "Aidumajore/Aidomaggiore",
+    "coordinates": [
+      40.1767042,
+      8.8408721
+    ]
+  },
+  {
+    "name": "Lodine",
+    "coordinates": [
+      40.1455924,
+      9.2343903
+    ]
+  },
+  {
+    "name": "Mamujada/Mamoiada",
+    "coordinates": [
+      40.210347,
+      9.2722787
+    ]
+  },
+  {
+    "name": "Otzana/Ottana",
+    "coordinates": [
+      40.2246064,
+      9.038071
+    ]
+  },
+  {
+    "name": "Bòrore/Borore",
+    "coordinates": [
+      40.20949,
+      8.7649889
+    ]
+  },
+  {
+    "name": "Tresnuraghes",
+    "coordinates": [
+      40.2164067,
+      8.4988626
+    ]
+  },
+  {
+    "name": "Iscanu/Scano di Montiferro",
+    "coordinates": [
+      40.219335,
+      8.6154213
+    ]
+  },
+  {
+    "name": "Sarule",
+    "coordinates": [
+      40.2154561,
+      9.1424057
+    ]
+  },
+  {
+    "name": "Duarche/Dualchi",
+    "coordinates": [
+      40.2343583,
+      8.8906658
+    ]
+  },
+  {
+    "name": "Durgali/Dorgali",
+    "coordinates": [
+      40.2947892,
+      9.5448251
+    ]
+  },
+  {
+    "name": "Sinnariolo/Sennariolo",
+    "coordinates": [
+      40.2153045,
+      8.532634
+    ]
+  },
+  {
+    "name": "Noragugume",
+    "coordinates": [
+      40.2309888,
+      8.957448
+    ]
+  },
+  {
+    "name": "Macumere/Macomer",
+    "coordinates": [
+      40.3082357,
+      8.7657069
+    ]
+  },
+  {
+    "name": "Flùssio/Flussio",
+    "coordinates": [
+      40.2527792,
+      8.5498109
+    ]
+  },
+  {
+    "name": "Bìroro/Birori",
+    "coordinates": [
+      40.2580231,
+      8.8267312
+    ]
+  },
+  {
+    "name": "Orane/Orani",
+    "coordinates": [
+      40.292425,
+      9.1526375
+    ]
+  },
+  {
+    "name": "Bolòtana/Bolotana",
+    "coordinates": [
+      40.3211767,
+      8.9361702
+    ]
+  },
+  {
+    "name": "Silanos/Silanus",
+    "coordinates": [
+      40.2944978,
+      8.9015453
+    ]
+  },
+  {
+    "name": "Magumadas/Magomadas",
+    "coordinates": [
+      40.2566942,
+      8.5161337
+    ]
+  },
+  {
+    "name": "Nùgoro/Nuoro",
+    "coordinates": [
+      40.3324429,
+      9.3045514
+    ]
+  },
+  {
+    "name": "Sàgama/Sagama",
+    "coordinates": [
+      40.2601681,
+      8.5966488
+    ]
+  },
+  {
+    "name": "Bortigale/Bortigali",
+    "coordinates": [
+      40.3016209,
+      8.8249832
+    ]
+  },
+  {
+    "name": "Sindìa/Sindia",
+    "coordinates": [
+      40.2905167,
+      8.6715493
+    ]
+  },
+  {
+    "name": "Mòdolo/Modolo",
+    "coordinates": [
+      40.2812599,
+      8.5282109
+    ]
+  },
+  {
+    "name": "Bosa",
+    "coordinates": [
+      40.3347617,
+      8.476261
+    ]
+  },
+  {
+    "name": "Tinnura",
+    "coordinates": [
+      40.2693828,
+      8.5622774
+    ]
+  },
+  {
+    "name": "Sune/Suni",
+    "coordinates": [
+      40.314971,
+      8.5802116
+    ]
+  },
+  {
+    "name": "Ulìana/Oliena",
+    "coordinates": [
+      40.2930573,
+      9.4354335
+    ]
+  },
+  {
+    "name": "Illorai",
+    "coordinates": [
+      40.3610779,
+      8.990105
+    ]
+  },
+  {
+    "name": "Oroteddi/Orotelli",
+    "coordinates": [
+      40.3184359,
+      9.0966171
+    ]
+  },
+  {
+    "name": "Semèstene/Semestene",
+    "coordinates": [
+      40.3723877,
+      8.7173369
+    ]
+  },
+  {
+    "name": "Putumajore/Pozzomaggiore",
+    "coordinates": [
+      40.3676486,
+      8.6339116
+    ]
+  },
+  {
+    "name": "Lei",
+    "coordinates": [
+      40.3074692,
+      8.9122408
+    ]
+  },
+  {
+    "name": "Orosei",
+    "coordinates": [
+      40.4040843,
+      9.7265563
+    ]
+  },
+  {
+    "name": "Bottidda",
+    "coordinates": [
+      40.4050505,
+      9.0129592
+    ]
+  },
+  {
+    "name": "Isporlatu/Esporlatu",
+    "coordinates": [
+      40.3845922,
+      8.9934506
+    ]
+  },
+  {
+    "name": "Bono",
+    "coordinates": [
+      40.4192826,
+      9.04219
+    ]
+  },
+  {
+    "name": "Onieri/Oniferi",
+    "coordinates": [
+      40.3158643,
+      9.1516222
+    ]
+  },
+  {
+    "name": "Benetutti",
+    "coordinates": [
+      40.4403841,
+      9.1765593
+    ]
+  },
+  {
+    "name": "Pàdria/Padria",
+    "coordinates": [
+      40.4066297,
+      8.584846
+    ]
+  },
+  {
+    "name": "Garteddi/Galtellì",
+    "coordinates": [
+      40.3863742,
+      9.5795221
+    ]
+  },
+  {
+    "name": "Montresta",
+    "coordinates": [
+      40.3837411,
+      8.5084328
+    ]
+  },
+  {
+    "name": "Oniài/Onifai",
+    "coordinates": [
+      40.4377592,
+      9.6967444
+    ]
+  },
+  {
+    "name": "Irgoli",
+    "coordinates": [
+      40.4546536,
+      9.6520898
+    ]
+  },
+  {
+    "name": "Orune",
+    "coordinates": [
+      40.4200558,
+      9.33093
+    ]
+  },
+  {
+    "name": "Lùvula/Lula",
+    "coordinates": [
+      40.4695567,
+      9.5072898
+    ]
+  },
+  {
+    "name": "Bonolva/Bonorva",
+    "coordinates": [
+      40.4209237,
+      8.8408971
+    ]
+  },
+  {
+    "name": "Biddanoa Monteleone/Villanova Monteleone",
+    "coordinates": [
+      40.4738072,
+      8.4728317
+    ]
+  },
+  {
+    "name": "Su Burgu/Burgos",
+    "coordinates": [
+      40.4002578,
+      8.986376
+    ]
+  },
+  {
+    "name": "Cossoine",
+    "coordinates": [
+      40.441933,
+      8.6653623
+    ]
+  },
+  {
+    "name": "Urtei/Bultei",
+    "coordinates": [
+      40.4745376,
+      9.0762223
+    ]
+  },
+  {
+    "name": "Lòcula/Loculi",
+    "coordinates": [
+      40.4321721,
+      9.5758482
+    ]
+  },
+  {
+    "name": "Mara",
+    "coordinates": [
+      40.4353543,
+      8.6324388
+    ]
+  },
+  {
+    "name": "Rumana/Romana",
+    "coordinates": [
+      40.4852925,
+      8.5781512
+    ]
+  },
+  {
+    "name": "Monteleone/Monteleone Rocca Doria",
+    "coordinates": [
+      40.4737849,
+      8.5578938
+    ]
+  },
+  {
+    "name": "Bitzi/Bitti",
+    "coordinates": [
+      40.5509572,
+      9.4025004
+    ]
+  },
+  {
+    "name": "Giave",
+    "coordinates": [
+      40.4629843,
+      8.715413
+    ]
+  },
+  {
+    "name": "Nule",
+    "coordinates": [
+      40.4798863,
+      9.2216356
+    ]
+  },
+  {
+    "name": "Thiniscole/Siniscola",
+    "coordinates": [
+      40.5433522,
+      9.7045014
+    ]
+  },
+  {
+    "name": "Turalva/Torralba",
+    "coordinates": [
+      40.4964262,
+      8.8027769
+    ]
+  },
+  {
+    "name": "Thiesi",
+    "coordinates": [
+      40.5119649,
+      8.6570048
+    ]
+  },
+  {
+    "name": "Cherèmule/Cheremule",
+    "coordinates": [
+      40.4924471,
+      8.6867502
+    ]
+  },
+  {
+    "name": "Nughedu Santu Nigola/Nughedu San Nicolò",
+    "coordinates": [
+      40.5292185,
+      8.9824781
+    ]
+  },
+  {
+    "name": "Anela",
+    "coordinates": [
+      40.4542253,
+      9.0345649
+    ]
+  },
+  {
+    "name": "Mores",
+    "coordinates": [
+      40.5522739,
+      8.8419594
+    ]
+  },
+  {
+    "name": "Itireddu/Ittireddu",
+    "coordinates": [
+      40.5284879,
+      8.9082735
+    ]
+  },
+  {
+    "name": "Boruta/Borutta",
+    "coordinates": [
+      40.5239677,
+      8.7443895
+    ]
+  },
+  {
+    "name": "Patada/Pattada",
+    "coordinates": [
+      40.5923317,
+      9.1212192
+    ]
+  },
+  {
+    "name": "Osidde/Osidda",
+    "coordinates": [
+      40.5208431,
+      9.2343138
+    ]
+  },
+  {
+    "name": "Bunnànnaru/Bonnanaro",
+    "coordinates": [
+      40.544359,
+      8.7804825
+    ]
+  },
+  {
+    "name": "l'Alguer/Alghero",
+    "coordinates": [
+      40.5844763,
+      8.2790427
+    ]
+  },
+  {
+    "name": "Potuvigari/Putifigari",
+    "coordinates": [
+      40.5718487,
+      8.4452478
+    ]
+  },
+  {
+    "name": "Uddusò/Buddusò",
+    "coordinates": [
+      40.6069273,
+      9.2847603
+    ]
+  },
+  {
+    "name": "Bessude",
+    "coordinates": [
+      40.5536679,
+      8.683856
+    ]
+  },
+  {
+    "name": "Ìtiri Cannedu/Ittiri",
+    "coordinates": [
+      40.5880063,
+      8.5605228
+    ]
+  },
+  {
+    "name": "Onanìe/Onanì",
+    "coordinates": [
+      40.5273122,
+      9.4542396
+    ]
+  },
+  {
+    "name": "Lodè",
+    "coordinates": [
+      40.5935275,
+      9.5660981
+    ]
+  },
+  {
+    "name": "Sìligo/Siligo",
+    "coordinates": [
+      40.5941082,
+      8.7302241
+    ]
+  },
+  {
+    "name": "Otieri/Ozieri",
+    "coordinates": [
+      40.64471,
+      8.9476216
+    ]
+  },
+  {
+    "name": "Bànari/Banari",
+    "coordinates": [
+      40.5811865,
+      8.671159
+    ]
+  },
+  {
+    "name": "Fiolinas/Florinas",
+    "coordinates": [
+      40.6291171,
+      8.6559753
+    ]
+  },
+  {
+    "name": "Torpè",
+    "coordinates": [
+      40.6527466,
+      9.6243195
+    ]
+  },
+  {
+    "name": "Pasada/Posada",
+    "coordinates": [
+      40.6441303,
+      9.7187701
+    ]
+  },
+  {
+    "name": "Codronzanu/Codrongianos",
+    "coordinates": [
+      40.6592519,
+      8.6833166
+    ]
+  },
+  {
+    "name": "Àldara/Ardara",
+    "coordinates": [
+      40.6306376,
+      8.8349543
+    ]
+  },
+  {
+    "name": "Uri",
+    "coordinates": [
+      40.63611,
+      8.4702455
+    ]
+  },
+  {
+    "name": "Ossi",
+    "coordinates": [
+      40.652719,
+      8.5980283
+    ]
+  },
+  {
+    "name": "Piaghe/Ploaghe",
+    "coordinates": [
+      40.6735228,
+      8.7579617
+    ]
+  },
+  {
+    "name": "Ùsini/Usini",
+    "coordinates": [
+      40.6591891,
+      8.5296832
+    ]
+  },
+  {
+    "name": "S'Ulumedu/Olmedo",
+    "coordinates": [
+      40.6516477,
+      8.383226
+    ]
+  },
+  {
+    "name": "Padru",
+    "coordinates": [
+      40.7236458,
+      9.5034188
+    ]
+  },
+  {
+    "name": "Alà/Alà dei Sardi",
+    "coordinates": [
+      40.6704616,
+      9.3453061
+    ]
+  },
+  {
+    "name": "Tzaramonte/Chiaramonti",
+    "coordinates": [
+      40.7284171,
+      8.8431107
+    ]
+  },
+  {
+    "name": "Carzeghe/Cargeghe",
+    "coordinates": [
+      40.6778081,
+      8.6427357
+    ]
+  },
+  {
+    "name": "Oscheri/Oschiri",
+    "coordinates": [
+      40.7397151,
+      9.1166152
+    ]
+  },
+  {
+    "name": "Sassari",
+    "coordinates": [
+      40.7605259,
+      8.3872217
+    ]
+  },
+  {
+    "name": "Budune/Budoni",
+    "coordinates": [
+      40.7049814,
+      9.6956182
+    ]
+  },
+  {
+    "name": "Tissi",
+    "coordinates": [
+      40.6628549,
+      8.5650726
+    ]
+  },
+  {
+    "name": "Muros",
+    "coordinates": [
+      40.6955246,
+      8.6199239
+    ]
+  },
+  {
+    "name": "Òsile/Osilo",
+    "coordinates": [
+      40.7682143,
+      8.6799274
+    ]
+  },
+  {
+    "name": "Belchidda/Berchidda",
+    "coordinates": [
+      40.7724275,
+      9.2021104
+    ]
+  },
+  {
+    "name": "Olbia",
+    "coordinates": [
+      40.8949732,
+      9.5636966
+    ]
+  },
+  {
+    "name": "Monte/Monti",
+    "coordinates": [
+      40.7966799,
+      9.3562815
+    ]
+  },
+  {
+    "name": "Tula",
+    "coordinates": [
+      40.7476441,
+      8.9884401
+    ]
+  },
+  {
+    "name": "Erula",
+    "coordinates": [
+      40.7818793,
+      8.9428735
+    ]
+  },
+  {
+    "name": "Sènnaru/Sennori",
+    "coordinates": [
+      40.8022105,
+      8.6226615
+    ]
+  },
+  {
+    "name": "Martis",
+    "coordinates": [
+      40.7830054,
+      8.8335853
+    ]
+  },
+  {
+    "name": "Pèifugas/Perfugas",
+    "coordinates": [
+      40.833195,
+      8.9351504
+    ]
+  },
+  {
+    "name": "Loiri-Poltu Santu Paolu/Loiri Porto San Paolo",
+    "coordinates": [
+      40.8351692,
+      9.5334549
+    ]
+  },
+  {
+    "name": "Laerru",
+    "coordinates": [
+      40.8111822,
+      8.8426466
+    ]
+  },
+  {
+    "name": "Tèmpiu/Tempio Pausania",
+    "coordinates": [
+      40.9856456,
+      9.1520634
+    ]
+  },
+  {
+    "name": "Sòssu/Sorso",
+    "coordinates": [
+      40.8248623,
+      8.5651691
+    ]
+  },
+  {
+    "name": "Bultzi/Bulzi",
+    "coordinates": [
+      40.8524056,
+      8.8509095
+    ]
+  },
+  {
+    "name": "Zelgu/Tergu",
+    "coordinates": [
+      40.8521997,
+      8.7121535
+    ]
+  },
+  {
+    "name": "Posthudorra/Porto Torres",
+    "coordinates": [
+      40.951076,
+      8.3338048
+    ]
+  },
+  {
+    "name": "Caragnani/Calangianus",
+    "coordinates": [
+      40.9190872,
+      9.2386219
+    ]
+  },
+  {
+    "name": "Telti",
+    "coordinates": [
+      40.9014655,
+      9.3561682
+    ]
+  },
+  {
+    "name": "Isthintini/Stintino",
+    "coordinates": [
+      40.8940839,
+      8.2251626
+    ]
+  },
+  {
+    "name": "Cuzina/Santa Maria Coghinas",
+    "coordinates": [
+      40.894226,
+      8.8660351
+    ]
+  },
+  {
+    "name": "Bultiggjata/Bortigiadas",
+    "coordinates": [
+      40.8765516,
+      8.9802381
+    ]
+  },
+  {
+    "name": "Castheddu/Castelsardo",
+    "coordinates": [
+      40.8923439,
+      8.7156892
+    ]
+  },
+  {
+    "name": "Codaruina/Valledoria",
+    "coordinates": [
+      40.9189071,
+      8.8232261
+    ]
+  },
+  {
+    "name": "Viddha Eccia/Viddalba",
+    "coordinates": [
+      40.9237318,
+      8.9299922
+    ]
+  },
+  {
+    "name": "Agghju/Aggius",
+    "coordinates": [
+      40.9876634,
+      9.0166602
+    ]
+  },
+  {
+    "name": "Badesi",
+    "coordinates": [
+      40.9588716,
+      8.8691848
+    ]
+  },
+  {
+    "name": "Sant'Antoni di Gaddura/Sant'Antonio di Gallura",
+    "coordinates": [
+      40.970976,
+      9.3311839
+    ]
+  },
+  {
+    "name": "La Trinitai e Vignola/Trinità d'Agultu e Vignola",
+    "coordinates": [
+      41.0314287,
+      8.9585535
+    ]
+  },
+  {
+    "name": "Figari/Golfo Aranci",
+    "coordinates": [
+      40.9881525,
+      9.5777527
+    ]
+  },
+  {
+    "name": "Luras",
+    "coordinates": [
+      40.9734981,
+      9.202659
+    ]
+  },
+  {
+    "name": "Locusantu/Luogosanto",
+    "coordinates": [
+      41.0679979,
+      9.2035063
+    ]
+  },
+  {
+    "name": "Alzachèna/Arzachena",
+    "coordinates": [
+      41.0858465,
+      9.4254528
+    ]
+  },
+  {
+    "name": "Aglientu",
+    "coordinates": [
+      41.0860628,
+      9.1154252
+    ]
+  },
+  {
+    "name": "Lu Palau/Palau",
+    "coordinates": [
+      41.1672938,
+      9.3662302
+    ]
+  },
+  {
+    "name": "Lungòni/Santa Teresa Gallura",
+    "coordinates": [
+      41.2039364,
+      9.226318
+    ]
+  },
+  {
+    "name": "Nujvi/Nulvi",
+    "coordinates": [
+      40.7913136,
+      8.7587569
+    ]
+  },
+  {
+    "name": "Séddini/Sedini",
+    "coordinates": [
+      40.8653489,
+      8.7982514
+    ]
+  },
+  {
+    "name": "Castiadas",
+    "coordinates": [
+      39.235831,
+      9.5148173
+    ]
+  },
+  {
+    "name": "Murera/Muravera",
+    "coordinates": [
+      39.3356622,
+      9.5798429
+    ]
+  },
+  {
+    "name": "Siliqua",
+    "coordinates": [
+      39.255222,
+      8.7866547
+    ]
+  },
+  {
+    "name": "La Maddalena",
+    "coordinates": [
+      41.187027,
+      9.465424
+    ]
+  }
+]

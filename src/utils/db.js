@@ -50,3 +50,23 @@ export const getLeaderboard = async (limit = 10) => {
     ...doc.data()
   }));
 }; 
+
+// Recupera i migliori punteggi di un utente
+export const getUserBestScores = async (userId) => {
+  try {
+    const q = query(
+      collection(db, "scores"),
+      where("userId", "==", userId),
+      orderBy("score", "desc"),
+      limit(10)
+    );
+    const querySnapshot = await getDocs(q);
+    return querySnapshot.docs.map(doc => ({
+      id: doc.id,
+      ...doc.data()
+    }));
+  } catch (error) {
+    console.error("Errore nel recupero dei punteggi:", error);
+    return [];
+  }
+};

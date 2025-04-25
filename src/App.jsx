@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Circle, useMapEvents } from 'react-lea
 import * as turf from '@turf/turf';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-import citiesData from './data/sardinian-cities.json';
+import citiesData from './data/sardinian-cities-corrected.json';
 // import Leaderboard from './components/Leaderboard';
 
 // Fix for default marker icons in Leaflet with React
@@ -26,7 +26,7 @@ function MapClickHandler({ onClick }) {
 function StartPage({ onStart }) {
   return (
     <div className="start-page">
-      <h1 onClick={onStart}>Insetta</h1>
+      <h1 onClick={onStart}>Intzetta</h1>
       {/* <Leaderboard maxPlayers={5} /> */}
     </div>
   );
@@ -35,7 +35,12 @@ function StartPage({ onStart }) {
 function EndPage({ score, onRestart }) {
   return (
     <div className="end-page">
-      <h1>Game Over!</h1>
+      {/* {score === 0 && <h1>No asi intzettau nudda!</h1>}
+      {score >= 500 && <h1>Sei una schiappa!</h1>}
+      {score >= 1500 && <h1>Insettare non è il tuo forte!</h1>}
+      {score >= 2500 && <h1>Mediocre!</h1>}
+      {score >= 3500 && <h1>Ndasi insettau ua pariga!</h1>}
+      {score >= 4500 && <h1>Bravu!</h1>} */}
       <h2>Final Score: {score}</h2>
       <button className="button" onClick={onRestart}>
         Play Again
@@ -117,8 +122,9 @@ function Game({ onGameEnd }) {
     let points = 0;
     if (distanceInKm <= 2) points = 1000;
     else if (distanceInKm <= 5) points = 800;
-    else if (distanceInKm <= 10) points = 500;
-    else points = 100;
+    else if (distanceInKm <= 10) points = 600;
+    else if (distanceInKm <= 15) points = 400;
+    else if (distanceInKm <= 20) points = 200;
 
     setScore(prevScore => prevScore + points);
     setShowResult(true);

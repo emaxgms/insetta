@@ -36,4 +36,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_INSETTA_B078C }}
           projectId: insetta-b078c
-          # omettendo `channelId` deploya per default sul canale “live”
+          channelId: live

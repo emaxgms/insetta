@@ -292,3 +292,77 @@ body {
   color: #666;
   padding: 20px;
 } 
+
+/* Auth */
+/* Contenitore principale */
+.auth-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;  /* Altura del contenitore a tutta la finestra */
+  background-color: #f4f4f9;  /* Colore di sfondo chiaro */
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+/* Immagine dell'utente */
+.user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.user-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;  /* Rende l'immagine rotonda e adatta */
+  margin-bottom: 10px;
+}
+
+/* Nome dell'utente */
+.user-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Bottoni */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.sign-out-btn {
+  background-color: #ff4c4c;  /* Rosso per il bottone di logout */
+  color: white;
+  margin-top: 10px;
+}
+
+.sign-out-btn:hover {
+  background-color: #ff3333;  /* Colore più scuro al passaggio del mouse */
+}
+
+.google-sign-in-btn {
+  background-color: #4285F4;  /* Colore del bottone di Google */
+  color: white;
+  margin-top: 20px;
+}
+
+.google-sign-in-btn:hover {
+  background-color: #3367D6;  /* Colore più scuro al passaggio del mouse */
+}
+
+/* Stile del messaggio di loading */
+.loading-message {
+  font-size: 20px;
+  color: #555;
+}

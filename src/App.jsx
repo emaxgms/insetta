@@ -4,6 +4,7 @@ import * as turf from '@turf/turf';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import citiesData from './data/sardinian-cities-corrected.json';
+import Auth from './components/Auth';
 // import Leaderboard from './components/Leaderboard';
 
 // Fix for default marker icons in Leaflet with React
@@ -14,7 +15,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
 });
 
-const TOTAL_ROUNDS = 5;
+const TOTAL_ROUNDS = 8;
 
 function MapClickHandler({ onClick }) {
   useMapEvents({
@@ -25,25 +26,31 @@ function MapClickHandler({ onClick }) {
 
 function StartPage({ onStart }) {
   return (
-    <div className="start-page">
-      <h1 onClick={onStart}>Intzetta</h1>
-      {/* <Leaderboard maxPlayers={5} /> */}
-    </div>
+    <>
+      <div className="start-page">
+        <h1 onClick={onStart}>Intzetta</h1>
+        {/* <Leaderboard maxPlayers={5} /> */}
+      </div>
+      {/* <Auth/> */}
+    </>
+
   );
 }
 
 function EndPage({ score, onRestart }) {
   return (
     <div className="end-page">
-      {/* {score === 0 && <h1>No asi intzettau nudda!</h1>}
-      {score >= 500 && <h1>Sei una schiappa!</h1>}
-      {score >= 1500 && <h1>Insettare non è il tuo forte!</h1>}
-      {score >= 2500 && <h1>Mediocre!</h1>}
-      {score >= 3500 && <h1>Ndasi insettau ua pariga!</h1>}
-      {score >= 4500 && <h1>Bravu!</h1>} */}
-      <h2>Final Score: {score}</h2>
+      {score === 0 && <h1>No asi intzettau nudda!</h1>}
+      {score > 0 && score <= 2500 && <h1>Caddu lanzu, musca meda!</h1>}
+      {score > 2500 && score <= 5000 && <h1>Intzettare non è il tuo forte!</h1>}
+      {score > 5000 && score <= 9000 && <h1>Bonu po fundi a Santu Ingiu!</h1>}
+      {score > 9000 && score <= 20000 && <h1>Ndasi intzettau una pariga!</h1>}
+      {score > 20000 && score <= 30000 && <h1>Bravu complimenti!</h1>}
+      {score > 30000 && score < 40000 && <h1>Bravu Meda!</h1>}
+      {score == 40000 && <h1>Ses un Intzettadori!</h1>}
+      <h2>Intzettati: {score}/{5000 * TOTAL_ROUNDS}</h2>
       <button className="button" onClick={onRestart}>
-        Play Again
+        Torra a Giogai
       </button>
       {/* <Leaderboard maxPlayers={10} /> */}
     </div>
@@ -57,6 +64,7 @@ function Game({ onGameEnd }) {
   const [showResult, setShowResult] = useState(false);
   const [distance, setDistance] = useState(null);
   const [currentRound, setCurrentRound] = useState(1);
+  const [scoreRound, setScoreRound] = useState(0);
   const [usedCities, setUsedCities] = useState([]);
 
   const sardiniaBounds = [
@@ -119,15 +127,45 @@ function Game({ onGameEnd }) {
     const distanceInKm = turf.distance(from, to);
     setDistance(distanceInKm);
 
-    let points = 0;
-    if (distanceInKm <= 2) points = 1000;
-    else if (distanceInKm <= 5) points = 800;
-    else if (distanceInKm <= 10) points = 600;
-    else if (distanceInKm <= 15) points = 400;
-    else if (distanceInKm <= 20) points = 200;
-
+    let points = calcScore(distanceInKm * 1000);
+    // if (distanceInKm <= 2) points = 1000;
+    // else if (distanceInKm <= 5) points = 800;
+    // else if (distanceInKm <= 10) points = 600;
+    // else if (distanceInKm <= 15) points = 400;
+    // else if (distanceInKm <= 20) points = 200;
+    setScoreRound(prev => prev + 1);
     setScore(prevScore => prevScore + points);
     setShowResult(true);
+  };
+
+  function calcScore(distanceInMeters) {
+    const maxDistance = 50000;
+  
+    // Distanza minima per ottenere il punteggio massimo (50 metri)
+    const perfectDistance = 1000;
+    
+    // Punteggio massimo possibile
+    const maxScore = 5000;
+    
+    // Se la distanza è minore della perfectDistance, assegna il punteggio massimo
+    if (distanceInMeters <= perfectDistance) {
+      return maxScore;
+    }
+    // Se la distanza è maggiore della distanza massima, assegna punteggio minimo (0)
+    if (distanceInMeters >= maxDistance) {
+      return 0;
+    }
+    
+    // Calcola il punteggio con decadimento esponenziale
+    // Questo crea una curva che scende rapidamente all'inizio e poi più lentamente
+    console.log('distanza: ' + distanceInMeters);
+    const distanceRatio = (distanceInMeters - perfectDistance) / (maxDistance - perfectDistance);
+    console.log('distanceRatio: ' + distanceRatio);
+    const score = Math.round(maxScore * Math.pow(0.9, distanceRatio * 50));
+    console.log('score: ' + score);
+    
+    // Assicurati che il punteggio sia tra 0 e maxScore
+    return Math.max(0, Math.min(score, maxScore));
   };
 
   const handleNextRound = () => {
@@ -143,11 +181,11 @@ function Game({ onGameEnd }) {
     <>
       <div className="game-overlay">
         <div className="city-prompt">
-          {currentCity ? currentCity.name : 'Loading...'}
+          {currentCity ? currentCity.name : 'Caricando...'}
         </div>
         
         <div className="score-display">
-          {score}
+          {score}/{(scoreRound) * 5000}
           {distance && <div className="distance">{distance.toFixed(2)} km</div>}
         </div>
 
@@ -190,8 +228,8 @@ function Game({ onGameEnd }) {
             <Marker position={currentCity.coordinates} />
             <Circle
               center={currentCity.coordinates}
-              radius={2000}
-              pathOptions={{ color: 'green', fillColor: 'green', fillOpacity: 0.2 }}
+              radius={1000}
+              pathOptions={{ color: 'purple', fillColor: 'purple', fillOpacity: 0.15 }}
             />
           </>
         )}

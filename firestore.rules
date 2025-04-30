@@ -1,37 +1,8 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    // Regola per gli utenti e i loro punteggi
-    match /users/{userId} {
-      allow read: if true; // Chiunque può vedere i profili per la classifica
-      allow create: if request.auth != null && request.auth.uid == userId;
-      allow update: if request.auth != null && request.auth.uid == userId;
-      allow delete: if false; // Non permettere l'eliminazione degli account
-      
-      // Validazione dei dati
-      match /highScore {
-        allow read: if true;
-        allow write: if request.auth != null && 
-                     request.auth.uid == userId && 
-                     request.resource.data.highScore is number &&
-                     request.resource.data.highScore >= 0;
-      }
-    }
-    
-    // Regola per i dati pubblici
-    match /public/{document=**} {
-      allow read: if true;
-      allow write: if request.auth != null;
-    }
-    
-    // Regola per i dati privati
-    match /private/{document=**} {
-      allow read, write: if request.auth != null;
-    }
-    
-    // Regola di default: nega tutto
-    match /{document=**} {
-      allow read, write: if false;
+    match /BestScores/{document} {
+      allow read, write: if request.auth != null; // Consenti solo agli utenti autenticati
     }
   }
-} 
+}

@@ -14,7 +14,7 @@ export default function Leaderboard({ maxPlayers = 10 }) {
         setLeaderboard(topPlayers);
         setLoading(false);
       } catch (err) {
-        setError('Errore nel caricamento della classifica');
+        setError('Errore nel caricamento della classifica: ' + err.message);
         setLoading(false);
       }
     };
@@ -54,14 +54,17 @@ export default function Leaderboard({ maxPlayers = 10 }) {
             >
               <span className="rank">{index + 1}°</span>
               <div className="player-info">
-                <img 
-                  src={player.photoURL || '/default-avatar.png'} 
-                  alt={player.displayName} 
-                  className="player-avatar"
-                />
-                <span className="player-name">{player.displayName}</span>
+                {player.photoURL ?
+                  <img 
+                    src={player.photoURL || '/default-avatar.png'} 
+                    alt={player.username} 
+                    className="player-avatar"
+                  />
+                  : <div className="default-avatar"></div>
+                }
+                <span className="player-name">{player.username}</span>
               </div>
-              <span className="score">{player.highScore}</span>
+              <span className="score">{player.bestScore}</span>
             </div>
           ))
         )}

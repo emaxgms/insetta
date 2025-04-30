@@ -1,12 +1,12 @@
 import { db } from '../firebase';
-import { doc, setDoc, getDoc, updateDoc, collection, query, orderBy, limit, getDocs } from 'firebase/firestore';
+import { doc, setDoc, getDoc, addDoc, updateDoc, collection, query, orderBy, limit, getDocs } from 'firebase/firestore';
 
 // Crea o aggiorna il profilo utente
 export const createOrUpdateUserProfile = async (userId, userData) => {
   const userRef = doc(db, 'users', userId);
   await setDoc(userRef, {
     ...userData,
-    lastUpdated: new Date(),
+    lastModifiedDate: new Date(),
   }, { merge: true });
 };
 
@@ -18,7 +18,7 @@ export const getUserProfile = async (userId) => {
 };
 
 // Aggiorna il punteggio massimo dell'utente
-export const updateUserHighScore = async (userId, newScore) => {
+export const upsertBestScore = async (userId, newScore) => {
   const userRef = doc(db, 'users', userId);
   const userSnap = await getDoc(userRef);
   
@@ -26,23 +26,23 @@ export const updateUserHighScore = async (userId, newScore) => {
     throw new Error('User profile not found');
   }
 
-  const currentHighScore = userSnap.data().highScore || 0;
+  const currentBestScore = userSnap.data().bestScore || 0;
   
-  if (newScore > currentHighScore) {
+  if (newScore > currentBestScore) {
     await updateDoc(userRef, {
-      highScore: newScore,
-      highScoreDate: new Date(),
+      bestScore: newScore,
+      bestScoreDate: new Date(),
     });
     return newScore;
   }
   
-  return currentHighScore;
+  return currentBestScore;
 };
 
 // Ottieni la classifica dei migliori punteggi
-export const getLeaderboard = async (limit = 10) => {
+export const getLeaderboard = async (maxPlayers = 10) => {
   const usersRef = collection(db, 'users');
-  const q = query(usersRef, orderBy('highScore', 'desc'), limit(limit));
+  const q = query(usersRef, orderBy('bestScore', 'desc'), limit(maxPlayers));
   const querySnapshot = await getDocs(q);
   
   return querySnapshot.docs.map(doc => ({
@@ -52,21 +52,17 @@ export const getLeaderboard = async (limit = 10) => {
 }; 
 
 // Recupera i migliori punteggi di un utente
-export const getUserBestScores = async (userId) => {
+export const getUserBestScore = async (userId) => {
   try {
-    const q = query(
-      collection(db, "scores"),
-      where("userId", "==", userId),
-      orderBy("score", "desc"),
-      limit(10)
-    );
-    const querySnapshot = await getDocs(q);
-    return querySnapshot.docs.map(doc => ({
-      id: doc.id,
-      ...doc.data()
-    }));
+    const bestScoreRef = doc(db, 'users', userId);
+
+    const docSnap = await getDoc(bestScoreRef);
+
+    if (docSnap.exists()) {
+      return docSnap.data().bestScore;
+    }
+    return null;
   } catch (error) {
-    console.error("Errore nel recupero dei punteggi:", error);
-    return [];
+    console.error('Error querying score: ', error);
   }
 };

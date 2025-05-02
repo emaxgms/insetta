@@ -1,14 +1,28 @@
 import React, { createContext, useState, useContext, useEffect } from 'react';
 import { auth, googleProvider } from '../firebase';
-import { GoogleAuthProvider , signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile, signInWithRedirect   } from 'firebase/auth';
+import { 
+  GoogleAuthProvider,
+  signInWithPopup,
+  signOut,
+  onAuthStateChanged,
+  createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
+  updateProfile,
+  signInWithCredential,
+  signInWithRedirect,
+  getRedirectResult
+} from 'firebase/auth';
 
 const AuthContext = createContext();
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
+    if (!window.gapi) {
+      console.error('Google API not loaded');
+    }
     const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
       setUser(currentUser);
       console.log('Utente attuale:', currentUser);
@@ -23,8 +37,7 @@ export const AuthProvider = ({ children }) => {
     console.log('isMobile:', isMobile);
     try {
       if (isMobile) {
-        const {result} = await signInWithRedirect(auth, googleProvider);
-        console.log('Risultato login:', result);
+        await signInGoogleCredentials();
       }else{
         await signInWithPopup(auth, googleProvider);
       }
@@ -32,7 +45,34 @@ export const AuthProvider = ({ children }) => {
       console.error('Errore durante il login:', error);
     }
   };
+  const signInGoogleCredentials = async () => {
+    try {
+      console.log('Iniziando il caricamento di gapi...');
+      // Usa gapi.load per caricare auth2
+      window.gapi.load('auth2', async function() {
+        console.log('gapi loaded');
+        // Inizializza l'istanza di googleAuth
+        const googleAuth = window.gapi.auth2.init({
+          client_id: '752286225974-v4oh45b80n5mq9i22uhjdu2b4n77l49s.apps.googleusercontent.com',  // Sostituisci con il tuo client ID
+        });
+        console.log('googleAuth', googleAuth);
+        // Ora fai il login
+        const googleUser = await googleAuth.signIn({
+          prompt: 'select_account',  // Prova a usare 'select_account' invece di 'popup'
+        });
+        console.log('Google User:', googleUser);
 
+        const idToken = googleUser.getAuthResponse().id_token;
+        console.log('idToken:', idToken);
+
+        const credential = GoogleAuthProvider.credential(idToken);
+        const result = await signInWithCredential(auth, credential);
+        console.log('User signed in:', result.user);
+      });
+    } catch (error) {
+      console.error('Errore nel login:', error);
+    }
+  };
   const signInWithEmail = async (email, password) => {
     try {
       const userCredential = await signInWithEmailAndPassword(auth, email, password);

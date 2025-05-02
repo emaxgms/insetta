@@ -18,7 +18,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
 });
 
-const TOTAL_ROUNDS = 8;
+const TOTAL_ROUNDS = 1;
 
 function MapClickHandler({ onClick }) {
   useMapEvents({
@@ -29,23 +29,35 @@ function MapClickHandler({ onClick }) {
 
 function StartPage({ onStart }) {
   return (
-    <>
-      <div className="start-page">
-        <h1 onClick={onStart} title='Inizia a Giocare'>Intzetta</h1>
-        <Auth/>
-        <div className="stats-container">
-          <Leaderboard maxPlayers={5} />
-          <BestScore />
+    <div className="start-page">
+      <header>
+        <div className="logo">
+          <img src="/logo-t.svg" alt="Logo" />
         </div>
-      </div>
-    </>
-
+        <Auth/>
+      </header>
+      <section className='intro'>
+        <h1>SCOPRI LA SARDEGNA!</h1>
+        <h2>Da Bitti a Teulada, trova ogni paese sulla mappa.<br />Gioca ora e scopri quante ne Intzetti!</h2>
+        <button className='play' onClick={onStart} title='Inizia a Giocare'>INTZETTA!</button>
+      </section>
+      <section className="stats">
+        <Leaderboard maxPlayers={5} />
+        <BestScore />
+      </section>
+    </div>
   );
 }
 
-function EndPage({ score, onRestart }) {
+function EndPage({ score, onRestart, refreshData }) {
   return (
     <div className="end-page">
+      <header>
+        <div className="logo">
+          <img src="/logo-t.svg" alt="Logo" />
+        </div>
+        <Auth/>
+      </header>
       <div className="finalMessage">
         {score === 0 && <h1>No asi intzettau nudda!</h1>}
         {score > 0 && score <= 2500 && <h1>Caddu lanzu, musca meda!</h1>}
@@ -60,10 +72,10 @@ function EndPage({ score, onRestart }) {
       <button className="button" onClick={onRestart}>
         Torra a Giogai
       </button>
-      <div className="stats-container">
-        <Leaderboard maxPlayers={10} />
-        <BestScore />
-      </div>
+      <section className="stats">
+        <Leaderboard maxPlayers={10} refreshData={refreshData}/>
+        <BestScore score={score} />
+      </section>
     </div>
   );
 }
@@ -104,6 +116,7 @@ function Game({ onGameEnd }) {
           if (currentRound < TOTAL_ROUNDS) {
             handleNextRound();
           } else {
+            console.log('Game useEffect gameend');
             onGameEnd(score);
           }
         }
@@ -202,7 +215,7 @@ function Game({ onGameEnd }) {
     const map = useMap();
     
     useEffect(() => {
-      map.setView(coordinates, 10);
+      map.setView(coordinates);
     }, [coordinates, map]);
     
     return null;
@@ -216,7 +229,7 @@ function Game({ onGameEnd }) {
   };
 
   return (
-    <>
+    <section className="game-page">
       <div className="game-overlay">
         <div className="city-prompt">
           {currentCity ? currentCity.name : 'Caricando...'}
@@ -244,7 +257,6 @@ function Game({ onGameEnd }) {
           )}
         </div>
       </div>
-      
       <MapContainer
         center={[40.1, 9.0]}
         zoom={8}
@@ -275,7 +287,7 @@ function Game({ onGameEnd }) {
           </>
         )}
       </MapContainer>
-    </>
+    </section>
   );
 }
 
@@ -283,18 +295,20 @@ function App() {
   const [gameState, setGameState] = useState('start'); // 'start', 'playing', 'end'
   const [finalScore, setFinalScore] = useState(0);
   const { user } = useAuth();
+  const [refreshData, setRefreshData] = useState(false);
 
   const startGame = () => {
     setGameState('playing');
   };
 
-  const endGame = (score) => {
+  const endGame = async (score) => {
     setFinalScore(score);
     setGameState('end');
     if (user) {
       try {
-        upsertBestScore(user.uid, score);
+        await upsertBestScore(user.uid, score);
         console.log('Punteggio salvato con successo!');
+        setRefreshData((prev) => !prev); // Trigger a refresh of the leaderboard
       } catch (error) {
         console.error('Errore durante il salvataggio del punteggio:', error);
       }
@@ -308,11 +322,11 @@ function App() {
   };
 
   return (
-    <div className="game-container">
+    <>
       {gameState === 'start' && <StartPage onStart={startGame} />}
       {gameState === 'playing' && <Game onGameEnd={endGame} />}
-      {gameState === 'end' && <EndPage score={finalScore} onRestart={restartGame} />}
-    </div>
+      {gameState === 'end' && <EndPage score={finalScore} onRestart={restartGame} refreshData={refreshData} />}
+    </>
   );
 }
 

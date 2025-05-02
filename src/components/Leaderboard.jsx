@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { getLeaderboard } from '../utils/db';
 import { auth } from '../firebase';
 
-export default function Leaderboard({ maxPlayers = 10 }) {
+export default function Leaderboard({ maxPlayers = 10, refreshData }) {
   const [leaderboard, setLeaderboard] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -11,6 +11,7 @@ export default function Leaderboard({ maxPlayers = 10 }) {
     const fetchLeaderboard = async () => {
       try {
         const topPlayers = await getLeaderboard(maxPlayers);
+        console.log('Classifica:', topPlayers);
         setLeaderboard(topPlayers);
         setLoading(false);
       } catch (err) {
@@ -20,7 +21,7 @@ export default function Leaderboard({ maxPlayers = 10 }) {
     };
 
     fetchLeaderboard();
-  }, [maxPlayers]);
+  }, [maxPlayers, refreshData]);
 
   if (loading) {
     return (

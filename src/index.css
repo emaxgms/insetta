@@ -1,5 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid green; */
+  font-weight: 500;
+}
 :root {
-  /* Color palette */
   --primary-color: #8A7240;
   --primary-light: #B89B6A;
   --primary-dark: #5C4B2A;
@@ -11,27 +19,217 @@
   --surface: #FFFFFF;
   --error: #B00020;
   
-  /* Elevation shadows */
   --elevation-1: 0 2px 1px -1px rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.14), 0 1px 3px 0 rgba(0,0,0,0.12);
   --elevation-2: 0 3px 3px -2px rgba(0,0,0,0.2), 0 3px 4px 0 rgba(0,0,0,0.14), 0 1px 8px 0 rgba(0,0,0,0.12);
   --elevation-3: 0 3px 5px -1px rgba(0,0,0,0.2), 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12);
 }
 
-body {
-  margin: 0;
-  font-family: 'Bebas Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  height: 100vh;
-  overflow: hidden;
-  letter-spacing: 1px;
-  background-color: var(--background);
+html{
+  height: 100dvh;
+  width: 100%;
 }
 
+body {
+  height: 100dvh;
+  width: 100%;
+  letter-spacing: 1px;
+  background-color: transparent;
+}
+
+#root {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--primary-text);
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+.start-page, .end-page {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: var(--primary-color);
+  z-index: 3;
+}
+
+h1 {
+  letter-spacing: 2px;
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
+  transition: all 0.3s ease;
+  text-shadow: 2px 3px rgba(0,0,0,0.2);
+}
+h2 {
+  font-size: clamp(1.2rem, 3vw, 1.6rem);
+  transition: all 0.3s ease;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  text-wrap: pretty;
+  text-align: center;
+}
+h3 {
+  font-size: clamp(0.8rem, 2vw, 1rem);
+  transition: all 0.3s ease;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  background-color: var(--secondary-color);
+  color: var(--primary-text);
+  border: none;
+  padding: 11px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: var(--elevation-1);
+  transition: all 0.3s ease;
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  letter-spacing: 1px;
+}
+button:hover {
+  background-color: var(--secondary-dark);
+  transform: translateY(-2px);
+  box-shadow: var(--elevation-2);
+}
+
+button:active {
+  transform: translateY(0);
+  box-shadow: var(--elevation-1);
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+h1:hover, h2:hover, h3:hover {
+  transform: scale(1.05);
+  text-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+.start-page h3:active {
+  transform: scale(0.95);
+}
+
+.end-page h1 {
+  margin-bottom: 20px;
+}
+
+.end-page h2 {
+  margin-bottom: 40px;
+  letter-spacing: 2px;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.logo img{
+  display: flex;
+  max-height: 90px;
+}
+.auth-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto; 
+}
+.login-btns {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.login-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  animation: fadeIn 0.5s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.google-sign-in-btn {
+  background-color: var(--secondary-color); 
+  color: white;
+  opacity: 1;
+  transition: all 0.4s ease;
+}
+.sign-in-btn {
+  background-color: var(--secondary-color); 
+  color: white;
+}
+.google-sign-in-btn:hover {
+  background-color: var(--secondary-dark);
+}
+.login-btns:hover .google-sign-in-btn {
+  opacity: 1; 
+}
+.sign-out-btn {
+  margin-top: 10px;
+  transition: all 0.3s ease;
+  animation: fadeIn 0.5s ease;
+}
+.sign-out-btn:hover {
+  background-color: var(--secondary-dark);
+}
+.intro {
+  gap: 30px;
+}
+.user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  min-height: 138px;
+  min-width: 74px;
+}
+.user-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.user-name {
+}
+.play {
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
+}
+.game-page {
+  overflow: hidden;
+  height: 100%;
+}
 .map-container {
-  height: 100vh;
+  height: 100%;
   width: 100%;
   position: absolute;
   top: 0;
@@ -56,10 +254,8 @@ body {
   left: 50%;
   transform: translateX(-50%);
   background-color: var(--primary-color);
-  color: var(--primary-text);
   padding: 15px 30px;
   border-radius: 30px;
-  font-size: 32px;
   box-shadow: var(--elevation-2);
   pointer-events: none;
   letter-spacing: 2px;
@@ -71,10 +267,8 @@ body {
   left: 50%;
   transform: translateX(-50%);
   background-color: var(--primary-color);
-  color: var(--primary-text);
   padding: 15px 30px;
   border-radius: 30px;
-  font-size: 42px;
   box-shadow: var(--elevation-2);
   pointer-events: none;
   text-align: center;
@@ -82,7 +276,6 @@ body {
 }
 
 .score-display .distance {
-  font-size: 20px;
   margin-top: 5px;
   letter-spacing: 1px;
   opacity: 0.9;
@@ -93,10 +286,8 @@ body {
   bottom: 20px;
   left: 20px;
   background-color: var(--primary-color);
-  color: var(--primary-text);
   padding: 10px 20px;
   border-radius: 20px;
-  font-size: 24px;
   box-shadow: var(--elevation-2);
   pointer-events: none;
   letter-spacing: 1px;
@@ -117,96 +308,6 @@ body {
   align-items: center;
   text-align: center;
 }
-
-.button {
-  background-color: var(--secondary-color);
-  color: var(--primary-text);
-  border: none;
-  padding: 12px 24px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 18px;
-  border-radius: 20px;
-  cursor: pointer;
-  box-shadow: var(--elevation-1);
-  transition: all 0.3s ease;
-  font-family: 'Bebas Neue', sans-serif;
-  letter-spacing: 1px;
-}
-
-.button:hover {
-  background-color: var(--secondary-light);
-  transform: translateY(-2px);
-  box-shadow: var(--elevation-2);
-}
-
-.button:active {
-  transform: translateY(0);
-  box-shadow: var(--elevation-1);
-}
-
-.button:disabled {
-  background-color: #cccccc;
-  cursor: not-allowed;
-  transform: none;
-  box-shadow: none;
-}
-
-/* Stili per le pagine di inizio e fine */
-.start-page, .end-page {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--primary-color);
-  z-index: 3;
-}
-
-.start-page h1 {
-  font-size: 6em;
-  margin: 0;
-  color: var(--primary-text);
-  letter-spacing: 3px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
-}
-
-.start-page h1:hover {
-  transform: scale(1.05);
-  text-shadow: 0 4px 8px rgba(0,0,0,0.3);
-}
-
-.start-page h1:active {
-  transform: scale(0.95);
-}
-
-.end-page h1 {
-  font-size: 4em;
-  margin-bottom: 20px;
-  color: var(--primary-text);
-  letter-spacing: 3px;
-}
-
-.end-page h2 {
-  font-size: 3em;
-  color: var(--primary-text);
-  margin-bottom: 40px;
-  letter-spacing: 2px;
-}
-
-.end-page button {
-  margin: 10px;
-  padding: 15px 30px;
-  font-size: 1.5em;
-}
-
 /* Leaderboard Styles */
 .leaderboard {
   background: rgba(255, 255, 255, 0.9);
@@ -220,7 +321,6 @@ body {
   text-align: center;
   color: #333;
   margin-bottom: 20px;
-  font-size: 24px;
 }
 
 .leaderboard-list {
@@ -247,37 +347,13 @@ body {
   background: #e3f2fd;
   border-left: 4px solid #2196f3;
 }
-.stats-container {
-  display: flex;
-  flex-direction: row; /* Disposizione orizzontale di default */
-  justify-content: space-between;
+.stats {
+  flex-direction: column;
   gap: 20px;
-  position: absolute;
-  bottom: 20px;
-  left: 15px;
-  right: 15px;
-  align-items: flex-end;
-}
-
-/* Stile per dispositivi mobili */
-@media (max-width: 768px) {
-  .stats-container {
-    flex-direction: column; /* Disposizione verticale */
-    align-items: center; /* Centra gli elementi */
-    justify-content: center;
-    position: static; /* Rimuove il posizionamento assoluto */
-    margin: 20px auto; /* Centra il contenitore */
-    gap: 15px; /* Spaziatura tra gli elementi */
-  }
-
-  .leaderboard,
-  .best-score {
-    max-width: 90%; /* Ridimensiona i componenti per adattarli allo schermo */
-  }
+  padding: 20px;
 }
 
 .rank {
-  font-weight: bold;
   width: 40px;
   text-align: center;
   color: #666;
@@ -298,12 +374,10 @@ body {
 }
 
 .player-name {
-  font-weight: 500;
   color: #333;
 }
 
 .score {
-  font-weight: bold;
   color: #2196f3;
   min-width: 60px;
   text-align: right;
@@ -327,97 +401,9 @@ body {
   color: #666;
   padding: 20px;
 } 
-
-/* Auth */
-/* Contenitore principale */
-.auth-container {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: auto; 
-}
-
-/* Immagine dell'utente */
-.user-info {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-.user-avatar {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  object-fit: cover;  /* Rende l'immagine rotonda e adatta */
-  margin-bottom: 10px;
-}
-
-/* Nome dell'utente */
-.user-name {
-  font-size: 18px;
-  font-weight: bold;
-  color: #333;
-  margin-bottom: 10px;
-}
-
-/* Bottoni */
-.auth-container button {
-  padding: 10px 20px;
-  font-size: 16px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-family: 'Bebas Neue', sans-serif;
-  transition: background-color 0.3s ease;
-}
-
-.auth-container:hover .sign-out-btn {
-  visibility: visible;
-  opacity: 1;
-}
-
-.sign-out-btn {
-  background-color: var(--secondary-dark);  /* Rosso per il bottone di logout */
-  color: white;
-  margin-top: 10px;
-  visibility: hidden;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.sign-out-btn:hover {
-  background-color: var(--secondary-color);  /* Colore più scuro al passaggio del mouse */
-}
-
-.google-sign-in-btn {
-  background-color: var(--secondary-color);  /* Colore del bottone di Google */
-  color: white;
-}
-.sign-in-btn {
-  background-color: var(--secondary-color);  /* Colore del bottone di Google */
-  color: white;
-}
-
-.google-sign-in-btn:hover {
-  background-color: var(--secondary-dark);  /* Colore più scuro al passaggio del mouse */
-}
-
 /* Stile del messaggio di loading */
 .loading-message {
-  font-size: 20px;
   color: #555;
-}
-
-.login-btns {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
 }
 
 /* Modal */
@@ -436,22 +422,18 @@ body {
 
 .modal-content {
   background: white;
+  color: #333;
   padding: 20px;
   border-radius: 8px;
-  width: 90%;
+  width: 80%;
   max-width: 400px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   position: relative;
 }
 
 .modal-close {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  background: none;
-  border: none;
-  font-size: 18px;
-  cursor: pointer;
+  flex-direction: row;
+  justify-content: flex-end;
 }
 
 /* Stili per il form di login */
@@ -464,7 +446,6 @@ body {
 
 .form input {
   padding: 10px;
-  font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 5px;
 }
@@ -474,7 +455,6 @@ body {
   color: white;
   border: none;
   padding: 10px;
-  font-size: 16px;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -485,7 +465,7 @@ body {
 
 .error-message {
   color: var(--error);
-  font-size: 14px;
+  font-size: 1rem;
   margin-top: 5px;
 }
 
@@ -525,36 +505,39 @@ body {
 
 /* Stile per il componente BestScore */
 .best-score {
-  background: rgba(255, 255, 255, 0.9); /* Sfondo semi-trasparente */
-  border-radius: 12px; /* Angoli arrotondati */
-  padding: 20px; /* Spaziatura interna */
-  box-shadow: var(--elevation-1); /* Ombra coerente con il resto */
-  max-width: 400px; /* Larghezza massima */
-  text-align: center; /* Testo centrato */
+  background: rgba(255, 255, 255, 0.9); 
+  border-radius: 12px; 
+  padding: 20px; 
+  box-shadow: var(--elevation-1); 
+  max-width: 400px; 
+  text-align: center; 
   height: auto;
   display: inline-block;
 }
 
 .best-score h2 {
-  font-size: 24px; /* Dimensione del titolo */
-  color: var(--secondary-dark); /* Colore del titolo */
-  margin-bottom: 10px; /* Spaziatura sotto il titolo */
+  color: var(--secondary-dark); 
+  margin-bottom: 10px; 
 }
 
 .best-score .score {
-  font-size: 32px; /* Dimensione del punteggio */
-  font-weight: bold; /* Testo in grassetto */
-  color: var(--secondary-color); /* Colore del punteggio */
-  margin-top: 10px; /* Spaziatura sopra il punteggio */
+  color: var(--secondary-color); 
+  margin-top: 10px; 
 }
 
 .best-score.loading .loading-spinner {
-  font-size: 16px; /* Dimensione del testo di caricamento */
-  color: #666; /* Colore del testo di caricamento */
+  color: #666; 
 }
 
 .best-score.error .error-message {
-  font-size: 14px; /* Dimensione del messaggio di errore */
-  color: var(--error); /* Colore del messaggio di errore */
-  margin-top: 10px; /* Spaziatura sopra il messaggio */
+  color: var(--error);
+  margin-top: 10px; 
+}
+
+/* Stile per dispositivi mobili */
+@media (max-width: 768px) {
+  .leaderboard,
+  .best-score {
+    max-width: 90%; /* Ridimensiona i componenti per adattarli allo schermo */
+  }
 }

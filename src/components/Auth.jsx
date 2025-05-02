@@ -1,6 +1,6 @@
 import React from 'react';
 import { useAuth } from '../context/AuthContext';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Modal from './Modal';
 import { createOrUpdateUserProfile } from '../utils/db';
 import avatars from '../data/avatars.json';
@@ -8,7 +8,7 @@ import { Timestamp } from 'firebase/firestore';
 
 export default function Auth() {
   const { user, signInWithGoogle, signInWithEmail, logout, loading, updateUserProfile } = useAuth();
-  const [isHovered, setisHovered] = useState(false);
+  const [isExpanded, setIsExpanded] = useState(false);
   const [isModalLoginOpen, setisModalLoginOpen] = useState(false);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -18,19 +18,37 @@ export default function Auth() {
   const [isModalAvatarOpen, setIsModalAvatarOpen] = useState(false);
   const [avatarSelected, setAvatarSelected] = useState('');
   const [avatarSeed, setAvatarSeed] = useState(Date.now());
+  const wrapperRef = useRef(null);
+  useEffect(() => {
+    console.log('Auth component mounted');
+    function handleClickOutside(event) {
+      if (wrapperRef.current && !wrapperRef.current.contains(event.target)) {
+        setIsExpanded(false);
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('touchstart', handleClickOutside);
+    return () => {
+      console.log('Auth component unmounted');
+      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('touchstart', handleClickOutside);
+    };
+  }, []);
 
   useEffect(() => {
     if (user && !user.displayName) {
       setisModalNameOpen(true);
     }
-    console.log('refresh');
+    setIsExpanded(false);
+    console.log('refresh user');
   }, [user]);
 
-  useEffect(() => { 
-    console.log('Avatar selezionato:', avatarSelected);
-  }, [avatarSelected]);
-  const notHovered = () => {
-    setisHovered(false);
+  useEffect(() => {
+    console.log('expanded:' + isExpanded);
+  }, [isExpanded]);
+
+  const notExpanded = () => {
+    setIsExpanded(false);
   };
 
   const handleSignInEmail = async (e) => {
@@ -49,8 +67,8 @@ export default function Auth() {
   };
 
   const handleLogOut = () => {
+    console.log('Logout utente:');
     logout();
-    setisHovered(false);  
   }
 
   const handleSetUsername = async (firstLogin) => {
@@ -92,47 +110,49 @@ export default function Auth() {
   if (loading) {
     return <div>Caricamento...</div>;
   }
-
+  // {() => {setAvatarSeed(Date.now());setIsModalAvatarOpen(true);}}    Apertura modal cambio Avatar
+  // {() => {setisModalNameOpen(true);}}                  Apertura modal cambio Nome Utente
   return (
     <>
       <div 
         className="auth-container"
-        onMouseOver={() => setisHovered(true)}
-        onMouseOut={() => setisHovered(false)}
+        ref={wrapperRef}
       >
         {user ? (
-          <div className="user-info">
+          <div className="user-info" onClick={() => setIsExpanded(true)}>
             {user.photoURL ?
-              <img src={user.photoURL} alt="Avatar" className="user-avatar" onClick={() => {setAvatarSeed(Date.now());setIsModalAvatarOpen(true);}} title='Avatar del profilo'/>
-              : <div className="default-avatar" onClick={() => {setAvatarSeed(Date.now());setIsModalAvatarOpen(true);}} title='Avatar del profilo'></div>
+              <img src={user.photoURL} alt="Avatar" className="user-avatar" title='Avatar del profilo'/>
+              : <div className="default-avatar" title='Avatar del profilo'></div>
             }  
-            <span className="user-name" title='Aggiorna Username' onClick={() => {setisModalNameOpen(true);}}>{user.displayName}</span>
-            {true && (<button onClick={handleLogOut} className="sign-out-btn" title='Esci dal tuo account'>
+            <span className="user-name" title='Aggiorna Username'>{user.displayName}</span>
+            {isExpanded && <button onClick={handleLogOut} className="sign-out-btn" title='Esci dal tuo account'>
               ESCI
-            </button>)}
+            </button>}
           </div>
         ) : (
-          !isHovered ? (
-            <button className="sign-in-btn" title='Accedi o Registrati'>ACCEDI</button>
-          ) : (
-            <div className="login-btns">
-              <button onClick={signInWithGoogle} className="google-sign-in-btn" title='Registratio o Accedi con Google'>Google</button>
-              <button
-                onClick={() => {
-                  setisModalLoginOpen(true);
-                  setisHovered(false);
-                }}
-                className="google-sign-in-btn"
-                title='Registrati o Accedi con Email'
-              >
-                Email
-              </button>
-            </div>
-          )
+          <div className="login-btns" >
+            {!isExpanded ? (
+              <button onClick={() => setIsExpanded(true)} className="sign-in-btn" title='Accedi o Registrati'>ACCEDI</button>
+            ) : (
+              <div className="login-options">
+                <button onClick={() => {signInWithGoogle();setIsExpanded(false);}} className="google-sign-in-btn" title='Registratio o Accedi con Google'>Google</button>
+                <button
+                  onClick={() => {
+                    setisModalLoginOpen(true);
+                    setIsExpanded(false);
+                  }}
+                  className="google-sign-in-btn"
+                  title='Registrati o Accedi con Email'
+                >
+                  Email
+                </button>
+              </div>
+            )}
+          </div>
         )}
       </div>
       
-      <Modal isOpen={isModalLoginOpen} onNotHovered={notHovered} onClose={() => {setisModalLoginOpen(false);}}>
+      <Modal isOpen={isModalLoginOpen} onNotExpanded={notExpanded} onClose={() => {setisModalLoginOpen(false);}}>
         <h2>Accedi con Email</h2>
         <form onSubmit={handleSignInEmail} className="form">
           <input

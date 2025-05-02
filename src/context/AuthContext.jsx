@@ -1,6 +1,6 @@
 import React, { createContext, useState, useContext, useEffect } from 'react';
 import { auth, googleProvider } from '../firebase';
-import { signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile   } from 'firebase/auth';
+import { GoogleAuthProvider , signInWithPopup, signOut, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, updateProfile, signInWithRedirect   } from 'firebase/auth';
 
 const AuthContext = createContext();
 
@@ -19,8 +19,15 @@ export const AuthProvider = ({ children }) => {
   }, []);
 
   const signInWithGoogle = async () => {
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    console.log('isMobile:', isMobile);
     try {
-      await signInWithPopup(auth, googleProvider);
+      if (isMobile) {
+        const {result} = await signInWithRedirect(auth, googleProvider);
+        console.log('Risultato login:', result);
+      }else{
+        await signInWithPopup(auth, googleProvider);
+      }
     } catch (error) {
       console.error('Errore durante il login:', error);
     }

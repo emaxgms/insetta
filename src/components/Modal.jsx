@@ -6,9 +6,7 @@ export default function Modal({ isOpen, onClose, children }) {
   return (
     <div className="modal-overlay">
       <div className="modal-content">
-        <button className="modal-close" onClick={onClose}>
-          ✖
-        </button>
+        <section className="modal-close"><button onClick={onClose}>✖</button></section>
         {children}
       </div>
     </div>

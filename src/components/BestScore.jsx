@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { getUserBestScore } from '../utils/db';
 import { useAuth } from '../context/AuthContext'; // Usa il contesto
 
-export default function BestScore() {
+export default function BestScore(refreshData) {
   const { user } = useAuth(); // Ottieni l'utente dal contesto
   const [bestScore, setBestScore] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -27,7 +27,7 @@ export default function BestScore() {
     };
 
     fetchBestScore();
-  }, [user]);
+  }, [user, refreshData]);
 
   if (loading) {
     return (

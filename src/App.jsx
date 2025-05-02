@@ -18,7 +18,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
 });
 
-const TOTAL_ROUNDS = 1;
+const TOTAL_ROUNDS = process.env.NODE_ENV === 'development' ? 1 : 8;
 
 function MapClickHandler({ onClick }) {
   useMapEvents({

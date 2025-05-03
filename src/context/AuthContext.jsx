@@ -20,9 +20,13 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (!window.gapi) {
-      console.error('Google API not loaded');
-    }
+    window.google.accounts.id.initialize({
+      client_id: "752286225974-v4oh45b80n5mq9i22uhjdu2b4n77l49s.apps.googleusercontent.com", // <-- Sostituisci con il tuo client ID
+      callback: handleCredentialResponse,
+      ux_mode: 'redirect',
+      login_uri: 'https://intzetta.ema.lat/login-callback',
+      // log_level: 'debug'
+    });
     const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
       setUser(currentUser);
       console.log('Utente attuale:', currentUser);
@@ -46,31 +50,21 @@ export const AuthProvider = ({ children }) => {
     }
   };
   const signInGoogleCredentials = async () => {
+    window.google.accounts.id.prompt((notification) => {
+      if (notification.isNotDisplayed() || notification.isSkippedMoment()) {
+        console.error("⚠️ Login non mostrato:", notification.getNotDisplayedReason());
+      }
+    });
+  };
+  const handleCredentialResponse = async (response) => {
     try {
-      console.log('Iniziando il caricamento di gapi...');
-      // Usa gapi.load per caricare auth2
-      window.gapi.load('auth2', async function() {
-        console.log('gapi loaded');
-        // Inizializza l'istanza di googleAuth
-        const googleAuth = window.gapi.auth2.init({
-          client_id: '752286225974-v4oh45b80n5mq9i22uhjdu2b4n77l49s.apps.googleusercontent.com',  // Sostituisci con il tuo client ID
-        });
-        console.log('googleAuth', googleAuth);
-        // Ora fai il login
-        const googleUser = await googleAuth.signIn({
-          prompt: 'select_account',  // Prova a usare 'select_account' invece di 'popup'
-        });
-        console.log('Google User:', googleUser);
-
-        const idToken = googleUser.getAuthResponse().id_token;
-        console.log('idToken:', idToken);
-
-        const credential = GoogleAuthProvider.credential(idToken);
-        const result = await signInWithCredential(auth, credential);
-        console.log('User signed in:', result.user);
-      });
+      console.log("✅ Response:", response);
+      const idToken = response.credential;
+      const credential = GoogleAuthProvider.credential(idToken);
+      const result = await signInWithCredential(auth, credential);
+      console.log("✅ Login riuscito:", result.user);
     } catch (error) {
-      console.error('Errore nel login:', error);
+      console.error("❌ Errore login Firebase:", error);
     }
   };
   const signInWithEmail = async (email, password) => {

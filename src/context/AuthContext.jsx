@@ -20,13 +20,16 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    window.google.accounts.id.initialize({
-      client_id: "752286225974-v4oh45b80n5mq9i22uhjdu2b4n77l49s.apps.googleusercontent.com", // <-- Sostituisci con il tuo client ID
-      callback: handleCredentialResponse,
-      ux_mode: 'redirect',
-      login_uri: 'https://intzetta.ema.lat/login-callback',
-      // log_level: 'debug'
-    });
+    getRedirectResult(auth)
+      .then((result) => {
+        if (result) {
+          const user = result.user;
+          console.log("✅ Utente autenticato:", user);
+        }
+      })
+      .catch((error) => {
+        console.error("❌ Errore durante il redirect:", error);
+      });
     const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
       setUser(currentUser);
       console.log('Utente attuale:', currentUser);
@@ -39,9 +42,11 @@ export const AuthProvider = ({ children }) => {
   const signInWithGoogle = async () => {
     const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
     console.log('isMobile:', isMobile);
+    setLoading(true);
     try {
-      if (isMobile) {
+      if (true) {
         await signInGoogleCredentials();
+        // await signInWithRedirect(auth, googleProvider);
       }else{
         await signInWithPopup(auth, googleProvider);
       }
@@ -50,9 +55,26 @@ export const AuthProvider = ({ children }) => {
     }
   };
   const signInGoogleCredentials = async () => {
+    window.google.accounts.id.disableAutoSelect();
+    window.google.accounts.id.cancel(); // Resetta sessione pendente
+    window.google.accounts.id.initialize({
+      client_id: "752286225974-v4oh45b80n5mq9i22uhjdu2b4n77l49s.apps.googleusercontent.com", // <-- Sostituisci con il tuo client ID
+      callback: handleCredentialResponse,
+      ux_mode: 'redirect',
+      login_uri: 'https://intzetta.ema.lat/login-callback',
+      auto_select: false,
+      // log_level: 'debug'
+    });
     window.google.accounts.id.prompt((notification) => {
-      if (notification.isNotDisplayed() || notification.isSkippedMoment()) {
-        console.error("⚠️ Login non mostrato:", notification.getNotDisplayedReason());
+      if (notification.isNotDisplayed()) {
+        setLoading(false);
+        console.warn("⚠️ Login non mostrato:", notification.getNotDisplayedReason());
+      } else if (notification.isSkippedMoment()) {
+        console.warn("⚠️ Login saltato:", notification.getSkippedReason());
+        setLoading(false);
+      } else if (notification.isDismissedMoment()) {
+        console.warn("⚠️ Login chiuso:", notification.getDismissedReason());
+        setLoading(false);
       }
     });
   };
@@ -123,6 +145,11 @@ export const AuthProvider = ({ children }) => {
   return (
     <AuthContext.Provider value={{ user, signInWithGoogle, signInWithEmail, logout, loading, updateUserProfile }}>
       {children}
+      {loading && (
+        <div className="overlay">
+          <div className="spinner">Caricamento...</div>
+        </div>
+      )}
     </AuthContext.Provider>
   );
 };

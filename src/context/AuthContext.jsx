@@ -12,6 +12,7 @@ import {
   signInWithRedirect,
   getRedirectResult
 } from 'firebase/auth';
+import { createOrUpdateUserProfile } from '../utils/db';
 
 const AuthContext = createContext();
 

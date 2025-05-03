@@ -9,7 +9,16 @@ export const createOrUpdateUserProfile = async (userId, userData) => {
     lastModifiedDate: new Date(),
   }, { merge: true });
 };
-
+export const checkIfUserExists = async (uid) => {
+  try {
+    const userDocRef = doc(db, 'users', uid);
+    const userDoc = await getDoc(userDocRef);
+    return userDoc.exists(); // Restituisce true se il documento esiste, false altrimenti
+  } catch (error) {
+    console.error('Errore durante il controllo dell\'esistenza del documento:', error);
+    throw error;
+  }
+};
 // Ottieni il profilo utente
 export const getUserProfile = async (userId) => {
   const userRef = doc(db, 'users', userId);

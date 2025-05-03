@@ -12,7 +12,8 @@ import {
   signInWithRedirect,
   getRedirectResult
 } from 'firebase/auth';
-import { createOrUpdateUserProfile } from '../utils/db';
+import { createOrUpdateUserProfile, checkIfUserExists } from '../utils/db';
+import BestScore from '../components/BestScore';
 
 const AuthContext = createContext();
 
@@ -86,7 +87,12 @@ export const AuthProvider = ({ children }) => {
       const credential = GoogleAuthProvider.credential(idToken);
       const result = await signInWithCredential(auth, credential);
       console.log("✅ Login riuscito:", result.user);
-      await createOrUpdateUserProfile(user.uid,{username: user.displayName, photoURL: user.photoURL});
+      await checkIfUserExists(result.user.uid).then(async (exists) => {
+        if (!exists) {
+          console.log("⚠️ Utente non trovato nel database, creazione del profilo...");
+          await createOrUpdateUserProfile(result.user.uid,{username: result.user.displayName, photoURL: result.user.photoURL, bestScore: 0, bestScoreDate: new Date()});
+        }
+      });
     } catch (error) {
       console.error("❌ Errore login Firebase:", error);
     }

@@ -85,6 +85,7 @@ export const AuthProvider = ({ children }) => {
       const credential = GoogleAuthProvider.credential(idToken);
       const result = await signInWithCredential(auth, credential);
       console.log("✅ Login riuscito:", result.user);
+      await createOrUpdateUserProfile(user.uid,{username: user.displayName, photoURL: user.photoURL});
     } catch (error) {
       console.error("❌ Errore login Firebase:", error);
     }

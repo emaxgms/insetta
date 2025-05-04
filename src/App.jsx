@@ -45,6 +45,11 @@ function StartPage({ onStart }) {
         <Leaderboard maxPlayers={5} />
         <BestScore />
       </section>
+      <footer className="legal-links">
+        <a href="/privacy-policy.html" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+        <span className='gap'> | </span>
+        <a href="/terms-of-service.html" target="_blank" rel="noopener noreferrer">Termini di Servizio</a>
+      </footer>
     </div>
   );
 }

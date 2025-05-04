@@ -27,6 +27,7 @@
 html{
   height: 100dvh;
   width: 100%;
+  background-color: var(--primary-color);
 }
 
 body {
@@ -552,7 +553,17 @@ h1:hover, h2:hover, h3:hover {
   color: var(--error);
   margin-top: 10px; 
 }
-
+a {
+  color: var(--primary-text); 
+  text-decoration: none; 
+  transition: color 0.3s; 
+}
+a:hover {
+  text-decoration: underline;
+}
+.gap {
+  font-weight: 200;
+}
 /* Stile per dispositivi mobili */
 @media (max-width: 768px) {
   .leaderboard,
